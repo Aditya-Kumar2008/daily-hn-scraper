@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-01
+**Generated on:** 2026-08-02
 
-### 1. [RamenHaus](https://ramen.haus/)
-**Score:** 60 | **By:** oler | [Comments](https://news.ycombinator.com/item?id=49132460)
+### 1. [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html)
+**Score:** 212 | **By:** Hixon10 | [Comments](https://news.ycombinator.com/item?id=49140218)
 
-### 2. [AI doesn't generate working products, that's still your job](https://weeraman.com/the-prototype-isnt-the-product/)
-**Score:** 34 | **By:** smckk | [Comments](https://news.ycombinator.com/item?id=49132130)
+### 2. [Show HN: I'm a 15 Year Old Wannabe Engineer, This Is a Cycloidal Gearbox I Built](https://github.com/tom-ilan/cycloidal_gearbox)
+**Score:** 163 | **By:** tomilan | [Comments](https://news.ycombinator.com/item?id=49140396)
 
-### 3. [Elevators](https://john.fun/elevators)
-**Score:** 1299 | **By:** Jrh0203 | [Comments](https://news.ycombinator.com/item?id=49124218)
+### 3. [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5)
+**Score:** 338 | **By:** njaremko | [Comments](https://news.ycombinator.com/item?id=49138302)
 
-### 4. [Flint: A Visualization Language for the AI Era](https://microsoft.github.io/flint-chart/)
-**Score:** 120 | **By:** vinhnx | [Comments](https://news.ycombinator.com/item?id=49130604)
+### 4. [MkLinux and the pimped-out Apple Workgroup Server 9150](http://oldvcr.blogspot.com/2026/08/mklinux-and-pimped-out-apple-workgroup.html)
+**Score:** 55 | **By:** goldenskye | [Comments](https://news.ycombinator.com/item?id=49140702)
 
-### 5. [Solid Queue 1.6.0 now supports fiber workers](https://github.com/rails/solid_queue/releases/tag/v1.6.0)
-**Score:** 12 | **By:** earcar | [Comments](https://news.ycombinator.com/item?id=49132083)
+### 5. [Diátaxis](https://diataxis.fr/)
+**Score:** 350 | **By:** ryanseys | [Comments](https://news.ycombinator.com/item?id=49138188)
 
-### 6. [qm – Multiplayer agent harness for work](https://github.com/yc-software/qm)
-**Score:** 572 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49126604)
+### 6. [A big win for Android interoperability](https://www.openhomefoundation.org/blog/a-big-win-for-android-interoperability/)
+**Score:** 86 | **By:** soheilpro | [Comments](https://news.ycombinator.com/item?id=49124051)
 
-### 7. [How to Exist](https://www.raptitude.com/2026/07/how-to-exist/)
-**Score:** 197 | **By:** walterbell | [Comments](https://news.ycombinator.com/item?id=49129990)
+### 7. [I don't recommend Tailwind CSS](https://en.andros.dev/blog/af3ee191/why-i-dont-recommend-tailwind-css/)
+**Score:** 76 | **By:** andros | [Comments](https://news.ycombinator.com/item?id=49141891)
 
-### 8. [The development pipeline is a production system](https://sundry.jerryorr.com/2026/07/31/development-pipeline-is-a-production-system)
-**Score:** 82 | **By:** firefoxd | [Comments](https://news.ycombinator.com/item?id=49130726)
+### 8. [Running Kimi K3 on MI355X at Better Performance per Dollar Than B300](https://www.wafer.ai/blog/kimi-k3-mi355x)
+**Score:** 129 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=49141073)
 
-### 9. [Software for One](https://www.ajwaxman.com/writing/software-for-one)
-**Score:** 112 | **By:** awaxman11 | [Comments](https://news.ycombinator.com/item?id=49096605)
+### 9. [ASRock BC-250: Building the Budget Steam Machine](https://plug-world.com/posts/2026/asrock-bc250-the-budget-steam-machine/)
+**Score:** 61 | **By:** plug_world | [Comments](https://news.ycombinator.com/item?id=49140213)
 
-### 10. [How to Do Great Work](https://paulgraham.com/greatwork.html)
-**Score:** 6 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49132289)
+### 10. [Deep-sea vehicles spot 'alien' sharks deep beneath the waves in the Pacific](https://www.science.org/content/article/deep-sea-vehicles-spot-alien-sharks-deep-beneath-waves-pacific#)
+**Score:** 51 | **By:** pkaeding | [Comments](https://news.ycombinator.com/item?id=49140599)
 
