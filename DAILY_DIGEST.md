@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-03
+**Generated on:** 2026-08-04
 
-### 1. [Don't be a meat proxy](https://gruhn.me/blog/2026-08-03/)
-**Score:** 698 | **By:** ngruhn | [Comments](https://news.ycombinator.com/item?id=49151933)
+### 1. [FFmpeg 9.0](https://github.com/FFmpeg/FFmpeg/blob/n9.0/RELEASE_NOTES)
+**Score:** 119 | **By:** gyan | [Comments](https://news.ycombinator.com/item?id=49166202)
 
-### 2. [Qwen3.8-Max: A New Bar for Coding and Cowork](https://qwen.ai/blog?id=qwen3.8)
-**Score:** 635 | **By:** ai2027 | [Comments](https://news.ycombinator.com/item?id=49150470)
+### 2. [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/)
+**Score:** 975 | **By:** MaxMussio | [Comments](https://news.ycombinator.com/item?id=49161518)
 
-### 3. [Prevent cognitive debt by manually retyping LLM-generated code](https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/)
-**Score:** 78 | **By:** mpweiher | [Comments](https://news.ycombinator.com/item?id=49153374)
+### 3. [Bending Spoons makes first post-IPO acquisition with $1.3B Airtable deal](https://live.euronext.com/en/financial-news/bending-spoons-makes-first-post-ipo-acquisition-13-billion-airtable-deal)
+**Score:** 27 | **By:** riffraff | [Comments](https://news.ycombinator.com/item?id=49166182)
 
-### 4. [Bonsai: Janestreet's UI Library](https://github.com/janestreet/bonsai)
-**Score:** 64 | **By:** KolmogorovComp | [Comments](https://news.ycombinator.com/item?id=49152842)
+### 4. [Harness Engineering for Self-Improvement](https://lilianweng.github.io/posts/2026-07-04-harness/)
+**Score:** 60 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49164896)
 
-### 5. [What DMARC Protects You From, and What It Does Not](https://senderledger.com/articles/what-dmarc-actually-protects-you-from)
-**Score:** 22 | **By:** adulion | [Comments](https://news.ycombinator.com/item?id=49153361)
+### 5. [DeepSeek V4 Flash on a Single AMD MI300X](https://github.com/ryanzhou/deepseek-v4-flash-mi300x)
+**Score:** 5 | **By:** zhoutong | [Comments](https://news.ycombinator.com/item?id=49166386)
 
-### 6. [Rust project goals: Immobile types and guaranteed destructors](https://github.com/rust-lang/rust-project-goals/blob/main/src/2026/move-trait.md)
-**Score:** 89 | **By:** paavohtl | [Comments](https://news.ycombinator.com/item?id=49152023)
+### 6. [Show HN: Run an 80B Qwen in 4.3 GB of RAM on a Mac, and a 35B on an iPhone](https://github.com/leonickson1/Swiftlet)
+**Score:** 188 | **By:** leonickson | [Comments](https://news.ycombinator.com/item?id=49158333)
 
-### 7. [Octane – React's programming model, compiled](https://octanejs.dev)
-**Score:** 29 | **By:** nnx | [Comments](https://news.ycombinator.com/item?id=49152640)
+### 7. [You don't need React: creating a minimal UI library in Vanilla JavaScript](https://pedroth.github.io/?p=post/NoNeedReact)
+**Score:** 39 | **By:** pedro_movai | [Comments](https://news.ycombinator.com/item?id=49165665)
 
-### 8. [The true power of regular expressions (2012)](https://www.npopov.com/2012/06/15/The-true-power-of-regular-expressions.html)
-**Score:** 13 | **By:** uneven9434 | [Comments](https://news.ycombinator.com/item?id=49152973)
+### 8. [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/)
+**Score:** 542 | **By:** milkshakes | [Comments](https://news.ycombinator.com/item?id=49157930)
 
-### 9. [Show HN: Isopolis – Isometric pixel map of SF](https://sf.isopolis.city/)
-**Score:** 237 | **By:** nuwandavek | [Comments](https://news.ycombinator.com/item?id=49149966)
+### 9. [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source)
+**Score:** 615 | **By:** bryanmikaelian | [Comments](https://news.ycombinator.com/item?id=49156111)
 
-### 10. [Train Simulator Controller](https://z80.me/blog/tsc-2026-july/)
-**Score:** 14 | **By:** austinallegro | [Comments](https://news.ycombinator.com/item?id=49115935)
+### 10. [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization)
+**Score:** 156 | **By:** marojejian | [Comments](https://news.ycombinator.com/item?id=49099336)
 
