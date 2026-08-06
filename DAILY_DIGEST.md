@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-05
+**Generated on:** 2026-08-06
 
-### 1. [Stateless MCP has recaptured my interest](https://simonwillison.net/2026/Jul/31/stateless-mcp/)
-**Score:** 228 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49131438)
+### 1. [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
+**Score:** 223 | **By:** DarkContinent | [Comments](https://news.ycombinator.com/item?id=49192566)
 
-### 2. [Helsinki Hacker News Meetup](https://calpaterson.com/helsinki-hn.html)
-**Score:** 22 | **By:** calpaterson | [Comments](https://news.ycombinator.com/item?id=49180407)
+### 2. [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
+**Score:** 99 | **By:** atan2 | [Comments](https://news.ycombinator.com/item?id=49168622)
 
-### 3. [“Gravity is worth asking about”](https://unsung.aresluna.org/gravity-is-worth-asking-about/)
-**Score:** 90 | **By:** nozzlegear | [Comments](https://news.ycombinator.com/item?id=49105978)
+### 3. [Discovery Loop](https://www.discoveryloop.com/)
+**Score:** 761 | **By:** xtreak29 | [Comments](https://news.ycombinator.com/item?id=49184960)
 
-### 4. [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/)
-**Score:** 377 | **By:** luispa | [Comments](https://news.ycombinator.com/item?id=49176038)
+### 4. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
+**Score:** 665 | **By:** colesantiago | [Comments](https://news.ycombinator.com/item?id=49184755)
 
-### 5. [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/)
-**Score:** 426 | **By:** riadsila | [Comments](https://news.ycombinator.com/item?id=49171268)
+### 5. [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
+**Score:** 46 | **By:** msephton | [Comments](https://news.ycombinator.com/item?id=49193314)
 
-### 6. [Show HN: Simple algorithm and color space to generate diverse skin tones](https://toneyalexander.github.io/inclusive-color-space/)
-**Score:** 536 | **By:** automatoney | [Comments](https://news.ycombinator.com/item?id=49170165)
+### 6. [Zed DeltaDB](https://zed.dev/deltadb)
+**Score:** 438 | **By:** ahamez | [Comments](https://news.ycombinator.com/item?id=49187256)
 
-### 7. [Zero-Mem: Zero-Token Memory Operations for LLM Agents](https://arxiv.org/abs/2607.29377)
-**Score:** 43 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=49178608)
+### 7. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
+**Score:** 282 | **By:** ExMachina73 | [Comments](https://news.ycombinator.com/item?id=49189287)
 
-### 8. [The Pneumatics of Hero of Alexandria](https://www.thehopkinthomasproject.com/TheHopkinThomasProject/TimeLine/Wales/Steam/URochesterCollection/Hero/index-2.html)
-**Score:** 32 | **By:** gregsadetsky | [Comments](https://news.ycombinator.com/item?id=49124273)
+### 8. [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
+**Score:** 263 | **By:** paulkrush | [Comments](https://news.ycombinator.com/item?id=49187575)
 
-### 9. [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/)
-**Score:** 116 | **By:** lapcat | [Comments](https://news.ycombinator.com/item?id=49176697)
+### 9. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
+**Score:** 322 | **By:** moonikakiss | [Comments](https://news.ycombinator.com/item?id=49186762)
 
-### 10. [Show HN: Maple-Preview – Ternary 20B MoE running at 120 tok/s on a iPhone](https://deepgrove.ai/maple-preview)
-**Score:** 122 | **By:** edwardbzhang | [Comments](https://news.ycombinator.com/item?id=49173984)
+### 10. [Branchless Rust: Making a Filter 4x Faster by Removing an If](https://www.greyblake.com/blog/branchless-rust/)
+**Score:** 187 | **By:** greyblake | [Comments](https://news.ycombinator.com/item?id=49151991)
 
