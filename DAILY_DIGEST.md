@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-06
+**Generated on:** 2026-08-07
 
-### 1. [Crime Pays but Botany Doesn't](https://www.crimepaysbutbotanydoesnt.com/reading-list)
-**Score:** 223 | **By:** DarkContinent | [Comments](https://news.ycombinator.com/item?id=49192566)
+### 1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
+**Score:** 637 | **By:** itvision | [Comments](https://news.ycombinator.com/item?id=49201970)
 
-### 2. [How to Make a Nintendo 64 Game in 2026](https://phoboslab.org/log/2026/08/xibalba64-making-of)
-**Score:** 99 | **By:** atan2 | [Comments](https://news.ycombinator.com/item?id=49168622)
+### 2. [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
+**Score:** 230 | **By:** boplicity | [Comments](https://news.ycombinator.com/item?id=49204352)
 
-### 3. [Discovery Loop](https://www.discoveryloop.com/)
-**Score:** 761 | **By:** xtreak29 | [Comments](https://news.ycombinator.com/item?id=49184960)
+### 3. [What is a product?](https://roge.onwrite.app/what-is-a-product)
+**Score:** 40 | **By:** rogix | [Comments](https://news.ycombinator.com/item?id=49202690)
 
-### 4. [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/)
-**Score:** 665 | **By:** colesantiago | [Comments](https://news.ycombinator.com/item?id=49184755)
+### 4. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
+**Score:** 406 | **By:** tsak | [Comments](https://news.ycombinator.com/item?id=49199346)
 
-### 5. [Let's all meet up in the Y2K](https://blog.gingerbeardman.com/2026/08/06/lets-all-meet-up-in-the-y2k/)
-**Score:** 46 | **By:** msephton | [Comments](https://news.ycombinator.com/item?id=49193314)
+### 5. [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
+**Score:** 53 | **By:** teleforce | [Comments](https://news.ycombinator.com/item?id=49129015)
 
-### 6. [Zed DeltaDB](https://zed.dev/deltadb)
-**Score:** 438 | **By:** ahamez | [Comments](https://news.ycombinator.com/item?id=49187256)
+### 6. [Parsers don't have to be complicated](https://bkaradzic.github.io/posts/scanner/)
+**Score:** 12 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49095943)
 
-### 7. [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/)
-**Score:** 282 | **By:** ExMachina73 | [Comments](https://news.ycombinator.com/item?id=49189287)
+### 7. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
+**Score:** 219 | **By:** neversaydie | [Comments](https://news.ycombinator.com/item?id=49184355)
 
-### 8. [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2)
-**Score:** 263 | **By:** paulkrush | [Comments](https://news.ycombinator.com/item?id=49187575)
+### 8. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
+**Score:** 122 | **By:** Audiophilip | [Comments](https://news.ycombinator.com/item?id=49202716)
 
-### 9. [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency)
-**Score:** 322 | **By:** moonikakiss | [Comments](https://news.ycombinator.com/item?id=49186762)
+### 9. [Sao Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
+**Score:** 121 | **By:** rmason | [Comments](https://news.ycombinator.com/item?id=49138446)
 
-### 10. [Branchless Rust: Making a Filter 4x Faster by Removing an If](https://www.greyblake.com/blog/branchless-rust/)
-**Score:** 187 | **By:** greyblake | [Comments](https://news.ycombinator.com/item?id=49151991)
+### 10. [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
+**Score:** 395 | **By:** Footkerchief | [Comments](https://news.ycombinator.com/item?id=49198302)
 
