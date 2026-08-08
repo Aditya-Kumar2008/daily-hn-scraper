@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-07
+**Generated on:** 2026-08-08
 
-### 1. [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344)
-**Score:** 637 | **By:** itvision | [Comments](https://news.ycombinator.com/item?id=49201970)
+### 1. [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
+**Score:** 51 | **By:** epestr | [Comments](https://news.ycombinator.com/item?id=49219508)
 
-### 2. [New Mexico court orders Meta to pay $567m over harms to children’s mental health](https://www.theguardian.com/technology/2026/aug/06/new-mexico-court-meta)
-**Score:** 230 | **By:** boplicity | [Comments](https://news.ycombinator.com/item?id=49204352)
+### 2. [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
+**Score:** 158 | **By:** aanet | [Comments](https://news.ycombinator.com/item?id=49189457)
 
-### 3. [What is a product?](https://roge.onwrite.app/what-is-a-product)
-**Score:** 40 | **By:** rogix | [Comments](https://news.ycombinator.com/item?id=49202690)
+### 3. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
+**Score:** 604 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49214008)
 
-### 4. [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left)
-**Score:** 406 | **By:** tsak | [Comments](https://news.ycombinator.com/item?id=49199346)
+### 4. [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
+**Score:** 217 | **By:** moelf | [Comments](https://news.ycombinator.com/item?id=49216946)
 
-### 5. [Atomic Clocks](https://www.nist.gov/atomic-clocks/how-do-atomic-clocks-work)
-**Score:** 53 | **By:** teleforce | [Comments](https://news.ycombinator.com/item?id=49129015)
+### 5. [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
+**Score:** 612 | **By:** RickJWagner | [Comments](https://news.ycombinator.com/item?id=49209539)
 
-### 6. [Parsers don't have to be complicated](https://bkaradzic.github.io/posts/scanner/)
-**Score:** 12 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49095943)
+### 6. [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
+**Score:** 333 | **By:** piotrgrabowski | [Comments](https://news.ycombinator.com/item?id=49214098)
 
-### 7. [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/)
-**Score:** 219 | **By:** neversaydie | [Comments](https://news.ycombinator.com/item?id=49184355)
+### 7. [NASA figured out how to keep its Voyager 2 probe running for another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
+**Score:** 217 | **By:** wglb | [Comments](https://news.ycombinator.com/item?id=49218179)
 
-### 8. [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm)
-**Score:** 122 | **By:** Audiophilip | [Comments](https://news.ycombinator.com/item?id=49202716)
+### 8. [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
+**Score:** 96 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49135261)
 
-### 9. [Sao Paulo resident transforms degraded area into urban forest](https://saopaulosecreto.com/en/tiquatira-linear-park-en/)
-**Score:** 121 | **By:** rmason | [Comments](https://news.ycombinator.com/item?id=49138446)
+### 9. [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
+**Score:** 202 | **By:** aagha | [Comments](https://news.ycombinator.com/item?id=49214770)
 
-### 10. [GitHub Actions and Pages are experiencing degraded availability](https://www.githubstatus.com/incidents/qcvjkzcs7j74)
-**Score:** 395 | **By:** Footkerchief | [Comments](https://news.ycombinator.com/item?id=49198302)
+### 10. [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
+**Score:** 282 | **By:** Meleagris | [Comments](https://news.ycombinator.com/item?id=49217993)
 
