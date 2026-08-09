@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-08
+**Generated on:** 2026-08-09
 
-### 1. [Hardware backdoors in some x86 CPUs](https://github.com/xoreaxeaxeax/rosenbridge)
-**Score:** 51 | **By:** epestr | [Comments](https://news.ycombinator.com/item?id=49219508)
+### 1. [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
+**Score:** 51 | **By:** BruceEel | [Comments](https://news.ycombinator.com/item?id=49228663)
 
-### 2. [A Physicist Rigged His Pet Hamster’s Wheel to Upload to Strava](https://www.runnersworld.com/news/a73355106/hamster-wheel-strava-running/)
-**Score:** 158 | **By:** aanet | [Comments](https://news.ycombinator.com/item?id=49189457)
+### 2. [My server is a phone now](https://seg6.space/posts/phone-server/)
+**Score:** 305 | **By:** seg6 | [Comments](https://news.ycombinator.com/item?id=49226636)
 
-### 3. [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731)
-**Score:** 604 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49214008)
+### 3. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
+**Score:** 152 | **By:** jggonz | [Comments](https://news.ycombinator.com/item?id=49226923)
 
-### 4. [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/)
-**Score:** 217 | **By:** moelf | [Comments](https://news.ycombinator.com/item?id=49216946)
+### 4. [Melatonin impairs morning cognition in healthy young adults (2023)](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
+**Score:** 107 | **By:** bohaska | [Comments](https://news.ycombinator.com/item?id=49227365)
 
-### 5. [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/)
-**Score:** 612 | **By:** RickJWagner | [Comments](https://news.ycombinator.com/item?id=49209539)
+### 5. [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
+**Score:** 133 | **By:** doubletwoyou | [Comments](https://news.ycombinator.com/item?id=49228458)
 
-### 6. [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame)
-**Score:** 333 | **By:** piotrgrabowski | [Comments](https://news.ycombinator.com/item?id=49214098)
+### 6. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
+**Score:** 209 | **By:** bobbiechen | [Comments](https://news.ycombinator.com/item?id=49079995)
 
-### 7. [NASA figured out how to keep its Voyager 2 probe running for another year](https://www.space.com/space-exploration/voyager/nasa-figured-out-how-to-keep-its-48-year-old-voyager-2-probe-running-for-yet-another-year)
-**Score:** 217 | **By:** wglb | [Comments](https://news.ycombinator.com/item?id=49218179)
+### 7. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
+**Score:** 180 | **By:** adletbalzhanov | [Comments](https://news.ycombinator.com/item?id=49226536)
 
-### 8. [SupererDuperer](https://www.shirtpocket.com/blog/supererduperer)
-**Score:** 96 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49135261)
+### 8. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
+**Score:** 403 | **By:** groomlake | [Comments](https://news.ycombinator.com/item?id=49223082)
 
-### 9. [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/)
-**Score:** 202 | **By:** aagha | [Comments](https://news.ycombinator.com/item?id=49214770)
+### 9. [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
+**Score:** 168 | **By:** jmusall | [Comments](https://news.ycombinator.com/item?id=49226742)
 
-### 10. [The Nixpkgs core team has disbanded](https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413)
-**Score:** 282 | **By:** Meleagris | [Comments](https://news.ycombinator.com/item?id=49217993)
+### 10. [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
+**Score:** 11 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49167096)
 
