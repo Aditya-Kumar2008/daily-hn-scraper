@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-09
+**Generated on:** 2026-08-10
 
-### 1. [Microsoft Word for Windows 1.1a, Native X64 Port](https://github.com/jmarshall23/msword)
-**Score:** 51 | **By:** BruceEel | [Comments](https://news.ycombinator.com/item?id=49228663)
+### 1. [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
+**Score:** 172 | **By:** etoxin | [Comments](https://news.ycombinator.com/item?id=49239751)
 
-### 2. [My server is a phone now](https://seg6.space/posts/phone-server/)
-**Score:** 305 | **By:** seg6 | [Comments](https://news.ycombinator.com/item?id=49226636)
+### 2. [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
+**Score:** 212 | **By:** hipparchus | [Comments](https://news.ycombinator.com/item?id=49238561)
 
-### 3. [Os8088: A powerful Mac-like OS for the IBM XT, 286, 386](https://os8088.com/)
-**Score:** 152 | **By:** jggonz | [Comments](https://news.ycombinator.com/item?id=49226923)
+### 3. [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
+**Score:** 66 | **By:** LorenDB | [Comments](https://news.ycombinator.com/item?id=49238818)
 
-### 4. [Melatonin impairs morning cognition in healthy young adults (2023)](https://academic.oup.com/sleep/article/46/Supplement_1/A34/7181621)
-**Score:** 107 | **By:** bohaska | [Comments](https://news.ycombinator.com/item?id=49227365)
+### 4. [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
+**Score:** 76 | **By:** MrRowTheBoat | [Comments](https://news.ycombinator.com/item?id=49238851)
 
-### 5. [The original URL for this prediction will no longer be available in 11 years (2011)](http://longbets.org/601/)
-**Score:** 133 | **By:** doubletwoyou | [Comments](https://news.ycombinator.com/item?id=49228458)
+### 5. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
+**Score:** 626 | **By:** laurentiurad | [Comments](https://news.ycombinator.com/item?id=49234675)
 
-### 6. [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html)
-**Score:** 209 | **By:** bobbiechen | [Comments](https://news.ycombinator.com/item?id=49079995)
+### 6. [An Interesting Fourier Transform – 1/F Noise](https://www.dsprelated.com/showarticle/40.php)
+**Score:** 32 | **By:** q7m | [Comments](https://news.ycombinator.com/item?id=49205082)
 
-### 7. [Shopify replaced Redis with MySQL for inventory reservations–and it scaled](https://shopify.engineering/scaling-inventory-reservations)
-**Score:** 180 | **By:** adletbalzhanov | [Comments](https://news.ycombinator.com/item?id=49226536)
+### 7. [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
+**Score:** 197 | **By:** sbehere | [Comments](https://news.ycombinator.com/item?id=49239021)
 
-### 8. [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/)
-**Score:** 403 | **By:** groomlake | [Comments](https://news.ycombinator.com/item?id=49223082)
+### 8. [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
+**Score:** 88 | **By:** craigkerstiens | [Comments](https://news.ycombinator.com/item?id=49238050)
 
-### 9. [Dithered QR Codes](https://www.andrewt.net/dithered-qr-codes/wtf/)
-**Score:** 168 | **By:** jmusall | [Comments](https://news.ycombinator.com/item?id=49226742)
+### 9. [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
+**Score:** 57 | **By:** dango2506 | [Comments](https://news.ycombinator.com/item?id=49238735)
 
-### 10. [Stylized GGX Shading](https://alexandrelamure.github.io/graphics-posts/stylized-ggx-shading.html)
-**Score:** 11 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49167096)
+### 10. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
+**Score:** 283 | **By:** jader201 | [Comments](https://news.ycombinator.com/item?id=49232253)
 
