@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-10
+**Generated on:** 2026-08-11
 
-### 1. [Docker Sandboxes – Disposable, isolated sandboxes for AI agents](https://www.docker.com/products/docker-sandboxes/)
-**Score:** 172 | **By:** etoxin | [Comments](https://news.ycombinator.com/item?id=49239751)
+### 1. [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
+**Score:** 244 | **By:** swyx | [Comments](https://news.ycombinator.com/item?id=49252179)
 
-### 2. [What Happened to HackerOne?](https://blog.teknogeek.io/posts/what-happened-to-hackerone/)
-**Score:** 212 | **By:** hipparchus | [Comments](https://news.ycombinator.com/item?id=49238561)
+### 2. [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
+**Score:** 243 | **By:** awnird | [Comments](https://news.ycombinator.com/item?id=49250836)
 
-### 3. [Run Android ARM64 VR APKs on Apple Vision Pro](https://github.com/shinyquagsire23/Klepton)
-**Score:** 66 | **By:** LorenDB | [Comments](https://news.ycombinator.com/item?id=49238818)
+### 3. [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
+**Score:** 40 | **By:** mcptokensaver | [Comments](https://news.ycombinator.com/item?id=49253721)
 
-### 4. [Show HN: Voice driven murder mystery, Interview AI suspects with your voice](https://www.whodunnitai.com/)
-**Score:** 76 | **By:** MrRowTheBoat | [Comments](https://news.ycombinator.com/item?id=49238851)
+### 4. [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
+**Score:** 182 | **By:** eatonphil | [Comments](https://news.ycombinator.com/item?id=49251702)
 
-### 5. [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/)
-**Score:** 626 | **By:** laurentiurad | [Comments](https://news.ycombinator.com/item?id=49234675)
+### 5. [LFM2.5 2.6B model competitive with 4x larger models](https://huggingface.co/LiquidAI/LFM2.5-2.6B)
+**Score:** 63 | **By:** nateb2022 | [Comments](https://news.ycombinator.com/item?id=49173107)
 
-### 6. [An Interesting Fourier Transform – 1/F Noise](https://www.dsprelated.com/showarticle/40.php)
-**Score:** 32 | **By:** q7m | [Comments](https://news.ycombinator.com/item?id=49205082)
+### 6. [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
+**Score:** 26 | **By:** gurjeet | [Comments](https://news.ycombinator.com/item?id=49219679)
 
-### 7. [Auto mode is now the default in Claude Code](https://claude.com/blog/auto-mode-default-in-claude-code)
-**Score:** 197 | **By:** sbehere | [Comments](https://news.ycombinator.com/item?id=49239021)
+### 7. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
+**Score:** 182 | **By:** Alen123 | [Comments](https://news.ycombinator.com/item?id=49251179)
 
-### 8. [How We Pushed CDC into Postgres](https://www.snowflake.com/en/blog/engineering/postgres-to-snowflake-replication-mirroring/)
-**Score:** 88 | **By:** craigkerstiens | [Comments](https://news.ycombinator.com/item?id=49238050)
+### 8. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
+**Score:** 318 | **By:** HenryNdubuaku | [Comments](https://news.ycombinator.com/item?id=49246804)
 
-### 9. [Turn satellite imagery into a paper globe you fold yourself](https://foldingglobes.com/)
-**Score:** 57 | **By:** dango2506 | [Comments](https://news.ycombinator.com/item?id=49238735)
+### 9. [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
+**Score:** 499 | **By:** root-parent | [Comments](https://news.ycombinator.com/item?id=49243880)
 
-### 10. [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650)
-**Score:** 283 | **By:** jader201 | [Comments](https://news.ycombinator.com/item?id=49232253)
+### 10. [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
+**Score:** 22 | **By:** aziaziazi | [Comments](https://news.ycombinator.com/item?id=49254880)
 
