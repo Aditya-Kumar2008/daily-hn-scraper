@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-11
+**Generated on:** 2026-08-12
 
-### 1. [H3-metal – Native MiniMax-H3 inference for Apple Silicon](https://github.com/antirez/h3.c)
-**Score:** 244 | **By:** swyx | [Comments](https://news.ycombinator.com/item?id=49252179)
+### 1. [LinkedIn CringeBot 3000](https://www.cringebot3000.com/)
+**Score:** 119 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=49268564)
 
-### 2. [As AI eats the web, the internet’s collective memory is disappearing](https://thewalrus.ca/google-search-is-dying/)
-**Score:** 243 | **By:** awnird | [Comments](https://news.ycombinator.com/item?id=49250836)
+### 2. [The hardest working font in Manhattan (2025)](https://aresluna.org/the-hardest-working-font-in-manhattan/)
+**Score:** 197 | **By:** dcminter | [Comments](https://news.ycombinator.com/item?id=49201953)
 
-### 3. [Show HN: Mcptoon – Token-efficient MCP CLI client](https://github.com/activeing123/mcptoon)
-**Score:** 40 | **By:** mcptokensaver | [Comments](https://news.ycombinator.com/item?id=49253721)
+### 3. [Compression is prediction](https://ngrok.com/blog/compression-is-prediction)
+**Score:** 511 | **By:** nikolay | [Comments](https://news.ycombinator.com/item?id=49263497)
 
-### 4. [Chicken Scheme 6.0](https://code.call-cc.org/releases/6.0.0/NEWS)
-**Score:** 182 | **By:** eatonphil | [Comments](https://news.ycombinator.com/item?id=49251702)
+### 4. [Worms: The Future of Yesterday's Worms Today](https://worm.net/)
+**Score:** 23 | **By:** doener | [Comments](https://news.ycombinator.com/item?id=49208693)
 
-### 5. [LFM2.5 2.6B model competitive with 4x larger models](https://huggingface.co/LiquidAI/LFM2.5-2.6B)
-**Score:** 63 | **By:** nateb2022 | [Comments](https://news.ycombinator.com/item?id=49173107)
+### 5. [llama.cpp](https://llama.app)
+**Score:** 195 | **By:** kristianpaul | [Comments](https://news.ycombinator.com/item?id=49267928)
 
-### 6. [To Save C, We Must Save ABI](https://thephd.dev/to-save-c-we-must-save-abi-fixing-c-function-abi)
-**Score:** 26 | **By:** gurjeet | [Comments](https://news.ycombinator.com/item?id=49219679)
+### 6. [A shell exclamation mark is not for yelling. Be lazy](https://refp.se/articles/your-shell-and-the-lazy-exclamation-mark)
+**Score:** 67 | **By:** refp | [Comments](https://news.ycombinator.com/item?id=49197565)
 
-### 7. [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/)
-**Score:** 182 | **By:** Alen123 | [Comments](https://news.ycombinator.com/item?id=49251179)
+### 7. [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/)
+**Score:** 221 | **By:** EwanG | [Comments](https://news.ycombinator.com/item?id=49265051)
 
-### 8. [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle)
-**Score:** 318 | **By:** HenryNdubuaku | [Comments](https://news.ycombinator.com/item?id=49246804)
+### 8. [The lifesaving secret hidden inside a horseshoe crab's blue blood](https://whdh.com/news/the-lifesaving-secret-hidden-inside-a-horseshoe-crabs-blue-blood-and-the-race-to-protect-the-species/)
+**Score:** 82 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49266921)
 
-### 9. [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878)
-**Score:** 499 | **By:** root-parent | [Comments](https://news.ycombinator.com/item?id=49243880)
+### 9. [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/)
+**Score:** 226 | **By:** droidjj | [Comments](https://news.ycombinator.com/item?id=49263340)
 
-### 10. [France to ban unsolicited telemarketing calls](https://www.lemonde.fr/en/france/article/2026/08/06/france-to-ban-unsolicited-telemarketing-calls-from-august-11_6756208_7.html)
-**Score:** 22 | **By:** aziaziazi | [Comments](https://news.ycombinator.com/item?id=49254880)
+### 10. [The Human Is the Loop](https://brentfitzgerald.com/posts/the-human-is-the-loop/)
+**Score:** 96 | **By:** burnto | [Comments](https://news.ycombinator.com/item?id=49267108)
 
