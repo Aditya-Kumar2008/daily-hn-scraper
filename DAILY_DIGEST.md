@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-13
+**Generated on:** 2026-08-14
 
-### 1. [ChatGPT Desktop (Codex Desktop) for Linux](https://openai.com/codex/)
-**Score:** 87 | **By:** allanrbo | [Comments](https://news.ycombinator.com/item?id=49281916)
+### 1. [GLM-5.3: Frontier coding with emergent cyber capabilities](https://z.ai/blog/glm-5.3)
+**Score:** 403 | **By:** pella | [Comments](https://news.ycombinator.com/item?id=49294997)
 
-### 2. [DeepSeek V4 Pro 0813](https://openrouter.ai/deepseek/deepseek-v4-pro-0813)
-**Score:** 911 | **By:** explosion-s | [Comments](https://news.ycombinator.com/item?id=49274600)
+### 2. [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/)
+**Score:** 815 | **By:** thisisauserid | [Comments](https://news.ycombinator.com/item?id=49289112)
 
-### 3. [Tracking down the 16-year-old WAL-reset SQLite bug](https://tailscale.com/blog/sqlite-wal-reset-bug)
-**Score:** 1023 | **By:** ropbear | [Comments](https://news.ycombinator.com/item?id=49272832)
+### 3. [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai)
+**Score:** 583 | **By:** pr337h4m | [Comments](https://news.ycombinator.com/item?id=49289844)
 
-### 4. [Qwen3.8-2.4T](https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B)
-**Score:** 615 | **By:** Philpax | [Comments](https://news.ycombinator.com/item?id=49273478)
+### 4. [Hello, me. It's been a while](https://themech.net/2026/08/hello-me-its-been-a-while/)
+**Score:** 195 | **By:** somesoftdev | [Comments](https://news.ycombinator.com/item?id=49290166)
 
-### 5. [Italian Bank Stores 400K Wheels of Cheese as Collateral for Farmer Loans](https://travelandtannins.com/an-italian-bank-keeps-400000-wheels-of-cheese-in-a-guarded-vault-and-farmers-borrow-money-against-them-like-gold/)
-**Score:** 14 | **By:** ms7892 | [Comments](https://news.ycombinator.com/item?id=49219428)
+### 5. [Show HN: Lumabri – Run Moe Models on a P2P Swarm with Colibri](https://github.com/JustVugg/lumabri)
+**Score:** 11 | **By:** vforno | [Comments](https://news.ycombinator.com/item?id=49293523)
 
-### 6. [Delta](https://zed.dev/blog/introducing-delta)
-**Score:** 542 | **By:** khy | [Comments](https://news.ycombinator.com/item?id=49276574)
+### 6. [Show HN: C# Game Engine with its own scripting language and IDE](https://github.com/ArcadeMakerSources/ArcadeMaker)
+**Score:** 33 | **By:** am-gm | [Comments](https://news.ycombinator.com/item?id=49258085)
 
-### 7. [Principia Mathematica is modern and insightful](https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html)
-**Score:** 146 | **By:** matt_d | [Comments](https://news.ycombinator.com/item?id=49279928)
+### 7. [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services)
+**Score:** 160 | **By:** danabramov | [Comments](https://news.ycombinator.com/item?id=49293324)
 
-### 8. [Mushroom behind 'tiny people' hallucinations identified](https://phys.org/news/2026-08-qa-mushroom-tiny-people-hallucinations.html)
-**Score:** 133 | **By:** wglb | [Comments](https://news.ycombinator.com/item?id=49218040)
+### 8. [DeepSeek Harness developer preview](https://deepseek.com/harness/en/)
+**Score:** 653 | **By:** bjin | [Comments](https://news.ycombinator.com/item?id=49285244)
 
-### 9. [Antiqua–Fraktur dispute](https://en.wikipedia.org/wiki/Antiqua%E2%80%93Fraktur_dispute)
-**Score:** 79 | **By:** buzzy_hacker | [Comments](https://news.ycombinator.com/item?id=49242698)
+### 9. [Ruby 4.0 Universal RCE Deserialization Gadget Chain](https://www.elttam.com/blog/ruby-4-0-universal-rce-deserialization-gadget-chain)
+**Score:** 21 | **By:** pentestercrab | [Comments](https://news.ycombinator.com/item?id=49295238)
 
-### 10. [The punched card tabulator](https://www.ibm.com/history/punched-card-tabulator)
-**Score:** 8 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49211530)
+### 10. [Eclipse: The Xiaomi 17 Ultra Confuses the Moon and the Sun](https://www.frandroid.com/marques/xiaomi/3211257_photo-de-leclipse-on-a-perce-a-jour-la-petite-triche-du-xiaomi-17-ultra-qui-confond-la-lune-et-le-soleil)
+**Score:** 22 | **By:** n_plus_1_acc | [Comments](https://news.ycombinator.com/item?id=49295515)
 
