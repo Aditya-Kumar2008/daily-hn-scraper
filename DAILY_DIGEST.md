@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-16
+**Generated on:** 2026-08-17
 
-### 1. [What happens when an LLM never sees material beyond fifth grade?](https://littlelearner-ll.github.io/)
-**Score:** 51 | **By:** porridgeraisin | [Comments](https://news.ycombinator.com/item?id=49317760)
+### 1. [Qwen 3.8 27B is excellent, but it defaults to overthinking things](https://simonwillison.net/2026/Aug/16/qwen-38-27b/)
+**Score:** 420 | **By:** bilsbie | [Comments](https://news.ycombinator.com/item?id=49324985)
 
-### 2. [Asus Bike Booster](https://www.asus.com/accessories/bike-booster/asus-oxiis/oxiis-intelligent-bike-booster/)
-**Score:** 345 | **By:** wiradikusuma | [Comments](https://news.ycombinator.com/item?id=49268580)
+### 2. [GIMP Development Update](https://www.gimp.org/news/2026/08/16/dev-update-august-2026/)
+**Score:** 112 | **By:** lumpa | [Comments](https://news.ycombinator.com/item?id=49326156)
 
-### 3. [Asynchronous I/O in DuckDB: Work, Thread, Work](https://duckdb.org/2026/07/31/asynchronous-io)
-**Score:** 137 | **By:** pdet | [Comments](https://news.ycombinator.com/item?id=49243061)
+### 3. [On A.I. regulation and messaging](https://twitter.com/DarioAmodei/status/2088758816376807762)
+**Score:** 38 | **By:** jacquesm | [Comments](https://news.ycombinator.com/item?id=49325789)
 
-### 4. [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432)
-**Score:** 419 | **By:** randycupertino | [Comments](https://news.ycombinator.com/item?id=49311651)
+### 4. [Linear algebra done right](https://linear.axler.net/)
+**Score:** 55 | **By:** the-mitr | [Comments](https://news.ycombinator.com/item?id=49326816)
 
-### 5. [Patterns and problems in emerging multi-agent systems](https://www.anthropic.com/research/multiagent-systems)
-**Score:** 70 | **By:** maxutility | [Comments](https://news.ycombinator.com/item?id=49316271)
+### 5. [A third world engineer responds to “RISC-V: They should have known better”](https://rvembedded.com/blog_post/12/)
+**Score:** 493 | **By:** Narishma | [Comments](https://news.ycombinator.com/item?id=49321717)
 
-### 6. [Software Engineering fundamentals matter more](https://rhonabwy.com/2026/08/15/software-engineering-fundamentals-matter-more-than-ever/)
-**Score:** 112 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49314902)
+### 6. [Anthropic's 'watermark' text adulteration in Claude is a perversion of writing](https://daringfireball.net/2026/08/anthropics_watermark_text_adulteration_in_claude_is_a_perversion_of_writing)
+**Score:** 217 | **By:** ropbear | [Comments](https://news.ycombinator.com/item?id=49324087)
 
-### 7. [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas)
-**Score:** 159 | **By:** felixbraun | [Comments](https://news.ycombinator.com/item?id=49314235)
+### 7. [Reticulum – Decentralized Mesh Network](https://reticulum.network/)
+**Score:** 113 | **By:** sudo_cowsay | [Comments](https://news.ycombinator.com/item?id=49325061)
 
-### 8. [Super El Niño Keeps Growing as New Forecasts Reach Record Territory Ahead Winter](https://www.severe-weather.eu/long-range-2/super-el-nino-growth-accelerating-to-record-strength-fall-winter-2026-2027-forecast-impact-united-states-canada-europe-fa/)
-**Score:** 220 | **By:** dgellow | [Comments](https://news.ycombinator.com/item?id=49313428)
+### 8. [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts)
+**Score:** 642 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49319556)
 
-### 9. [Guiding Ships with Moire Patterns](https://tinkerings.org/2018/03/28/guiding-ships-with-moire-patterns/)
-**Score:** 41 | **By:** Eridanus2 | [Comments](https://news.ycombinator.com/item?id=49315995)
+### 9. [AGI-64 Brings Sierra Adventures to the Commodore 64](https://meanhamster.com/news/agi-64-brings-sierra-adventures-to-the-commodore-64)
+**Score:** 78 | **By:** erickhill | [Comments](https://news.ycombinator.com/item?id=49325714)
 
-### 10. [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/)
-**Score:** 253 | **By:** gmays | [Comments](https://news.ycombinator.com/item?id=49310682)
+### 10. [Show HN: Vocal Slice – Cut audio by selecting text, fully on-device](https://vocalslice.com/)
+**Score:** 34 | **By:** terranivium | [Comments](https://news.ycombinator.com/item?id=49245021)
 
