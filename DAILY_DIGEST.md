@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-18
+**Generated on:** 2026-08-19
 
-### 1. [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/)
-**Score:** 463 | **By:** gavide | [Comments](https://news.ycombinator.com/item?id=49338459)
+### 1. [OpenLogi](https://openlogi.org/en)
+**Score:** 519 | **By:** amatheus | [Comments](https://news.ycombinator.com/item?id=49355606)
 
-### 2. [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol)
-**Score:** 408 | **By:** Topfi | [Comments](https://news.ycombinator.com/item?id=49337602)
+### 2. [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
+**Score:** 25 | **By:** XzetaU8 | [Comments](https://news.ycombinator.com/item?id=49358259)
 
-### 3. [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html)
-**Score:** 314 | **By:** shdon | [Comments](https://news.ycombinator.com/item?id=49338328)
+### 3. [Cerebras CS-4](https://www.cerebras.ai/cs4)
+**Score:** 253 | **By:** sunils34 | [Comments](https://news.ycombinator.com/item?id=49354949)
 
-### 4. [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera)
-**Score:** 174 | **By:** pizzaiolo | [Comments](https://news.ycombinator.com/item?id=49338285)
+### 4. [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
+**Score:** 92 | **By:** matt_d | [Comments](https://news.ycombinator.com/item?id=49355968)
 
-### 5. [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights)
-**Score:** 620 | **By:** ibotty | [Comments](https://news.ycombinator.com/item?id=49330781)
+### 5. [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
+**Score:** 222 | **By:** dabinat | [Comments](https://news.ycombinator.com/item?id=49355105)
 
-### 6. [The Benchmarkpocalypse](https://danluu.com/benchpocalypse/)
-**Score:** 81 | **By:** cyndunlop | [Comments](https://news.ycombinator.com/item?id=49340299)
+### 6. [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
+**Score:** 87 | **By:** CharlesW | [Comments](https://news.ycombinator.com/item?id=49306207)
 
-### 7. [Shattered skeleton is first confirmed death from trebuchet](https://www.science.org/content/article/shattered-skeleton-scottish-castle-first-confirmed-death-trebuchet)
-**Score:** 63 | **By:** hermitcrab | [Comments](https://news.ycombinator.com/item?id=49285139)
+### 7. [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
+**Score:** 459 | **By:** nichochar | [Comments](https://news.ycombinator.com/item?id=49321298)
 
-### 8. [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug)
-**Score:** 365 | **By:** galnagli | [Comments](https://news.ycombinator.com/item?id=49331423)
+### 8. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
+**Score:** 257 | **By:** phoenix120 | [Comments](https://news.ycombinator.com/item?id=49353221)
 
-### 9. [Olo (Color)](https://en.wikipedia.org/wiki/Olo_(color))
-**Score:** 416 | **By:** inigyou | [Comments](https://news.ycombinator.com/item?id=49270194)
+### 9. [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
+**Score:** 36 | **By:** teleforce | [Comments](https://news.ycombinator.com/item?id=49355451)
 
-### 10. [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759)
-**Score:** 207 | **By:** linggen | [Comments](https://news.ycombinator.com/item?id=49334991)
+### 10. [Berd](https://berd.xyz)
+**Score:** 15 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49357967)
 
