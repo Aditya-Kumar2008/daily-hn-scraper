@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-19
+**Generated on:** 2026-08-20
 
-### 1. [OpenLogi](https://openlogi.org/en)
-**Score:** 519 | **By:** amatheus | [Comments](https://news.ycombinator.com/item?id=49355606)
+### 1. [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
+**Score:** 115 | **By:** luu | [Comments](https://news.ycombinator.com/item?id=49371006)
 
-### 2. [Where Human Sleep Went Wrong](https://nautil.us/where-human-sleep-went-wrong-1283797)
-**Score:** 25 | **By:** XzetaU8 | [Comments](https://news.ycombinator.com/item?id=49358259)
+### 2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
+**Score:** 827 | **By:** rvz | [Comments](https://news.ycombinator.com/item?id=49364559)
 
-### 3. [Cerebras CS-4](https://www.cerebras.ai/cs4)
-**Score:** 253 | **By:** sunils34 | [Comments](https://news.ycombinator.com/item?id=49354949)
+### 3. [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
+**Score:** 188 | **By:** mayoff | [Comments](https://news.ycombinator.com/item?id=49369408)
 
-### 4. [Palomar: A registry of Lean verified mathematics](https://terrytao.wordpress.com/2026/08/18/palomar-a-registry-of-lean-verified-mathematics/)
-**Score:** 92 | **By:** matt_d | [Comments](https://news.ycombinator.com/item?id=49355968)
+### 4. [Go 1.27](https://go.dev/blog/go1.27)
+**Score:** 618 | **By:** database64128 | [Comments](https://news.ycombinator.com/item?id=49365405)
 
-### 5. [Scientists stunned by children's lung recovery in ultra low emission zone](https://www.bbc.com/news/articles/c1l1r1zne1ro)
-**Score:** 222 | **By:** dabinat | [Comments](https://news.ycombinator.com/item?id=49355105)
+### 5. [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
+**Score:** 130 | **By:** gavide | [Comments](https://news.ycombinator.com/item?id=49323795)
 
-### 6. [Supersonic Trebuchet [video]](https://www.youtube.com/watch?v=Co57SfcT-h0)
-**Score:** 87 | **By:** CharlesW | [Comments](https://news.ycombinator.com/item?id=49306207)
+### 6. [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023)
+**Score:** 511 | **By:** Animux | [Comments](https://news.ycombinator.com/item?id=49364745)
 
-### 7. [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/)
-**Score:** 459 | **By:** nichochar | [Comments](https://news.ycombinator.com/item?id=49321298)
+### 7. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
+**Score:** 125 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=49362001)
 
-### 8. [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly)
-**Score:** 257 | **By:** phoenix120 | [Comments](https://news.ycombinator.com/item?id=49353221)
+### 8. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
+**Score:** 883 | **By:** kareiva | [Comments](https://news.ycombinator.com/item?id=49360015)
 
-### 9. [The Vietnam Binh Chau (Chau Tan) Late Tang Wreck](https://www.koh-antique.com/client/tangwreck/tangwreck.html)
-**Score:** 36 | **By:** teleforce | [Comments](https://news.ycombinator.com/item?id=49355451)
+### 9. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
+**Score:** 259 | **By:** jonesy827 | [Comments](https://news.ycombinator.com/item?id=49365443)
 
-### 10. [Berd](https://berd.xyz)
-**Score:** 15 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49357967)
+### 10. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
+**Score:** 201 | **By:** 1e1a | [Comments](https://news.ycombinator.com/item?id=49365841)
 
