@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-20
+**Generated on:** 2026-08-21
 
-### 1. [Windows brings out the Rorschach test in everyone](https://devblogs.microsoft.com/oldnewthing/20030825-00/?p=42803)
-**Score:** 115 | **By:** luu | [Comments](https://news.ycombinator.com/item?id=49371006)
+### 1. [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
+**Score:** 34 | **By:** spankibalt | [Comments](https://news.ycombinator.com/item?id=49384896)
 
-### 2. [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/)
-**Score:** 827 | **By:** rvz | [Comments](https://news.ycombinator.com/item?id=49364559)
+### 2. [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
+**Score:** 37 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49384716)
 
-### 3. [Turns are Better than Radians (2022)](https://www.computerenhance.com/p/turns-are-better-than-radians)
-**Score:** 188 | **By:** mayoff | [Comments](https://news.ycombinator.com/item?id=49369408)
+### 3. [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
+**Score:** 493 | **By:** 0xedb | [Comments](https://news.ycombinator.com/item?id=49378957)
 
-### 4. [Go 1.27](https://go.dev/blog/go1.27)
-**Score:** 618 | **By:** database64128 | [Comments](https://news.ycombinator.com/item?id=49365405)
+### 4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
+**Score:** 716 | **By:** Ariarule | [Comments](https://news.ycombinator.com/item?id=49347543)
 
-### 5. [A faster way to calculate the day of the week](https://www.benjoffe.com/fast-day-of-week)
-**Score:** 130 | **By:** gavide | [Comments](https://news.ycombinator.com/item?id=49323795)
+### 5. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
+**Score:** 775 | **By:** encyclopedism | [Comments](https://news.ycombinator.com/item?id=49362689)
 
-### 6. [Google has stopped pushing Git tags for some Android source code](https://grapheneos.social/@GrapheneOS/117057099753905023)
-**Score:** 511 | **By:** Animux | [Comments](https://news.ycombinator.com/item?id=49364745)
+### 6. [Version Control for Everything](https://tyoverby.com/posts/version-control-for-everything-else/)
+**Score:** 27 | **By:** evakhoury | [Comments](https://news.ycombinator.com/item?id=49336358)
 
-### 7. [Manabu Kosaka's Handmade Paper Sculptures](https://coca11272000.wixsite.com/manabukosaka)
-**Score:** 125 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=49362001)
+### 7. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
+**Score:** 483 | **By:** abhisek | [Comments](https://news.ycombinator.com/item?id=49374269)
 
-### 8. [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/)
-**Score:** 883 | **By:** kareiva | [Comments](https://news.ycombinator.com/item?id=49360015)
+### 8. [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
+**Score:** 29 | **By:** wise_blood | [Comments](https://news.ycombinator.com/item?id=49384224)
 
-### 9. [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs)
-**Score:** 259 | **By:** jonesy827 | [Comments](https://news.ycombinator.com/item?id=49365443)
+### 9. [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
+**Score:** 131 | **By:** mtokmak06 | [Comments](https://news.ycombinator.com/item?id=49381896)
 
-### 10. [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/)
-**Score:** 201 | **By:** 1e1a | [Comments](https://news.ycombinator.com/item?id=49365841)
+### 10. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
+**Score:** 272 | **By:** tyre | [Comments](https://news.ycombinator.com/item?id=49377853)
 
