@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-21
+**Generated on:** 2026-08-22
 
-### 1. [The Lost Treasure of Sid Meier's Pirates](https://remapradio.com/articles/the-lost-treasure-of-sid-meiers-pirates/)
-**Score:** 34 | **By:** spankibalt | [Comments](https://news.ycombinator.com/item?id=49384896)
+### 1. [Felony Bench](https://www.felonybench.com/)
+**Score:** 678 | **By:** colinprince | [Comments](https://news.ycombinator.com/item?id=49389430)
 
-### 2. [We Rebuilt the Linux MicroVM Stack on Apple Silicon](https://encore.dev/blog/firecracker-apple-silicon)
-**Score:** 37 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49384716)
+### 2. [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
+**Score:** 161 | **By:** matklad | [Comments](https://news.ycombinator.com/item?id=49393052)
 
-### 3. [The August 17 outage](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/)
-**Score:** 493 | **By:** 0xedb | [Comments](https://news.ycombinator.com/item?id=49378957)
+### 3. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
+**Score:** 526 | **By:** thepoet | [Comments](https://news.ycombinator.com/item?id=49390427)
 
-### 4. [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick)
-**Score:** 716 | **By:** Ariarule | [Comments](https://news.ycombinator.com/item?id=49347543)
+### 4. [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
+**Score:** 363 | **By:** Jach | [Comments](https://news.ycombinator.com/item?id=49395628)
 
-### 5. [HTML Can Do That](https://chrisburnell.com/html-can-do-that/)
-**Score:** 775 | **By:** encyclopedism | [Comments](https://news.ycombinator.com/item?id=49362689)
+### 5. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
+**Score:** 752 | **By:** floathub | [Comments](https://news.ycombinator.com/item?id=49386895)
 
-### 6. [Version Control for Everything](https://tyoverby.com/posts/version-control-for-everything-else/)
-**Score:** 27 | **By:** evakhoury | [Comments](https://news.ycombinator.com/item?id=49336358)
+### 6. [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
+**Score:** 17 | **By:** corysama | [Comments](https://news.ycombinator.com/item?id=49391661)
 
-### 7. [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/)
-**Score:** 483 | **By:** abhisek | [Comments](https://news.ycombinator.com/item?id=49374269)
+### 7. [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
+**Score:** 55 | **By:** tartoran | [Comments](https://news.ycombinator.com/item?id=49397074)
 
-### 8. [The Religious Experience of Philip K. Dick by R. Crumb (1986)](https://philipdick.com/resources/miscellaneous/the-religious-experience-of-philip-k-dick-by-r-crumb-from-weirdo-17/)
-**Score:** 29 | **By:** wise_blood | [Comments](https://news.ycombinator.com/item?id=49384224)
+### 8. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
+**Score:** 531 | **By:** gavide | [Comments](https://news.ycombinator.com/item?id=49387570)
 
-### 9. [Ox Alpha](https://openrouter.ai/stealth/ox-alpha)
-**Score:** 131 | **By:** mtokmak06 | [Comments](https://news.ycombinator.com/item?id=49381896)
+### 9. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
+**Score:** 1105 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=49388154)
 
-### 10. [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/)
-**Score:** 272 | **By:** tyre | [Comments](https://news.ycombinator.com/item?id=49377853)
+### 10. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
+**Score:** 128 | **By:** tdullien | [Comments](https://news.ycombinator.com/item?id=49394496)
 
