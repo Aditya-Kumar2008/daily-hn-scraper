@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-22
+**Generated on:** 2026-08-23
 
-### 1. [Felony Bench](https://www.felonybench.com/)
-**Score:** 678 | **By:** colinprince | [Comments](https://news.ycombinator.com/item?id=49389430)
+### 1. [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
+**Score:** 59 | **By:** userbinator | [Comments](https://news.ycombinator.com/item?id=49406333)
 
-### 2. [Rust Glancer: Rust LSP using 100x less RAM](https://rust-glancer.github.io/blog/hello-world/)
-**Score:** 161 | **By:** matklad | [Comments](https://news.ycombinator.com/item?id=49393052)
+### 2. [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
+**Score:** 41 | **By:** zX41ZdbW | [Comments](https://news.ycombinator.com/item?id=49406387)
 
-### 3. [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/)
-**Score:** 526 | **By:** thepoet | [Comments](https://news.ycombinator.com/item?id=49390427)
+### 3. [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
+**Score:** 101 | **By:** boilerupnc | [Comments](https://news.ycombinator.com/item?id=49405816)
 
-### 4. [There's no reason for software to be slow anymore](https://danluu.com/perf-opt/)
-**Score:** 363 | **By:** Jach | [Comments](https://news.ycombinator.com/item?id=49395628)
+### 4. [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
+**Score:** 100 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49405870)
 
-### 5. [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html)
-**Score:** 752 | **By:** floathub | [Comments](https://news.ycombinator.com/item?id=49386895)
+### 5. [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
+**Score:** 66 | **By:** taubek | [Comments](https://news.ycombinator.com/item?id=49406539)
 
-### 6. [Optimizing meshoptimizer to process billions of triangles in minutes (2025)](https://zeux.io/2025/09/30/billions-of-triangles-in-minutes/)
-**Score:** 17 | **By:** corysama | [Comments](https://news.ycombinator.com/item?id=49391661)
+### 6. [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
+**Score:** 57 | **By:** Sir_Twist | [Comments](https://news.ycombinator.com/item?id=49405682)
 
-### 7. [Canada will match US tariffs 'dollar for dollar' as trade talks break down](https://www.bbc.com/news/articles/cvgvyy4x2mvo)
-**Score:** 55 | **By:** tartoran | [Comments](https://news.ycombinator.com/item?id=49397074)
+### 7. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
+**Score:** 319 | **By:** felineflock | [Comments](https://news.ycombinator.com/item?id=49402232)
 
-### 8. [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa)
-**Score:** 531 | **By:** gavide | [Comments](https://news.ycombinator.com/item?id=49387570)
+### 8. [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
+**Score:** 67 | **By:** cocacola1 | [Comments](https://news.ycombinator.com/item?id=49405331)
 
-### 9. [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296)
-**Score:** 1105 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=49388154)
+### 9. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
+**Score:** 367 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49402189)
 
-### 10. [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/)
-**Score:** 128 | **By:** tdullien | [Comments](https://news.ycombinator.com/item?id=49394496)
+### 10. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
+**Score:** 389 | **By:** jemoka | [Comments](https://news.ycombinator.com/item?id=49400408)
 
