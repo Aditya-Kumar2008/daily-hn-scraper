@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-23
+**Generated on:** 2026-08-24
 
-### 1. [The End of an Athlon](http://www.os2museum.com/wp/the-end-of-an-athlon/)
-**Score:** 59 | **By:** userbinator | [Comments](https://news.ycombinator.com/item?id=49406333)
+### 1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
+**Score:** 816 | **By:** schlarpc | [Comments](https://news.ycombinator.com/item?id=49413320)
 
-### 2. [JIT Compiling Code in 5μs](https://malisper.me/jit-compiling-code-in-5-us/)
-**Score:** 41 | **By:** zX41ZdbW | [Comments](https://news.ycombinator.com/item?id=49406387)
+### 2. [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
+**Score:** 30 | **By:** dabinat | [Comments](https://news.ycombinator.com/item?id=49415893)
 
-### 3. [MartyPC is a cross-platform emulator of early PCs written in Rust](https://martypc.net/)
-**Score:** 101 | **By:** boilerupnc | [Comments](https://news.ycombinator.com/item?id=49405816)
+### 3. [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
+**Score:** 68 | **By:** bilsbie | [Comments](https://news.ycombinator.com/item?id=49412396)
 
-### 4. [To become a better writer, read as much as you can](https://nappertime.com/the-golden-rule-of-becoming-a-better-writer/)
-**Score:** 100 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49405870)
+### 4. [Anthropic Claude and API service outages](https://status.claude.com/uptime)
+**Score:** 43 | **By:** vikrantrathore | [Comments](https://news.ycombinator.com/item?id=49415907)
 
-### 5. [Wi-Fi 8 is the first wireless upgrade in years that isn't chasing speed](https://www.xda-developers.com/wi-fi-8-first-wireless-upgrade-years-isnt-chasing-speed-home-networks-need-it/)
-**Score:** 66 | **By:** taubek | [Comments](https://news.ycombinator.com/item?id=49406539)
+### 5. [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
+**Score:** 22 | **By:** firefoxd | [Comments](https://news.ycombinator.com/item?id=49416200)
 
-### 6. [I Dream of Quieter Computing](https://henry.codes/writing/i-dream-of-quieter-computing/)
-**Score:** 57 | **By:** Sir_Twist | [Comments](https://news.ycombinator.com/item?id=49405682)
+### 6. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
+**Score:** 478 | **By:** naves | [Comments](https://news.ycombinator.com/item?id=49411102)
 
-### 7. [Why your local LLM feels dumber than it is](https://forum.level1techs.com/t/why-your-local-llm-feels-dumber-than-it-is/253917)
-**Score:** 319 | **By:** felineflock | [Comments](https://news.ycombinator.com/item?id=49402232)
+### 7. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
+**Score:** 399 | **By:** vanpra | [Comments](https://news.ycombinator.com/item?id=49411643)
 
-### 8. [The Art and Beauty of Blade Runner (2015)](https://nappertime.com/the-art-of-and-beauty-of-blade-runner/)
-**Score:** 67 | **By:** cocacola1 | [Comments](https://news.ycombinator.com/item?id=49405331)
+### 8. [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
+**Score:** 17 | **By:** thiagolima | [Comments](https://news.ycombinator.com/item?id=49415852)
 
-### 9. [Scrap (2006)](https://twitter.com/moxie/status/2091218652133732491)
-**Score:** 367 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49402189)
+### 9. [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
+**Score:** 83 | **By:** austinallegro | [Comments](https://news.ycombinator.com/item?id=49415621)
 
-### 10. [ElevenLabs, TwelveLabs, ThirteenLabs](https://quantumi.sh/public/labs.html)
-**Score:** 389 | **By:** jemoka | [Comments](https://news.ycombinator.com/item?id=49400408)
+### 10. [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
+**Score:** 134 | **By:** pantelisk | [Comments](https://news.ycombinator.com/item?id=49413561)
 
