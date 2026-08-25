@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-24
+**Generated on:** 2026-08-25
 
-### 1. [Everything I own, owned](https://schlarp.com/posts/everything-i-own-owned/)
-**Score:** 816 | **By:** schlarpc | [Comments](https://news.ycombinator.com/item?id=49413320)
+### 1. [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm)
+**Score:** 433 | **By:** K7PJP | [Comments](https://news.ycombinator.com/item?id=49426564)
 
-### 2. [FDA clears blood test to aid evaluation for Alzheimer's disease](https://medicine.washu.edu/news/fda-clears-blood-test-to-aid-evaluation-for-alzheimers-disease/)
-**Score:** 30 | **By:** dabinat | [Comments](https://news.ycombinator.com/item?id=49415893)
+### 2. [Nostr is an inclusive communication commons](https://nostr.org/)
+**Score:** 128 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49399722)
 
-### 3. [I were 17, I'd learn how to build LLMs from scratch](https://twitter.com/paulg/status/2091544343589060625)
-**Score:** 68 | **By:** bilsbie | [Comments](https://news.ycombinator.com/item?id=49412396)
+### 3. [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926)
+**Score:** 849 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49420873)
 
-### 4. [Anthropic Claude and API service outages](https://status.claude.com/uptime)
-**Score:** 43 | **By:** vikrantrathore | [Comments](https://news.ycombinator.com/item?id=49415907)
+### 4. [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/)
+**Score:** 693 | **By:** ComputerGuru | [Comments](https://news.ycombinator.com/item?id=49421158)
 
-### 5. [The Work Number: credit score but for your employment history – by Equifax](https://employees.theworknumber.com)
-**Score:** 22 | **By:** firefoxd | [Comments](https://news.ycombinator.com/item?id=49416200)
+### 5. [How Universities Should Prepare Founders](https://paulgraham.com/prepare.html)
+**Score:** 109 | **By:** gmays | [Comments](https://news.ycombinator.com/item?id=49428121)
 
-### 6. [Anthropic's best AI model struggles to attract users as cheaper tools thrive](https://www.ft.com/content/5ee49718-c258-4f01-aa32-7e5b76ae5245)
-**Score:** 478 | **By:** naves | [Comments](https://news.ycombinator.com/item?id=49411102)
+### 6. [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs)
+**Score:** 1303 | **By:** l-one-lone | [Comments](https://news.ycombinator.com/item?id=49419237)
 
-### 7. [How I find problems to solve as a staff engineer](https://lalitm.com/post/find-problems-staff-engineer/)
-**Score:** 399 | **By:** vanpra | [Comments](https://news.ycombinator.com/item?id=49411643)
+### 7. [SiFive's First Server Platform](https://chipsandcheese.com/p/sifives-first-server-platform)
+**Score:** 39 | **By:** geerlingguy | [Comments](https://news.ycombinator.com/item?id=49428638)
 
-### 8. [OCR It – pull text out of un-copyable documents for your LLM](https://github.com/thiagotigaz/ocr-it)
-**Score:** 17 | **By:** thiagolima | [Comments](https://news.ycombinator.com/item?id=49415852)
+### 8. [Headlong: A Microharness for Persistent Agents](https://www.laude.org/updates/headlong-a-microharness-for-persistent-agents)
+**Score:** 50 | **By:** lbw1215 | [Comments](https://news.ycombinator.com/item?id=49428882)
 
-### 9. [New EU-wide product repair rules come into force](https://www.rte.ie/news/business/2026/0824/1588931-repair-rules/)
-**Score:** 83 | **By:** austinallegro | [Comments](https://news.ycombinator.com/item?id=49415621)
+### 9. [Moon (2024)](https://ciechanow.ski/moon/)
+**Score:** 172 | **By:** simonebrunozzi | [Comments](https://news.ycombinator.com/item?id=49426466)
 
-### 10. [I built a low-latency AI companion that plays Skyrim with me](https://pantel.is/projects/ai-gaming-companion/)
-**Score:** 134 | **By:** pantelisk | [Comments](https://news.ycombinator.com/item?id=49413561)
+### 10. [The entire city of San Francisco as a video game](https://sf.thijs.gg/)
+**Score:** 443 | **By:** centrosphere | [Comments](https://news.ycombinator.com/item?id=49422784)
 
