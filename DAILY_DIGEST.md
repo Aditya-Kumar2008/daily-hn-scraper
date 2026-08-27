@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-26
+**Generated on:** 2026-08-27
 
-### 1. [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/)
-**Score:** 1118 | **By:** interpol_p | [Comments](https://news.ycombinator.com/item?id=49433292)
+### 1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
+**Score:** 138 | **By:** TangerineDream | [Comments](https://news.ycombinator.com/item?id=49468083)
 
-### 2. [Stalking the Wily Hacker: 40 years later – Cliff Stoll [video]](https://www.youtube.com/watch?v=656058JxTM0)
-**Score:** 79 | **By:** zoenolan | [Comments](https://news.ycombinator.com/item?id=49395802)
+### 2. [507 Mechanical Movements](https://507movements.com/)
+**Score:** 326 | **By:** helloplanets | [Comments](https://news.ycombinator.com/item?id=49465169)
 
-### 3. [Harvest (IBM 7950): Supercomputer for cryptanalysis at the NSA in the Cold War](https://spectrum.ieee.org/cold-war-codebreaker-nsa-ibm)
-**Score:** 32 | **By:** jnord | [Comments](https://news.ycombinator.com/item?id=49444232)
+### 3. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
+**Score:** 176 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49466917)
 
-### 4. [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar)
-**Score:** 378 | **By:** sunnynagra | [Comments](https://news.ycombinator.com/item?id=49439017)
+### 4. [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
+**Score:** 40 | **By:** saretup | [Comments](https://news.ycombinator.com/item?id=49467922)
 
-### 5. [Queryable Executables](https://fzakaria.com/2026/08/24/actually-queryable-executables)
-**Score:** 164 | **By:** rguiscard | [Comments](https://news.ycombinator.com/item?id=49442589)
+### 5. [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
+**Score:** 83 | **By:** knackers | [Comments](https://news.ycombinator.com/item?id=49466006)
 
-### 6. [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia)
-**Score:** 464 | **By:** bmulholland | [Comments](https://news.ycombinator.com/item?id=49434378)
+### 6. [Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)
+**Score:** 78 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49466894)
 
-### 7. [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/)
-**Score:** 765 | **By:** interpol_p | [Comments](https://news.ycombinator.com/item?id=49433316)
+### 7. [Microduck](https://pollen-robotics.com/microduck/)
+**Score:** 360 | **By:** robotswantdata | [Comments](https://news.ycombinator.com/item?id=49462763)
 
-### 8. [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590)
-**Score:** 236 | **By:** raattgift | [Comments](https://news.ycombinator.com/item?id=49437210)
+### 8. [M5Stack Launches PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
+**Score:** 14 | **By:** marksully | [Comments](https://news.ycombinator.com/item?id=49468593)
 
-### 9. [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao)
-**Score:** 77 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49441666)
-
-### 10. [When str.lower() is a security vulnerability in Python](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability)
-**Score:** 117 | **By:** rbanffy | [Comments](https://news.ycombinator.com/item?id=49440410)
+### 9. [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
+**Score:** 119 | **By:** RahulMJ | [Comments](https://news.ycombinator.com/item?id=49464543)
 
