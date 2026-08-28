@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-27
+**Generated on:** 2026-08-28
 
-### 1. [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/)
-**Score:** 138 | **By:** TangerineDream | [Comments](https://news.ycombinator.com/item?id=49468083)
+### 1. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+**Score:** 300 | **By:** ckardaris | [Comments](https://news.ycombinator.com/item?id=49479837)
 
-### 2. [507 Mechanical Movements](https://507movements.com/)
-**Score:** 326 | **By:** helloplanets | [Comments](https://news.ycombinator.com/item?id=49465169)
+### 2. [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
+**Score:** 140 | **By:** avsm | [Comments](https://news.ycombinator.com/item?id=49480466)
 
-### 3. [Small Models Have Arrived](https://calv.info/small-models-have-arrived)
-**Score:** 176 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49466917)
+### 3. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+**Score:** 301 | **By:** rmsaksida | [Comments](https://news.ycombinator.com/item?id=49478178)
 
-### 4. [Gemini Omni 1.1 Flash](https://blog.google/innovation-and-ai/technology/developers-tools/build-with-gemini-omni-1-1-flash/)
-**Score:** 40 | **By:** saretup | [Comments](https://news.ycombinator.com/item?id=49467922)
+### 4. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+**Score:** 338 | **By:** exiguus | [Comments](https://news.ycombinator.com/item?id=49477854)
 
-### 5. [Decompiling a Nintendo 64 game in 84 days](https://blog.chrislewis.au/decompiling-a-nintendo-64-game-in-84-days/)
-**Score:** 83 | **By:** knackers | [Comments](https://news.ycombinator.com/item?id=49466006)
+### 5. [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
+**Score:** 316 | **By:** smoser | [Comments](https://news.ycombinator.com/item?id=49477564)
 
-### 6. [Suica, Japan's First IC Transit Card](https://www.tokyodev.com/articles/the-story-of-suica)
-**Score:** 78 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49466894)
+### 6. [Curvature Beziers](https://acko.net/blog/curvature-beziers/)
+**Score:** 20 | **By:** leephillips | [Comments](https://news.ycombinator.com/item?id=49422743)
 
-### 7. [Microduck](https://pollen-robotics.com/microduck/)
-**Score:** 360 | **By:** robotswantdata | [Comments](https://news.ycombinator.com/item?id=49462763)
+### 7. [The Analytical AI Handbook](https://handbook.sutro.sh)
+**Score:** 11 | **By:** sethkim | [Comments](https://news.ycombinator.com/item?id=49482925)
 
-### 8. [M5Stack Launches PaperMono](https://shop.m5stack.com/blogs/news/m5stack-launches-papermono-a-compact-e-ink-development-terminal-for-connected-projects)
-**Score:** 14 | **By:** marksully | [Comments](https://news.ycombinator.com/item?id=49468593)
+### 8. [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
+**Score:** 34 | **By:** stephenchung | [Comments](https://news.ycombinator.com/item?id=49481455)
 
-### 9. [Emacs 31: An unofficial guide to Markdown-ts-mode](https://rahuljuliato.com/posts/markdown-ts-mode-emacs-31)
-**Score:** 119 | **By:** RahulMJ | [Comments](https://news.ycombinator.com/item?id=49464543)
+### 9. [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
+**Score:** 396 | **By:** jeudesprits | [Comments](https://news.ycombinator.com/item?id=49479878)
+
+### 10. [Barrier lake continues to pose flood risk, China warns](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
+**Score:** 64 | **By:** r721 | [Comments](https://news.ycombinator.com/item?id=49479898)
 
