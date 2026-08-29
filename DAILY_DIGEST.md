@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-28
+**Generated on:** 2026-08-29
 
-### 1. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-**Score:** 300 | **By:** ckardaris | [Comments](https://news.ycombinator.com/item?id=49479837)
+### 1. [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
+**Score:** 150 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49489057)
 
-### 2. [Just the rumour of a bug is enough to find an exploit these days](https://anil.recoil.org/notes/rumour-is-the-exploit)
-**Score:** 140 | **By:** avsm | [Comments](https://news.ycombinator.com/item?id=49480466)
+### 2. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
+**Score:** 147 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49487341)
 
-### 3. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-**Score:** 301 | **By:** rmsaksida | [Comments](https://news.ycombinator.com/item?id=49478178)
+### 3. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
+**Score:** 887 | **By:** ckardaris | [Comments](https://news.ycombinator.com/item?id=49479837)
 
-### 4. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
-**Score:** 338 | **By:** exiguus | [Comments](https://news.ycombinator.com/item?id=49477854)
+### 4. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
+**Score:** 315 | **By:** hentrep | [Comments](https://news.ycombinator.com/item?id=49485267)
 
-### 5. [Inception-style curved map for turn-by-turn directions](https://www.orbify.eu/demo/)
-**Score:** 316 | **By:** smoser | [Comments](https://news.ycombinator.com/item?id=49477564)
+### 5. [Europe's last regular standard-gauge steam passenger service](https://parowozowniawolsztyn.pl/?page_id=2141)
+**Score:** 67 | **By:** GungulSurm | [Comments](https://news.ycombinator.com/item?id=49456819)
 
-### 6. [Curvature Beziers](https://acko.net/blog/curvature-beziers/)
-**Score:** 20 | **By:** leephillips | [Comments](https://news.ycombinator.com/item?id=49422743)
+### 6. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
+**Score:** 713 | **By:** rmsaksida | [Comments](https://news.ycombinator.com/item?id=49478178)
 
-### 7. [The Analytical AI Handbook](https://handbook.sutro.sh)
-**Score:** 11 | **By:** sethkim | [Comments](https://news.ycombinator.com/item?id=49482925)
+### 7. [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
+**Score:** 49 | **By:** birdculture | [Comments](https://news.ycombinator.com/item?id=49450782)
 
-### 8. [Autonomous Mathematical Discovery in an Open-World Multi-Agent Environment](https://arxiv.org/abs/2608.23691)
-**Score:** 34 | **By:** stephenchung | [Comments](https://news.ycombinator.com/item?id=49481455)
+### 8. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
+**Score:** 638 | **By:** exiguus | [Comments](https://news.ycombinator.com/item?id=49477854)
 
-### 9. [GLM-5.3 is now open-weight](https://huggingface.co/zai-org/GLM-5.3)
-**Score:** 396 | **By:** jeudesprits | [Comments](https://news.ycombinator.com/item?id=49479878)
+### 9. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
+**Score:** 142 | **By:** thclpr | [Comments](https://news.ycombinator.com/item?id=49486081)
 
-### 10. [Barrier lake continues to pose flood risk, China warns](https://kathmandupost.com/national/2026/08/28/barrier-lake-continues-to-pose-flood-risk-china-warns)
-**Score:** 64 | **By:** r721 | [Comments](https://news.ycombinator.com/item?id=49479898)
+### 10. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
+**Score:** 50 | **By:** ostacke | [Comments](https://news.ycombinator.com/item?id=49424320)
 
