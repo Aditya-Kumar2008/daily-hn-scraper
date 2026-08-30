@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-29
+**Generated on:** 2026-08-30
 
-### 1. [Iceland votes on whether to restart talks on joining EU](https://www.bbc.com/news/articles/cn45vdxyvvlo)
-**Score:** 150 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49489057)
+### 1. [Claude Session URL appended to commit messages and PR descriptions by default](https://github.com/anthropics/claude-code/issues/66504)
+**Score:** 48 | **By:** sparsesignal | [Comments](https://news.ycombinator.com/item?id=49498201)
 
-### 2. [Samsung's Processing-in-Memory (PIM)](https://chipsandcheese.com/p/hot-chips-2026-samsungs-processing)
-**Score:** 147 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49487341)
+### 2. [Hacking IKEA Furniture](https://greenlightning.eu/diy/hacking-ikea-furniture/)
+**Score:** 33 | **By:** greenlightning | [Comments](https://news.ycombinator.com/item?id=49497810)
 
-### 3. [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html)
-**Score:** 887 | **By:** ckardaris | [Comments](https://news.ycombinator.com/item?id=49479837)
+### 3. [Arbitrary code execution in QubesOS via copy-to-VM error reporting backchannel](https://www.qubes-os.org/news/2026/08/29/qsb-118/)
+**Score:** 98 | **By:** vntok | [Comments](https://news.ycombinator.com/item?id=49496918)
 
-### 4. [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli)
-**Score:** 315 | **By:** hentrep | [Comments](https://news.ycombinator.com/item?id=49485267)
+### 4. [Longest Straight Line Paths on Water or Land on the Earth (2018)](https://arxiv.org/abs/1804.07389)
+**Score:** 123 | **By:** joebig | [Comments](https://news.ycombinator.com/item?id=49496782)
 
-### 5. [Europe's last regular standard-gauge steam passenger service](https://parowozowniawolsztyn.pl/?page_id=2141)
-**Score:** 67 | **By:** GungulSurm | [Comments](https://news.ycombinator.com/item?id=49456819)
+### 5. [Casey Muratori – The Root of the Root of All Evil – BSC 2026 [video]](https://www.youtube.com/watch?v=hpj6r6CjJf8)
+**Score:** 70 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=49463888)
 
-### 6. [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released)
-**Score:** 713 | **By:** rmsaksida | [Comments](https://news.ycombinator.com/item?id=49478178)
+### 6. [Brits would quite like their private messages to stay private](https://www.theregister.com/security/2026/08/30/turns-out-brits-would-quite-like-their-private-messages-to-stay-private/5292994)
+**Score:** 186 | **By:** defrost | [Comments](https://news.ycombinator.com/item?id=49497063)
 
-### 7. [Hunting Down a Go Runtime Bug on 32-Bit Embedded Systems](https://sigma-star.at/blog/2026/08/go-runtime-netpoll-bug/)
-**Score:** 49 | **By:** birdculture | [Comments](https://news.ycombinator.com/item?id=49450782)
+### 7. [An implementation of Conway's Game of Life for Windows 3.1x and later](https://www.muppetlabs.com/~breadbox/software/windows.html)
+**Score:** 11 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49497819)
 
-### 8. [U.S. sanctions against the A/I Collective](https://www.inventati.org/)
-**Score:** 638 | **By:** exiguus | [Comments](https://news.ycombinator.com/item?id=49477854)
+### 8. [One Nix flake to rule them all](https://fzakaria.com/2026/08/28/one-flake-to-rule-them-all)
+**Score:** 19 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49497712)
 
-### 9. [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck)
-**Score:** 142 | **By:** thclpr | [Comments](https://news.ycombinator.com/item?id=49486081)
+### 9. [monty-go: Pure-Go wrapper for Pydantic's Monty Python Interpreter](https://github.com/fugue-labs/monty-go)
+**Score:** 12 | **By:** networked | [Comments](https://news.ycombinator.com/item?id=49497928)
 
-### 10. [Glacier Mice](https://en.wikipedia.org/wiki/Glacier_mice)
-**Score:** 50 | **By:** ostacke | [Comments](https://news.ycombinator.com/item?id=49424320)
+### 10. [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/)
+**Score:** 227 | **By:** lumpa | [Comments](https://news.ycombinator.com/item?id=49425252)
 
