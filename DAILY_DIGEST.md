@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-08-31
+**Generated on:** 2026-09-01
 
-### 1. [Playa Phone](https://playaphone.com/)
-**Score:** 66 | **By:** cutoff | [Comments](https://news.ycombinator.com/item?id=49510514)
+### 1. [AnkiDroid: Google Play no longer allowing Open Collective donation link](https://github.com/ankidroid/Anki-Android/issues/21656)
+**Score:** 291 | **By:** hexa555 | [Comments](https://news.ycombinator.com/item?id=49520022)
 
-### 2. [OpenShot 4.0: Record, Edit, and Color Like Never Before](https://www.openshot.org/blog/2026/08/30/openshot-40-record-edit-color-like-never-before/)
-**Score:** 378 | **By:** metrofun | [Comments](https://news.ycombinator.com/item?id=49507822)
+### 2. [44% on ARC-AGI-1 in 67 cents](https://mvakde.github.io/blog/44-on-arc-1/)
+**Score:** 132 | **By:** porridgeraisin | [Comments](https://news.ycombinator.com/item?id=49519939)
 
-### 3. [Apache Iggy, a message streaming platform in Rust, graduates to an Apache TLP](https://iggy.apache.org/blogs/2026/08/24/apache-iggy-top-level-project-tlp-graduation/)
-**Score:** 33 | **By:** spetz | [Comments](https://news.ycombinator.com/item?id=49510540)
+### 3. [Fastpotify](https://fastpotify.rocks/)
+**Score:** 537 | **By:** nreece | [Comments](https://news.ycombinator.com/item?id=49517448)
 
-### 4. [ChatGPT Work Tool and Skill Reference](https://codex-tool-reference.simonw.chatgpt.site/)
-**Score:** 63 | **By:** ijidak | [Comments](https://news.ycombinator.com/item?id=49510000)
+### 4. [American Airlines' Legendary Mechanic Passes Away at 100 After 80-Year Career](https://simpleflying.com/american-airlines-mechanic-passes-away-100-record-80-years/)
+**Score:** 122 | **By:** NaOH | [Comments](https://news.ycombinator.com/item?id=49493468)
 
-### 5. [Culture Clash](https://aeon.co/essays/at-the-heart-of-the-snow-leavis-two-cultures-clash)
-**Score:** 20 | **By:** Hooke | [Comments](https://news.ycombinator.com/item?id=49510489)
+### 5. [GPU World](https://www.gpuworld.org/)
+**Score:** 291 | **By:** simonpure | [Comments](https://news.ycombinator.com/item?id=49517584)
 
-### 6. [Launch HN: Almanac (YC S26) – AI that knows your company](https://usealmanac.com/)
-**Score:** 4 | **By:** kushagrchitkar | [Comments](https://news.ycombinator.com/item?id=49511007)
+### 6. [Tmp.0ut Volume 5](https://tmpout.sh/5/)
+**Score:** 115 | **By:** ghuntley | [Comments](https://news.ycombinator.com/item?id=49516059)
 
-### 7. [Launch HN: Hebbian Robotics (YC S26) – Build scalable robotics data pipelines](https://github.com/Hebbian-Robotics/hflow)
-**Score:** 7 | **By:** kstonekuan | [Comments](https://news.ycombinator.com/item?id=49510632)
+### 7. [Restroom Archive](https://restroomarchive.com)
+**Score:** 176 | **By:** jcalx | [Comments](https://news.ycombinator.com/item?id=49517624)
 
-### 8. [C++26: Standard Library Hardening Experiments](https://www.cppstories.com/2026/hardening-experiments/)
-**Score:** 15 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49510511)
+### 8. [Tim Cook Sold Out Steve Jobs](https://www.anildash.com/2025/09/09/how-tim-cook-sold-out-steve-jobs/)
+**Score:** 73 | **By:** Anon84 | [Comments](https://news.ycombinator.com/item?id=49520896)
 
-### 9. [Agentic Trust Controls](https://trustcontrols.ai/)
-**Score:** 9 | **By:** mooreds | [Comments](https://news.ycombinator.com/item?id=49510612)
+### 9. [Playa Phone](https://playaphone.com/)
+**Score:** 670 | **By:** cutoff | [Comments](https://news.ycombinator.com/item?id=49510514)
 
-### 10. [Breaking Claude Code Opus 5 Auto Mode](https://embracethered.com/blog/posts/2026/breaking-claude-code-opus-5-and-automode/)
-**Score:** 259 | **By:** Recursing | [Comments](https://news.ycombinator.com/item?id=49506819)
+### 10. [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/)
+**Score:** 534 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=49511856)
 
