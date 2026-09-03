@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-02
+**Generated on:** 2026-09-03
 
-### 1. [Commodore 64 released September 1, 1982](https://dfarq.homeip.net/commodore-64-released-september-1-1982/)
-**Score:** 143 | **By:** giuliomagnifico | [Comments](https://news.ycombinator.com/item?id=49533497)
+### 1. [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
+**Score:** 151 | **By:** ClydeN | [Comments](https://news.ycombinator.com/item?id=49548395)
 
-### 2. [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1)
-**Score:** 1304 | **By:** denysvitali | [Comments](https://news.ycombinator.com/item?id=49525378)
+### 2. [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
+**Score:** 232 | **By:** komape | [Comments](https://news.ycombinator.com/item?id=49546753)
 
-### 3. [The Emergent Symbolic Structure of Artificial Neural Networks](https://arxiv.org/abs/2608.29530)
-**Score:** 187 | **By:** schmuhblaster | [Comments](https://news.ycombinator.com/item?id=49531651)
+### 3. [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
+**Score:** 171 | **By:** kciter | [Comments](https://news.ycombinator.com/item?id=49522137)
 
-### 4. [It's OK to hardcode feature flags (2025)](https://code.mendhak.com/hardcode-feature-flags/)
-**Score:** 17 | **By:** biscuits1 | [Comments](https://news.ycombinator.com/item?id=49534524)
+### 4. [Invisible Companies](https://colossus.com/article/invisible-companies/)
+**Score:** 17 | **By:** ltononro | [Comments](https://news.ycombinator.com/item?id=49521264)
 
-### 5. [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/)
-**Score:** 761 | **By:** jatins | [Comments](https://news.ycombinator.com/item?id=49526069)
+### 5. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
+**Score:** 615 | **By:** bvaldivielso | [Comments](https://news.ycombinator.com/item?id=49541256)
 
-### 6. [Quasar 438B: Europe's Leading AI Model](https://multiversecomputing.com/resources/introducing-quasar-438b-europe-s-leading-ai-model)
-**Score:** 18 | **By:** amunozo | [Comments](https://news.ycombinator.com/item?id=49534132)
+### 6. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
+**Score:** 1062 | **By:** bratao | [Comments](https://news.ycombinator.com/item?id=49537553)
 
-### 7. [Fine, I'll build my own text editor](https://dbushell.com/2026/09/01/text-editor/)
-**Score:** 167 | **By:** Alephinitesimal | [Comments](https://news.ycombinator.com/item?id=49524863)
+### 7. [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026)
+**Score:** 59 | **By:** NaOH | [Comments](https://news.ycombinator.com/item?id=49492796)
 
-### 8. [You Know Who Hates AI? Insurance Claims Adjusters](https://www.wired.com/story/insurance-claims-adjusters-really-hate-ai/)
-**Score:** 47 | **By:** joozio | [Comments](https://news.ycombinator.com/item?id=49508225)
+### 8. [Fish Bad, Sugar Good and Other Medieval Ideas About Food](https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/)
+**Score:** 29 | **By:** mooreds | [Comments](https://news.ycombinator.com/item?id=49513721)
 
-### 9. [FBI Probes Service Selling 153M+ Drivers Licenses](https://krebsonsecurity.com/2026/09/fbi-probes-service-selling-153m-drivers-licenses/)
-**Score:** 273 | **By:** tatersolid | [Comments](https://news.ycombinator.com/item?id=49529621)
-
-### 10. [Open Battery Information](https://github.com/mnh-jansson/open-battery-information)
-**Score:** 24 | **By:** toomuchtodo | [Comments](https://news.ycombinator.com/item?id=49494236)
+### 9. [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
+**Score:** 92 | **By:** DamonHD | [Comments](https://news.ycombinator.com/item?id=49546800)
 
