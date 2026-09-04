@@ -1,31 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-03
+**Generated on:** 2026-09-04
 
-### 1. [Audacity 4.0](https://github.com/audacity/audacity/releases/tag/Audacity-4.0.0)
-**Score:** 151 | **By:** ClydeN | [Comments](https://news.ycombinator.com/item?id=49548395)
+### 1. [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
+**Score:** 108 | **By:** anitil | [Comments](https://news.ycombinator.com/item?id=49562657)
 
-### 2. [Pre-Release of Polars 2.0](https://pola.rs/posts/announcing-polars-2/)
-**Score:** 232 | **By:** komape | [Comments](https://news.ycombinator.com/item?id=49546753)
+### 2. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
+**Score:** 1897 | **By:** kibae | [Comments](https://news.ycombinator.com/item?id=49554643)
 
-### 3. [The Browser's Main Thread Is Expensive](https://kciter.so/posts/the-expensive-main-thread/en/)
-**Score:** 171 | **By:** kciter | [Comments](https://news.ycombinator.com/item?id=49522137)
+### 3. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
+**Score:** 1942 | **By:** pavel_lishin | [Comments](https://news.ycombinator.com/item?id=49550772)
 
-### 4. [Invisible Companies](https://colossus.com/article/invisible-companies/)
-**Score:** 17 | **By:** ltononro | [Comments](https://news.ycombinator.com/item?id=49521264)
+### 4. [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+**Score:** 5 | **By:** moultano | [Comments](https://news.ycombinator.com/item?id=49563355)
 
-### 5. [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/)
-**Score:** 615 | **By:** bvaldivielso | [Comments](https://news.ycombinator.com/item?id=49541256)
+### 5. [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
+**Score:** 57 | **By:** High-Five | [Comments](https://news.ycombinator.com/item?id=49561975)
 
-### 6. [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/)
-**Score:** 1062 | **By:** bratao | [Comments](https://news.ycombinator.com/item?id=49537553)
+### 6. [Elevator of the Year Winner Modernization of the Metropolis Trust Building](https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building)
+**Score:** 26 | **By:** palashawas | [Comments](https://news.ycombinator.com/item?id=49516312)
 
-### 7. [What I Learned from My Mom (1941-2026)](https://experimentalliving.substack.com/p/what-i-learned-from-my-mom-1941-2026)
-**Score:** 59 | **By:** NaOH | [Comments](https://news.ycombinator.com/item?id=49492796)
+### 7. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
+**Score:** 589 | **By:** altertable | [Comments](https://news.ycombinator.com/item?id=49554520)
 
-### 8. [Fish Bad, Sugar Good and Other Medieval Ideas About Food](https://lithub.com/fish-bad-sugar-good-and-other-medieval-ideas-about-food/)
-**Score:** 29 | **By:** mooreds | [Comments](https://news.ycombinator.com/item?id=49513721)
+### 8. [Authorization terminology is a mess: Let's fix it](https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/)
+**Score:** 72 | **By:** andychiare | [Comments](https://news.ycombinator.com/item?id=49522367)
 
-### 9. [Three schoolgirls in Kinsale pulled up a pea plant covered in warts (2016)](https://scienceblog.com/b-three-schoolgirls-in-kinsale-pulled-up-a-pea-plant-covered-in-warts-and-instead-of-binning-it-spent-three-years-testing-13000-seeds-in-a-spare-bedroom-the-bacteria-living-in-those-warts-made-barley/)
-**Score:** 92 | **By:** DamonHD | [Comments](https://news.ycombinator.com/item?id=49546800)
+### 9. [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
+**Score:** 248 | **By:** beardyw | [Comments](https://news.ycombinator.com/item?id=49561320)
 
