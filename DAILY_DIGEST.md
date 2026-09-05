@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-04
+**Generated on:** 2026-09-05
 
-### 1. [Solving the Jane Street Reverse Engineering Challenge](https://jestoph.com/2026/09/04/jane-street-challenge.html)
-**Score:** 108 | **By:** anitil | [Comments](https://news.ycombinator.com/item?id=49562657)
+### 1. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
+**Score:** 532 | **By:** negura | [Comments](https://news.ycombinator.com/item?id=49570669)
 
-### 2. [GPT-6 Astra](https://openai.com/index/gpt-6-astra/)
-**Score:** 1897 | **By:** kibae | [Comments](https://news.ycombinator.com/item?id=49554643)
+### 2. [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
+**Score:** 1754 | **By:** moultano | [Comments](https://news.ycombinator.com/item?id=49563355)
 
-### 3. [.name Termination](https://neil.fraser.name/news/2026/09/03/)
-**Score:** 1942 | **By:** pavel_lishin | [Comments](https://news.ycombinator.com/item?id=49550772)
+### 3. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
+**Score:** 628 | **By:** jlebar | [Comments](https://news.ycombinator.com/item?id=49568506)
 
-### 4. [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-**Score:** 5 | **By:** moultano | [Comments](https://news.ycombinator.com/item?id=49563355)
+### 4. [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
+**Score:** 169 | **By:** sylvainkalache | [Comments](https://news.ycombinator.com/item?id=49574167)
 
-### 5. [Carbon-aware electricity pricing, measured daily on 38 grids](https://carbonawarepricing.com/)
-**Score:** 57 | **By:** High-Five | [Comments](https://news.ycombinator.com/item?id=49561975)
+### 5. [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
+**Score:** 272 | **By:** Cider9986 | [Comments](https://news.ycombinator.com/item?id=49571634)
 
-### 6. [Elevator of the Year Winner Modernization of the Metropolis Trust Building](https://www.starelevator.com/projects/star-elevator-modernization-of-the-metropolis-trust-building)
-**Score:** 26 | **By:** palashawas | [Comments](https://news.ycombinator.com/item?id=49516312)
+### 6. [Statichost.eu – European static site hosting](https://www.statichost.eu/)
+**Score:** 312 | **By:** p4bl0 | [Comments](https://news.ycombinator.com/item?id=49569896)
 
-### 7. [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview)
-**Score:** 589 | **By:** altertable | [Comments](https://news.ycombinator.com/item?id=49554520)
+### 7. [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
+**Score:** 20 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49516962)
 
-### 8. [Authorization terminology is a mess: Let's fix it](https://idpro.org/authorization-terminology-is-a-mess-lets-fix-it/)
-**Score:** 72 | **By:** andychiare | [Comments](https://news.ycombinator.com/item?id=49522367)
+### 8. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
+**Score:** 237 | **By:** Topfi | [Comments](https://news.ycombinator.com/item?id=49570545)
 
-### 9. [Hackers Had a Live Feed of Every ID Verification Company Scanned for over a Year](http://www.techdirt.com/2026/09/03/hackers-had-a-live-feed-of-every-id-this-verification-company-scanned-for-over-a-year/)
-**Score:** 248 | **By:** beardyw | [Comments](https://news.ycombinator.com/item?id=49561320)
+### 9. [Sky Map 2000 – Star Atlas and Planetarium](https://skymap2000.com/)
+**Score:** 11 | **By:** m4c-pl | [Comments](https://news.ycombinator.com/item?id=49548596)
+
+### 10. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
+**Score:** 272 | **By:** iopapa | [Comments](https://news.ycombinator.com/item?id=49569366)
 
