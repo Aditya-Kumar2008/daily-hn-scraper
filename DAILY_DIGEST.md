@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-05
+**Generated on:** 2026-09-06
 
-### 1. [Actively exploited sandbox RCE in all Chromium versions](https://nvd.nist.gov/vuln/detail/cve-2026-85046)
-**Score:** 532 | **By:** negura | [Comments](https://news.ycombinator.com/item?id=49570669)
+### 1. [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
+**Score:** 250 | **By:** mpweiher | [Comments](https://news.ycombinator.com/item?id=49584083)
 
-### 2. [Discovery of a new OpenAI agent message board](https://collusion.wiki/)
-**Score:** 1754 | **By:** moultano | [Comments](https://news.ycombinator.com/item?id=49563355)
+### 2. [I Changed My License](https://bergie.iki.fi/blog/eupl/)
+**Score:** 55 | **By:** jllyhill | [Comments](https://news.ycombinator.com/item?id=49585161)
 
-### 3. [Formalizing Fermat's Last Theorem](https://www.anthropic.com/research/formalizing-fermats-last-theorem)
-**Score:** 628 | **By:** jlebar | [Comments](https://news.ycombinator.com/item?id=49568506)
+### 3. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
+**Score:** 448 | **By:** zplizzi | [Comments](https://news.ycombinator.com/item?id=49582000)
 
-### 4. [AI handles incidents, engineers lose touch with their systems](https://www.sylvainkalache.com/blog/ai-handles-incidents-engineers-lose-touch-with-their-systems)
-**Score:** 169 | **By:** sylvainkalache | [Comments](https://news.ycombinator.com/item?id=49574167)
+### 4. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
+**Score:** 396 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49580939)
 
-### 5. [Nitter has more working instances than before the takedowns](https://codeberg.org/mv12star/shitter/wiki/Instances)
-**Score:** 272 | **By:** Cider9986 | [Comments](https://news.ycombinator.com/item?id=49571634)
+### 5. [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
+**Score:** 173 | **By:** birdculture | [Comments](https://news.ycombinator.com/item?id=49541888)
 
-### 6. [Statichost.eu – European static site hosting](https://www.statichost.eu/)
-**Score:** 312 | **By:** p4bl0 | [Comments](https://news.ycombinator.com/item?id=49569896)
+### 6. [M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years](https://en.wikipedia.org/wiki/M-DISC)
+**Score:** 27 | **By:** gurjeet | [Comments](https://news.ycombinator.com/item?id=49531619)
 
-### 7. [Kale: A Transformation-Safe Spreadsheet System](https://arxiv.org/abs/2608.26345)
-**Score:** 20 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49516962)
+### 7. [Pigeon, a signed Pass for what a sub-agent may do](https://github.com/pigeonlabsHQ/pigeon)
+**Score:** 7 | **By:** pigeonlabshq | [Comments](https://news.ycombinator.com/item?id=49585209)
 
-### 8. [GPT-6 Astra on OpenRouter](https://openrouter.ai/openai/gpt-6-astra)
-**Score:** 237 | **By:** Topfi | [Comments](https://news.ycombinator.com/item?id=49570545)
+### 8. [IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2)
+**Score:** 23 | **By:** fuglede_ | [Comments](https://news.ycombinator.com/item?id=49546198)
 
-### 9. [Sky Map 2000 – Star Atlas and Planetarium](https://skymap2000.com/)
-**Score:** 11 | **By:** m4c-pl | [Comments](https://news.ycombinator.com/item?id=49548596)
+### 9. [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
+**Score:** 75 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=49529398)
 
-### 10. [Can AI design circuit boards yet?](https://eebench.org/blog/can-ai-design-circuit-boards-yet/)
-**Score:** 272 | **By:** iopapa | [Comments](https://news.ycombinator.com/item?id=49569366)
+### 10. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
+**Score:** 76 | **By:** firexcy | [Comments](https://news.ycombinator.com/item?id=49582656)
 
