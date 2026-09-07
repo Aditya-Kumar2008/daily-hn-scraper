@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-06
+**Generated on:** 2026-09-07
 
-### 1. [Isar Aerospace reaches orbit and deploys payloads on second flight](https://isaraerospace.com/press/history-for-european-spaceflight-isar-aerospace-reaches-orbit-and-deploys-payloads-on-second-flight)
-**Score:** 250 | **By:** mpweiher | [Comments](https://news.ycombinator.com/item?id=49584083)
+### 1. [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
+**Score:** 120 | **By:** DanielVZ | [Comments](https://news.ycombinator.com/item?id=49597907)
 
-### 2. [I Changed My License](https://bergie.iki.fi/blog/eupl/)
-**Score:** 55 | **By:** jllyhill | [Comments](https://news.ycombinator.com/item?id=49585161)
+### 2. [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
+**Score:** 61 | **By:** u1hcw9nx | [Comments](https://news.ycombinator.com/item?id=49597895)
 
-### 3. [Cloud in a Bottle: making self-hosting accessible to everyone](https://cloudinabottle.org/blog/launch-post)
-**Score:** 448 | **By:** zplizzi | [Comments](https://news.ycombinator.com/item?id=49582000)
+### 3. [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
+**Score:** 676 | **By:** sonicrocketman | [Comments](https://news.ycombinator.com/item?id=49593563)
 
-### 4. [The revolt of the reader](https://bcantrill.dtrace.org/2026/09/05/the-revolt-of-the-reader/)
-**Score:** 396 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49580939)
+### 4. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
+**Score:** 76 | **By:** astroanax | [Comments](https://news.ycombinator.com/item?id=49596055)
 
-### 5. [Music Theory for Programmers](https://runjs.app/blog/music-theory-for-programmers)
-**Score:** 173 | **By:** birdculture | [Comments](https://news.ycombinator.com/item?id=49541888)
+### 5. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
+**Score:** 109 | **By:** coinfused | [Comments](https://news.ycombinator.com/item?id=49595865)
 
-### 6. [M-DISC – DVD/Blu-ray compatible discs that may last up to 1000 years](https://en.wikipedia.org/wiki/M-DISC)
-**Score:** 27 | **By:** gurjeet | [Comments](https://news.ycombinator.com/item?id=49531619)
+### 6. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
+**Score:** 99 | **By:** mdp2021 | [Comments](https://news.ycombinator.com/item?id=49597189)
 
-### 7. [Pigeon, a signed Pass for what a sub-agent may do](https://github.com/pigeonlabsHQ/pigeon)
-**Score:** 7 | **By:** pigeonlabshq | [Comments](https://news.ycombinator.com/item?id=49585209)
+### 7. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
+**Score:** 55 | **By:** ankitg12 | [Comments](https://news.ycombinator.com/item?id=49596054)
 
-### 8. [IBM Quantum Nighthawk R2](https://www.ibm.com/quantum/blog/nighthawk-r2)
-**Score:** 23 | **By:** fuglede_ | [Comments](https://news.ycombinator.com/item?id=49546198)
+### 8. [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
+**Score:** 44 | **By:** muti | [Comments](https://news.ycombinator.com/item?id=49596274)
 
-### 9. [The ColorChecker, photography's most important 24 squares, turns 50](https://www.dpreview.com/news/the-colorchecker-photographys-most-important-24-squares-turns-50/)
-**Score:** 75 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=49529398)
+### 9. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
+**Score:** 508 | **By:** chris_overseas | [Comments](https://news.ycombinator.com/item?id=49594878)
 
-### 10. [AI, Tools and Transformation](https://www.ben-evans.com/benedictevans/2026/9/3/ai-tools-and-transformation)
-**Score:** 76 | **By:** firexcy | [Comments](https://news.ycombinator.com/item?id=49582656)
+### 10. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
+**Score:** 168 | **By:** cianmm | [Comments](https://news.ycombinator.com/item?id=49596119)
 
