@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-07
+**Generated on:** 2026-09-08
 
-### 1. [De-Brainrot Vacations](https://devz.cl/posts/i-spent-my-vacations-de-brainrotting/)
-**Score:** 120 | **By:** DanielVZ | [Comments](https://news.ycombinator.com/item?id=49597907)
+### 1. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
+**Score:** 212 | **By:** adulion | [Comments](https://news.ycombinator.com/item?id=49607443)
 
-### 2. [Splash-free urinals for global sustainability and accessibility](https://academic.oup.com/pnasnexus/article/4/4/pgaf087/8098745?login=false)
-**Score:** 61 | **By:** u1hcw9nx | [Comments](https://news.ycombinator.com/item?id=49597895)
+### 2. [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
+**Score:** 80 | **By:** patadune | [Comments](https://news.ycombinator.com/item?id=49607991)
 
-### 3. [Keep Our Servers Running](https://blog.archive.org/2026/09/01/keep-our-servers-running-your-recurring-donation-goes-3x-this-september/)
-**Score:** 676 | **By:** sonicrocketman | [Comments](https://news.ycombinator.com/item?id=49593563)
+### 3. [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
+**Score:** 13 | **By:** mazokum | [Comments](https://news.ycombinator.com/item?id=49608697)
 
-### 4. [Caltech Mathathon – first hackathon ever devoted to research level mathematics](https://mathathonchallenge.com/index.html)
-**Score:** 76 | **By:** astroanax | [Comments](https://news.ycombinator.com/item?id=49596055)
+### 4. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
+**Score:** 376 | **By:** ahlCVA | [Comments](https://news.ycombinator.com/item?id=49604637)
 
-### 5. [Live map of public transport in Belgium](https://openbaarvervoerbelgie.be/)
-**Score:** 109 | **By:** coinfused | [Comments](https://news.ycombinator.com/item?id=49595865)
+### 5. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
+**Score:** 79 | **By:** HatchedLake721 | [Comments](https://news.ycombinator.com/item?id=49608023)
 
-### 6. [Smartphone makers don't bother to comply with EU repairability requirements](https://www.theregister.com/personal-tech/2026/09/07/smartphone-makers-dont-bother-to-comply-with-eu-repairability-requirements/5294532)
-**Score:** 99 | **By:** mdp2021 | [Comments](https://news.ycombinator.com/item?id=49597189)
+### 6. [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail)
+**Score:** 243 | **By:** pizzaiolo | [Comments](https://news.ycombinator.com/item?id=49604870)
 
-### 7. [Speculative Decoding in vLLM on AMD GPUs](https://vllm.ai/blog/2026-08-23-speculative-decoding-amd-gpus)
-**Score:** 55 | **By:** ankitg12 | [Comments](https://news.ycombinator.com/item?id=49596054)
+### 7. [We built our house for LAN parties (2024)](https://lanparty.house/)
+**Score:** 215 | **By:** fittingopposite | [Comments](https://news.ycombinator.com/item?id=49579443)
 
-### 8. [Impedance Matching (2017)](https://www.edge.org/response-detail/27238)
-**Score:** 44 | **By:** muti | [Comments](https://news.ycombinator.com/item?id=49596274)
+### 8. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
+**Score:** 250 | **By:** alixanderwang | [Comments](https://news.ycombinator.com/item?id=49604150)
 
-### 9. [LG smart TVs caught logging audio with screen off and snooping on local devices](https://www.notebookcheck.net/LG-smart-TVs-caught-logging-audio-with-screen-off-and-snooping-on-local-devices.1391214.0.html)
-**Score:** 508 | **By:** chris_overseas | [Comments](https://news.ycombinator.com/item?id=49594878)
+### 9. [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
+**Score:** 591 | **By:** kuberwastaken | [Comments](https://news.ycombinator.com/item?id=49605767)
 
-### 10. ['You Can See Everything' Review: Nathan Fielder's Doc About Elizabeth Holmes](https://variety.com/2026/film/reviews/nathan-fielder-surprise-film-telluride-elizabeth-holmes-1236853513/)
-**Score:** 168 | **By:** cianmm | [Comments](https://news.ycombinator.com/item?id=49596119)
+### 10. [End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)
+**Score:** 21 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49570411)
 
