@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-08
+**Generated on:** 2026-09-09
 
-### 1. [Among European Companies That Use a CDN, Nearly 9 in 10 Use Cloudflare](https://ciphercue.com/blog/european-cdn-concentration-cloudflare-nine-in-ten)
-**Score:** 212 | **By:** adulion | [Comments](https://news.ycombinator.com/item?id=49607443)
+### 1. [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
+**Score:** 194 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49624394)
 
-### 2. [Antiquated HTML Snippets and Artefacts](https://vale.rocks/posts/html-relics)
-**Score:** 80 | **By:** patadune | [Comments](https://news.ycombinator.com/item?id=49607991)
+### 2. [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
+**Score:** 52 | **By:** willwhitedc | [Comments](https://news.ycombinator.com/item?id=49624823)
 
-### 3. [PISA 2025 Students' reading and mathematics performance declined across the OECD](https://www.oecd.org/en/about/news/press-releases/2026/09/pisa-2025-students-reading-and-mathematics-performance-declined-sharply-across-the-oecd.html)
-**Score:** 13 | **By:** mazokum | [Comments](https://news.ycombinator.com/item?id=49608697)
+### 3. [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
+**Score:** 52 | **By:** xlii | [Comments](https://news.ycombinator.com/item?id=49624856)
 
-### 4. [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html)
-**Score:** 376 | **By:** ahlCVA | [Comments](https://news.ycombinator.com/item?id=49604637)
+### 4. [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
+**Score:** 70 | **By:** maguay | [Comments](https://news.ycombinator.com/item?id=49623937)
 
-### 5. [Why getting your hands dirty is good for you](https://www.bbc.com/future/article/20260904-how-getting-your-hands-dirty-boosts-your-health-within-weeks)
-**Score:** 79 | **By:** HatchedLake721 | [Comments](https://news.ycombinator.com/item?id=49608023)
+### 5. [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
+**Score:** 123 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49624163)
 
-### 6. [There's a new "Google Jail" for independent wikis](https://weirdgloop.org/blog/google-jail)
-**Score:** 243 | **By:** pizzaiolo | [Comments](https://news.ycombinator.com/item?id=49604870)
+### 6. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
+**Score:** 551 | **By:** yks | [Comments](https://news.ycombinator.com/item?id=49615537)
 
-### 7. [We built our house for LAN parties (2024)](https://lanparty.house/)
-**Score:** 215 | **By:** fittingopposite | [Comments](https://news.ycombinator.com/item?id=49579443)
+### 7. [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
+**Score:** 65 | **By:** nickweb | [Comments](https://news.ycombinator.com/item?id=49624603)
 
-### 8. [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/)
-**Score:** 250 | **By:** alixanderwang | [Comments](https://news.ycombinator.com/item?id=49604150)
+### 8. [Coyote v. Acme (1990)](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme)
+**Score:** 47 | **By:** ChrisArchitect | [Comments](https://news.ycombinator.com/item?id=49586494)
 
-### 9. [Mistral raises €3B](https://mistral.ai/news/mistral-makes-sovereign-open-weight-ai-to-frontier/)
-**Score:** 591 | **By:** kuberwastaken | [Comments](https://news.ycombinator.com/item?id=49605767)
-
-### 10. [End-to-end infrastructure for training and inferencing open weight models](https://docs.appliedcompute.com)
-**Score:** 21 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49570411)
+### 9. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
+**Score:** 1785 | **By:** procedurecall | [Comments](https://news.ycombinator.com/item?id=49605915)
 
