@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-09
+**Generated on:** 2026-09-10
 
-### 1. [Flock Wants a Closely Surveilled World with No Exit](https://www.newyorker.com/culture/infinite-scroll/flock-wants-a-closely-surveilled-world-with-no-exit)
-**Score:** 194 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49624394)
+### 1. [What algorithm did Windows XP use to choose your initial user picture?](https://devblogs.microsoft.com/oldnewthing/20260909-00/?p=112683)
+**Score:** 143 | **By:** soheilpro | [Comments](https://news.ycombinator.com/item?id=49640646)
 
-### 2. [Desert Ant Labs: local, fast models that run on device](https://desertant.com/blog/introducing-desert-ant-labs/)
-**Score:** 52 | **By:** willwhitedc | [Comments](https://news.ycombinator.com/item?id=49624823)
+### 2. [Hitachi launches CO2 heat pump water heaters with solar-friendly tariff controls](https://www.pv-magazine.com/2026/09/07/hitachi-launches-co2-heat-pump-water-heaters-with-solar-friendly-tariff-controls/)
+**Score:** 23 | **By:** thelastgallon | [Comments](https://news.ycombinator.com/item?id=49627634)
 
-### 3. [I advertise malicious software on Google Ads](https://xlii.space/eng/malicious-software-on-google-ads/)
-**Score:** 52 | **By:** xlii | [Comments](https://news.ycombinator.com/item?id=49624856)
+### 3. [Show HN: The same nine streaming subscriptions cost $702/year more than in 2021](https://honestlyranked.com/guides/streaming-price-increases/)
+**Score:** 165 | **By:** honestlyranked | [Comments](https://news.ycombinator.com/item?id=49641215)
 
-### 4. [Lotus Notes and the dangers of starting from scratch](https://buttondown.com/blog/lotus-notes-email)
-**Score:** 70 | **By:** maguay | [Comments](https://news.ycombinator.com/item?id=49623937)
+### 4. [Stockfish 19](https://stockfishchess.org/blog/2026/stockfish-19/)
+**Score:** 104 | **By:** atiedebee | [Comments](https://news.ycombinator.com/item?id=49599992)
 
-### 5. [How An AI math breakthrough ignited a controversy](https://www.science.org/content/article/how-ai-math-breakthrough-ignited-controversy)
-**Score:** 123 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49624163)
+### 5. [DeepSeek v4.1 Flash](https://twitter.com/deepseek_ai/status/2097930608790167907)
+**Score:** 530 | **By:** Liwink | [Comments](https://news.ycombinator.com/item?id=49639090)
 
-### 6. [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/)
-**Score:** 551 | **By:** yks | [Comments](https://news.ycombinator.com/item?id=49615537)
+### 6. [iPhone Duo](https://www.apple.com/iphone-duo/)
+**Score:** 1253 | **By:** thecosmicfrog | [Comments](https://news.ycombinator.com/item?id=49630931)
 
-### 7. [DeepSeek launching v4.1 flash cheaper and more capable than v4 pro](https://news.ycombinator.com/item?id=49624603)
-**Score:** 65 | **By:** nickweb | [Comments](https://news.ycombinator.com/item?id=49624603)
+### 7. [Show HN: What if the speed of light was 5 km/h?](https://rivendell.dmitrybrant.com/relativity/)
+**Score:** 420 | **By:** dmitrybrant | [Comments](https://news.ycombinator.com/item?id=49637385)
 
-### 8. [Coyote v. Acme (1990)](https://www.newyorker.com/magazine/1990/02/26/coyote-v-acme)
-**Score:** 47 | **By:** ChrisArchitect | [Comments](https://news.ycombinator.com/item?id=49586494)
+### 8. [Object storage is all you need](https://www.tigrisdata.com/blog/object-storage-all-need/)
+**Score:** 21 | **By:** jpsaccount | [Comments](https://news.ycombinator.com/item?id=49618450)
 
-### 9. [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf)
-**Score:** 1785 | **By:** procedurecall | [Comments](https://news.ycombinator.com/item?id=49605915)
+### 9. [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify)
+**Score:** 1063 | **By:** EdwinHoksberg | [Comments](https://news.ycombinator.com/item?id=49626190)
+
+### 10. [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html)
+**Score:** 572 | **By:** evakhoury | [Comments](https://news.ycombinator.com/item?id=49614280)
 
