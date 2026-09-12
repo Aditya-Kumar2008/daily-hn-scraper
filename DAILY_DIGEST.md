@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-11
+**Generated on:** 2026-09-12
 
-### 1. [The Waymo effect: how AI is quietly making research less collaborative](https://www.researchagenda.news/articles/the-waymo-effect.html)
-**Score:** 87 | **By:** JohnHammersley | [Comments](https://news.ycombinator.com/item?id=49656496)
+### 1. [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
+**Score:** 238 | **By:** kegenaar | [Comments](https://news.ycombinator.com/item?id=49639647)
 
-### 2. [RTK reports token savings, but our cost benchmarks disagree](https://quesma.com/blog/does-rtk-make-ai-coding-cheaper/)
-**Score:** 34 | **By:** michalwarda | [Comments](https://news.ycombinator.com/item?id=49656471)
+### 2. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
+**Score:** 111 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49670032)
 
-### 3. [Cherenkov Radiation - traveling faster than light](http://www.iaea.org/newscenter/news/what-is-cherenkov-radiation)
-**Score:** 113 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49655286)
+### 3. [A misalignment of AI in mathematics](https://mathandai.org/)
+**Score:** 984 | **By:** meredydd | [Comments](https://news.ycombinator.com/item?id=49662371)
 
-### 4. [So you want to use OpenRouter?](https://mmoustafa.com/blog/so-you-want-to-use-openrouter/)
-**Score:** 233 | **By:** player85 | [Comments](https://news.ycombinator.com/item?id=49621546)
+### 4. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
+**Score:** 7 | **By:** JayOtter | [Comments](https://news.ycombinator.com/item?id=49671329)
 
-### 5. [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native)
-**Score:** 1113 | **By:** fnthawar2 | [Comments](https://news.ycombinator.com/item?id=49643982)
+### 5. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
+**Score:** 583 | **By:** nickabe | [Comments](https://news.ycombinator.com/item?id=49662990)
 
-### 6. [Claude is no longer available for minors](https://support.claude.com/en/articles/15171100-age-assurance-on-claude)
-**Score:** 126 | **By:** Muhammad523 | [Comments](https://news.ycombinator.com/item?id=49656225)
+### 6. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
+**Score:** 311 | **By:** wcrichton | [Comments](https://news.ycombinator.com/item?id=49626718)
 
-### 7. [Instagram's head says engagement falls by half without the algorithm](https://thenextweb.com/news/mosseri-instagram-algorithm-opt-out-engagement-australia)
-**Score:** 37 | **By:** hsuduebc2 | [Comments](https://news.ycombinator.com/item?id=49656564)
+### 7. [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
+**Score:** 79 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=49624456)
 
-### 8. [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/)
-**Score:** 599 | **By:** Brajeshwar | [Comments](https://news.ycombinator.com/item?id=49645393)
+### 8. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
+**Score:** 196 | **By:** rvz | [Comments](https://news.ycombinator.com/item?id=49668706)
 
-### 9. [iPod Classic 6G in QEMU](https://www.reddit.com/r/emulation/s/VL4Au2HGxq)
-**Score:** 41 | **By:** dmonterocrespo | [Comments](https://news.ycombinator.com/item?id=49611240)
+### 9. [Inverse Kinematics and Foot Locking](https://theorangeduck.com/page/inverse-kinematics-foot-locking)
+**Score:** 66 | **By:** airhangerf15 | [Comments](https://news.ycombinator.com/item?id=49595505)
 
-### 10. [Working with Git Worktrees in Magit](https://emacsredux.com/blog/2026/09/02/working-with-git-worktrees-in-magit/)
-**Score:** 70 | **By:** srijan4 | [Comments](https://news.ycombinator.com/item?id=49606281)
+### 10. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
+**Score:** 471 | **By:** 1e1a | [Comments](https://news.ycombinator.com/item?id=49668386)
 
