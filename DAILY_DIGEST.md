@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-12
+**Generated on:** 2026-09-13
 
-### 1. [IKEA made a mod for Skyrim [video]](https://www.youtube.com/watch?v=iZODN0QUgjI)
-**Score:** 238 | **By:** kegenaar | [Comments](https://news.ycombinator.com/item?id=49639647)
+### 1. [JetKVM Mini](https://jetkvm.com/blog/introducing-jetkvm-mini)
+**Score:** 235 | **By:** taubek | [Comments](https://news.ycombinator.com/item?id=49681152)
 
-### 2. [Retrospectively Reverse-Engineering Apple's Neural Engine](https://eiln.github.io/posts/ane.html)
-**Score:** 111 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=49670032)
+### 2. [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating)
+**Score:** 336 | **By:** jonifico | [Comments](https://news.ycombinator.com/item?id=49678969)
 
-### 3. [A misalignment of AI in mathematics](https://mathandai.org/)
-**Score:** 984 | **By:** meredydd | [Comments](https://news.ycombinator.com/item?id=49662371)
+### 3. ['Fingerprints' inside the Sun could reveal if it once swallowed a planet](https://ras.ac.uk/news-and-press/research-highlights/fingerprints-inside-sun-could-reveal-if-it-once-swallowed-planet)
+**Score:** 15 | **By:** blincoln | [Comments](https://news.ycombinator.com/item?id=49683033)
 
-### 4. [Fuck it, make it anyway](https://www.joelotter.com/posts/2026/09/make-it-anyway/)
-**Score:** 7 | **By:** JayOtter | [Comments](https://news.ycombinator.com/item?id=49671329)
+### 4. [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/)
+**Score:** 512 | **By:** juliantigler | [Comments](https://news.ycombinator.com/item?id=49674050)
 
-### 5. [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/)
-**Score:** 583 | **By:** nickabe | [Comments](https://news.ycombinator.com/item?id=49662990)
+### 5. [Matt Mullenweg reportedly returns as Automattic CEO 2 days after getting booted](https://www.theverge.com/tech/994087/matt-mullenweg-automattic-ceo-return)
+**Score:** 17 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=49683265)
 
-### 6. [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/)
-**Score:** 311 | **By:** wcrichton | [Comments](https://news.ycombinator.com/item?id=49626718)
+### 6. [The Interim Computer Museum](https://icm.museum/)
+**Score:** 135 | **By:** mulmen | [Comments](https://news.ycombinator.com/item?id=49679459)
 
-### 7. [Great Lakes sturgeon may be 400 years old:Scientists rethinking how to save them](https://www.cbc.ca/news/canada/ontario-great-lakes-sturgeon-lifespan-study-9.7329250)
-**Score:** 79 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=49624456)
+### 7. [Homebrew 7.0.0](https://brew.sh/2026/09/13/homebrew-7.0.0/)
+**Score:** 159 | **By:** mikemcquaid | [Comments](https://news.ycombinator.com/item?id=49681545)
 
-### 8. [Navier-Stokes Announcement](https://www.claymath.org/news/navier-stokes-announcement/)
-**Score:** 196 | **By:** rvz | [Comments](https://news.ycombinator.com/item?id=49668706)
+### 8. [Aligned to whom?](https://hyperbo.la/w/aligned-to-whom/)
+**Score:** 87 | **By:** lopopolo | [Comments](https://news.ycombinator.com/item?id=49679643)
 
-### 9. [Inverse Kinematics and Foot Locking](https://theorangeduck.com/page/inverse-kinematics-foot-locking)
-**Score:** 66 | **By:** airhangerf15 | [Comments](https://news.ycombinator.com/item?id=49595505)
+### 9. [Revolut confirms customer data breach through fake government requests](https://techcrunch.com/2026/09/12/revolut-confirms-customer-data-breach-through-fake-government-requests/)
+**Score:** 60 | **By:** tdrz | [Comments](https://news.ycombinator.com/item?id=49682087)
 
-### 10. [google.com/goto: Google's anti-scraping update](https://www.autom.dev/blog/google-search-goto-links)
-**Score:** 471 | **By:** 1e1a | [Comments](https://news.ycombinator.com/item?id=49668386)
+### 10. [Reverse engineering my e-scooter and rewriting the firmware in Rust](https://bensimms.moe/reverse-engineering-scooter/)
+**Score:** 19 | **By:** vinhnx | [Comments](https://news.ycombinator.com/item?id=49638071)
 
