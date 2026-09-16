@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-15
+**Generated on:** 2026-09-16
 
-### 1. [I can't stop thinking about Papua New Guinea](https://notnottalmud.substack.com/p/why-i-cant-stop-thinking-about-papua)
-**Score:** 447 | **By:** networked | [Comments](https://news.ycombinator.com/item?id=49708431)
+### 1. [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
+**Score:** 78 | **By:** inputmice | [Comments](https://news.ycombinator.com/item?id=49724927)
 
-### 2. [CSS-Tricks in Limbo](https://vale.rocks/micros/20260915-0135)
-**Score:** 100 | **By:** edent | [Comments](https://news.ycombinator.com/item?id=49708993)
+### 2. [EU chief opens door for Canada to become 'associate member'](https://www.bbc.com/news/articles/cjwyzrr9d3dko)
+**Score:** 463 | **By:** hackernj | [Comments](https://news.ycombinator.com/item?id=49724141)
 
-### 3. [Suspected sabotage causes major Netherlands rail disruption](https://www.bbc.com/news/articles/c8ly49w9g1edo)
-**Score:** 234 | **By:** choult | [Comments](https://news.ycombinator.com/item?id=49710253)
+### 3. [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
+**Score:** 173 | **By:** vertigoruntime | [Comments](https://news.ycombinator.com/item?id=49723408)
 
-### 4. [Alternatives to MinIO for single-node local S3](https://rmoff.net/2026/01/14/alternatives-to-minio-for-single-node-local-s3/)
-**Score:** 91 | **By:** rmoff | [Comments](https://news.ycombinator.com/item?id=49709381)
+### 4. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
+**Score:** 1539 | **By:** albelfio | [Comments](https://news.ycombinator.com/item?id=49717558)
 
-### 5. [25 Years of Mass Surveillance Is Enough](https://www.schneier.com/blog/archives/2026/09/25-years-of-mass-surveillance-is-enough.html)
-**Score:** 83 | **By:** iamnothere | [Comments](https://news.ycombinator.com/item?id=49710883)
+### 5. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
+**Score:** 1749 | **By:** arnemunthekaas | [Comments](https://news.ycombinator.com/item?id=49711544)
 
-### 6. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-**Score:** 3 | **By:** arnemunthekaas | [Comments](https://news.ycombinator.com/item?id=49711544)
+### 6. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
+**Score:** 328 | **By:** imwally | [Comments](https://news.ycombinator.com/item?id=49721322)
 
-### 7. [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/)
-**Score:** 656 | **By:** throw0101d | [Comments](https://news.ycombinator.com/item?id=49701004)
+### 7. [Salesforce Global Outage](https://status.salesforce.com/products/all)
+**Score:** 88 | **By:** mabil | [Comments](https://news.ycombinator.com/item?id=49724488)
 
-### 8. [OpenArm: An open-source 7DOF humanoid arm](https://github.com/enactic/OpenArm)
-**Score:** 138 | **By:** Lwrless | [Comments](https://news.ycombinator.com/item?id=49684289)
+### 8. [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
+**Score:** 103 | **By:** moneroloop2018 | [Comments](https://news.ycombinator.com/item?id=49723873)
 
-### 9. [The k-server conjecture is true](https://arxiv.org/abs/2609.15979)
-**Score:** 45 | **By:** iamsyr | [Comments](https://news.ycombinator.com/item?id=49709129)
-
-### 10. [OpenAI buys smartphone camera maker Glass Imaging for $300M](https://techcrunch.com/2026/09/14/openai-buys-smartphone-camera-maker-glass-imaging-for-300-million-report-says/)
-**Score:** 23 | **By:** myth_drannon | [Comments](https://news.ycombinator.com/item?id=49711240)
+### 9. [Douglas Adams and the exterminated Doctor Who adventure](https://www.bbc.co.uk/news/articles/c8jdp38z4jgo)
+**Score:** 23 | **By:** 6LLvveMx2koXfwn | [Comments](https://news.ycombinator.com/item?id=49689062)
 
