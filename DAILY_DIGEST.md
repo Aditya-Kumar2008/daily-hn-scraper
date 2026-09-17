@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-16
+**Generated on:** 2026-09-17
 
-### 1. [The Google Play app review process now regularly takes longer than a week](https://gultsch.social/@daniel/117280438824908947)
-**Score:** 78 | **By:** inputmice | [Comments](https://news.ycombinator.com/item?id=49724927)
+### 1. [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
+**Score:** 168 | **By:** AshleysBrain | [Comments](https://news.ycombinator.com/item?id=49737849)
 
-### 2. [EU chief opens door for Canada to become 'associate member'](https://www.bbc.com/news/articles/cjwyzrr9d3dko)
-**Score:** 463 | **By:** hackernj | [Comments](https://news.ycombinator.com/item?id=49724141)
+### 2. [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
+**Score:** 179 | **By:** jakemanger | [Comments](https://news.ycombinator.com/item?id=49738879)
 
-### 3. [Mistral X Mozilla: Private, Multilingual AI Browsing](https://mistral.ai/news/mistral-x-mozilla/)
-**Score:** 173 | **By:** vertigoruntime | [Comments](https://news.ycombinator.com/item?id=49723408)
+### 3. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
+**Score:** 771 | **By:** nonmaskable | [Comments](https://news.ycombinator.com/item?id=49724881)
 
-### 4. [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev)
-**Score:** 1539 | **By:** albelfio | [Comments](https://news.ycombinator.com/item?id=49717558)
+### 4. [How, Exactly, Could A.I. Kill Us?](https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us)
+**Score:** 8 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49739982)
 
-### 5. [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme)
-**Score:** 1749 | **By:** arnemunthekaas | [Comments](https://news.ycombinator.com/item?id=49711544)
+### 5. [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
+**Score:** 31 | **By:** GloriaVinogrado | [Comments](https://news.ycombinator.com/item?id=49738766)
 
-### 6. [Apple Reference Image: A New Approach for Verified Photography](https://security.apple.com/blog/apple-reference-image/)
-**Score:** 328 | **By:** imwally | [Comments](https://news.ycombinator.com/item?id=49721322)
+### 6. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
+**Score:** 179 | **By:** jakeasmith | [Comments](https://news.ycombinator.com/item?id=49718773)
 
-### 7. [Salesforce Global Outage](https://status.salesforce.com/products/all)
-**Score:** 88 | **By:** mabil | [Comments](https://news.ycombinator.com/item?id=49724488)
+### 7. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
+**Score:** 212 | **By:** Ryan5453 | [Comments](https://news.ycombinator.com/item?id=49735930)
 
-### 8. [Learning Programming in an Age of LLMs](https://blog.ploeh.dk/2026/09/16/on-learning-programming-in-an-age-of-llms/)
-**Score:** 103 | **By:** moneroloop2018 | [Comments](https://news.ycombinator.com/item?id=49723873)
+### 8. [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
+**Score:** 93 | **By:** rramadass | [Comments](https://news.ycombinator.com/item?id=49685835)
 
-### 9. [Douglas Adams and the exterminated Doctor Who adventure](https://www.bbc.co.uk/news/articles/c8jdp38z4jgo)
-**Score:** 23 | **By:** 6LLvveMx2koXfwn | [Comments](https://news.ycombinator.com/item?id=49689062)
+### 9. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
+**Score:** 593 | **By:** polyphilz | [Comments](https://news.ycombinator.com/item?id=49731285)
+
+### 10. [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
+**Score:** 144 | **By:** whiteros_e | [Comments](https://news.ycombinator.com/item?id=49737922)
 
