@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-17
+**Generated on:** 2026-09-18
 
-### 1. [One Year of Sponsored Servo Development](https://servo.org/blog/2026/09/15/one-year-of-sponsorship/)
-**Score:** 168 | **By:** AshleysBrain | [Comments](https://news.ycombinator.com/item?id=49737849)
+### 1. [Bend 2 and the Vibe-Coding Trap](https://blog.liampwll.com/posts/bend_vibe_coding/)
+**Score:** 60 | **By:** LiamPowell | [Comments](https://news.ycombinator.com/item?id=49753179)
 
-### 2. [Neovim have a ~$800k Bitcoin donation sitting untouched since 2023](https://news.ycombinator.com/item?id=49738879)
-**Score:** 179 | **By:** jakemanger | [Comments](https://news.ycombinator.com/item?id=49738879)
+### 2. [I don't like passkeys](https://hawksley.dev/blog/i-dont-like-passkeys)
+**Score:** 45 | **By:** ethanhawksley | [Comments](https://news.ycombinator.com/item?id=49753211)
 
-### 3. [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/)
-**Score:** 771 | **By:** nonmaskable | [Comments](https://news.ycombinator.com/item?id=49724881)
+### 3. [OpenJev](https://openjev.com/)
+**Score:** 207 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=49752041)
 
-### 4. [How, Exactly, Could A.I. Kill Us?](https://www.newyorker.com/news/q-and-a/how-exactly-could-ai-kill-us)
-**Score:** 8 | **By:** pseudolus | [Comments](https://news.ycombinator.com/item?id=49739982)
+### 4. [ZCode, the GLM coding agent, silently uploads your Git history](https://tokenstead.ai/guides/zcode-silent-git-history-upload)
+**Score:** 104 | **By:** cdnsteve | [Comments](https://news.ycombinator.com/item?id=49752422)
 
-### 5. [Better Vector Search for Long Documents: Chunking Inside Manticore Search](https://manticoresearch.com/blog/auto-chunking/)
-**Score:** 31 | **By:** GloriaVinogrado | [Comments](https://news.ycombinator.com/item?id=49738766)
+### 5. [Jemalloc 5.4.0](https://github.com/jemalloc/jemalloc/releases/tag/5.4.0)
+**Score:** 202 | **By:** gkfasdfasdf | [Comments](https://news.ycombinator.com/item?id=49750152)
 
-### 6. [My temporary PHP fix from 2014 has nearly 20M installs. Today I'm deprecating it](https://jakeasmith.com/blog/http-build-url/)
-**Score:** 179 | **By:** jakeasmith | [Comments](https://news.ycombinator.com/item?id=49718773)
+### 6. [Microsoft exec called AI scraping 'the largest theft of labor in human history'](https://techcrunch.com/2026/09/17/microsoft-exec-called-ai-scraping-the-largest-theft-of-labor-in-human-history-new-unredacted-filings-reveal/)
+**Score:** 321 | **By:** pluc | [Comments](https://news.ycombinator.com/item?id=49752056)
 
-### 7. [Keys Not Included: recovering the signing keys for US driver's license barcodes](https://ryan.science/blog/keys-not-included)
-**Score:** 212 | **By:** Ryan5453 | [Comments](https://news.ycombinator.com/item?id=49735930)
+### 7. [The scourge of x86 emulation](https://fex-emu.com/Scourge-of-emulation/)
+**Score:** 185 | **By:** dagmx | [Comments](https://news.ycombinator.com/item?id=49750094)
 
-### 8. [The Relation Between Mathematics and Physics by Paul Dirac](https://www.damtp.cam.ac.uk/events/strings02/dirac/speach.html)
-**Score:** 93 | **By:** rramadass | [Comments](https://news.ycombinator.com/item?id=49685835)
+### 8. [Astra for Law](https://openai.com/index/astra-for-law/)
+**Score:** 520 | **By:** vertigoruntime | [Comments](https://news.ycombinator.com/item?id=49745940)
 
-### 9. [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl)
-**Score:** 593 | **By:** polyphilz | [Comments](https://news.ycombinator.com/item?id=49731285)
-
-### 10. [GLM Built Its Own Inference Infrastructure](https://z.ai/blog/glm-built-its-inference-infrastructure)
-**Score:** 144 | **By:** whiteros_e | [Comments](https://news.ycombinator.com/item?id=49737922)
+### 9. [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b)
+**Score:** 482 | **By:** JonSchneider | [Comments](https://news.ycombinator.com/item?id=49746618)
 
