@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-21
+**Generated on:** 2026-09-22
 
-### 1. [What Sun Got Wrong](https://bcantrill.dtrace.org/2026/09/20/what-sun-got-wrong/)
-**Score:** 65 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49787436)
+### 1. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
+**Score:** 89 | **By:** dimonomid | [Comments](https://news.ycombinator.com/item?id=49799965)
 
-### 2. [ZuckOff Know when a camera is in the room](https://zuckoff.app/)
-**Score:** 543 | **By:** Bluestein | [Comments](https://news.ycombinator.com/item?id=49785429)
+### 2. [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
+**Score:** 225 | **By:** networked | [Comments](https://news.ycombinator.com/item?id=49797323)
 
-### 3. [Uber arbitration award over Emily Normandin-Parker's death](https://consumerrights.wiki/w/Uber_arbitration_award_over_Emily_Normandin-Parker%27s_death)
-**Score:** 40 | **By:** dataflow | [Comments](https://news.ycombinator.com/item?id=49787523)
+### 3. [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)
+**Score:** 137 | **By:** BruceEel | [Comments](https://news.ycombinator.com/item?id=49798204)
 
-### 4. [Disney+: New user agreement allows ads before movies in all subscriptions](https://consumerrights.wiki/w/Disney%2B_ad_policy_change)
-**Score:** 316 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=49784336)
+### 4. [Will Open Source Survive the Agents That Replaced It?](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
+**Score:** 17 | **By:** albertoarena | [Comments](https://news.ycombinator.com/item?id=49799910)
 
-### 5. [Kev: Tiny Jev-like family of decision models built on top of Qwen3.5](https://github.com/jaredpalmer/kev/tree/main)
-**Score:** 239 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49783999)
+### 5. [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
+**Score:** 955 | **By:** volf_ | [Comments](https://news.ycombinator.com/item?id=49792730)
 
-### 6. [Jev-Leftpad](https://github.com/f/jev-leftpad)
-**Score:** 178 | **By:** fka | [Comments](https://news.ycombinator.com/item?id=49784706)
+### 6. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
+**Score:** 519 | **By:** possibilistic | [Comments](https://news.ycombinator.com/item?id=49794615)
 
-### 7. [ZuckOff Is a Free App That Sees Meta Glasses Before They See You](https://www.wired.me/story/meta-smart-glasses-detector-app-zuckoff)
-**Score:** 273 | **By:** choult | [Comments](https://news.ycombinator.com/item?id=49785397)
+### 7. [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
+**Score:** 30 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49799577)
 
-### 8. [Grim Fandango Puzzle Document (1996) [pdf]](http://gameshelf.jmac.org/2008/11/13/GrimPuzzleDoc_small.pdf)
-**Score:** 280 | **By:** kelseyfrog | [Comments](https://news.ycombinator.com/item?id=49783495)
+### 8. [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
+**Score:** 109 | **By:** KellyCriterion | [Comments](https://news.ycombinator.com/item?id=49799083)
 
-### 9. [AX – Google’s Open Agentic Orchestrator](https://agentexecutor.io)
-**Score:** 572 | **By:** blazarquasar | [Comments](https://news.ycombinator.com/item?id=49780797)
+### 9. [Video games inspire great UX (2019)](https://jenson.org/games/)
+**Score:** 13 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49777121)
 
-### 10. [M5 Ultra Mac Studio Review: The Dream Mac for Local AI Agents](https://www.macstories.net/stories/m5-ultra-mac-studio-review-the-dream-mac-for-local-ai-agents/)
-**Score:** 30 | **By:** piotrgrabowski | [Comments](https://news.ycombinator.com/item?id=49787313)
+### 10. [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
+**Score:** 887 | **By:** zer0tonin | [Comments](https://news.ycombinator.com/item?id=49787726)
 
