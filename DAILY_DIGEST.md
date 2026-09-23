@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-22
+**Generated on:** 2026-09-23
 
-### 1. [AI Has No Wisdom and Neither Will You](https://alexn.org/blog/2026/09/22/ai-has-no-wisdom-and-neither-will-you/)
-**Score:** 89 | **By:** dimonomid | [Comments](https://news.ycombinator.com/item?id=49799965)
+### 1. [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
+**Score:** 116 | **By:** pszypowicz | [Comments](https://news.ycombinator.com/item?id=49814947)
 
-### 2. [Can gzip be a language model?](https://nathan.rs/posts/gzip-lm/)
-**Score:** 225 | **By:** networked | [Comments](https://news.ycombinator.com/item?id=49797323)
+### 2. [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
+**Score:** 339 | **By:** bashbjorn | [Comments](https://news.ycombinator.com/item?id=49812769)
 
-### 3. [AMD's random number generator can't generate a 0?](https://board.flatassembler.net/topic.php?t=24261)
-**Score:** 137 | **By:** BruceEel | [Comments](https://news.ycombinator.com/item?id=49798204)
+### 3. [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
+**Score:** 51 | **By:** adunk | [Comments](https://news.ycombinator.com/item?id=49814236)
 
-### 4. [Will Open Source Survive the Agents That Replaced It?](https://albertoarena.it/posts/will-open-source-survive-the-agents-that-replaced-it/)
-**Score:** 17 | **By:** albertoarena | [Comments](https://news.ycombinator.com/item?id=49799910)
+### 4. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
+**Score:** 1621 | **By:** OfficialTurkey | [Comments](https://news.ycombinator.com/item?id=49805509)
 
-### 5. [MiMo v2.6](https://mimo.xiaomi.com/mimo-v2-6)
-**Score:** 955 | **By:** volf_ | [Comments](https://news.ycombinator.com/item?id=49792730)
+### 5. [What AI-Native Looks Like](https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459)
+**Score:** 6 | **By:** fagnerbrack | [Comments](https://news.ycombinator.com/item?id=49815344)
 
-### 6. [Spymarks, Not Watermarks](https://brand.io/article/spymarks/)
-**Score:** 519 | **By:** possibilistic | [Comments](https://news.ycombinator.com/item?id=49794615)
+### 6. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
+**Score:** 1632 | **By:** km144 | [Comments](https://news.ycombinator.com/item?id=49803892)
 
-### 7. [Type Punning in C and C++](https://blog.pwkf.org/2026/09/21/correct-type-punning-in-c.html)
-**Score:** 30 | **By:** ingve | [Comments](https://news.ycombinator.com/item?id=49799577)
+### 7. [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
+**Score:** 185 | **By:** raybb | [Comments](https://news.ycombinator.com/item?id=49811065)
 
-### 8. [9 Ads per Minute: FIFA Cup 26 – "the price of the beautiful game"](https://www.bristol.ac.uk/news/2026/september/world-cup-viewers.html)
-**Score:** 109 | **By:** KellyCriterion | [Comments](https://news.ycombinator.com/item?id=49799083)
+### 8. [Show HN: Ive Sent It – online courier for files, with signed proof of delivery](https://ivesentit.com)
+**Score:** 5 | **By:** ivesentit | [Comments](https://news.ycombinator.com/item?id=49815168)
 
-### 9. [Video games inspire great UX (2019)](https://jenson.org/games/)
-**Score:** 13 | **By:** andsoitis | [Comments](https://news.ycombinator.com/item?id=49777121)
-
-### 10. [Attention is all you have](https://alicegg.tech/2026/09/21/attention)
-**Score:** 887 | **By:** zer0tonin | [Comments](https://news.ycombinator.com/item?id=49787726)
+### 9. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
+**Score:** 690 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=49801324)
 
