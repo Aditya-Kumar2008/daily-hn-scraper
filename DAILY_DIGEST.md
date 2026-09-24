@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-23
+**Generated on:** 2026-09-24
 
-### 1. [Claude Code reads AGENTS.md only when telemetry is on](https://blog.szypowi.cz/p/claude-code-reads-agents.md-only-when-telemetry-is-on/)
-**Score:** 116 | **By:** pszypowicz | [Comments](https://news.ycombinator.com/item?id=49814947)
+### 1. [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
+**Score:** 115 | **By:** pillars | [Comments](https://news.ycombinator.com/item?id=49828385)
 
-### 2. [Jev in 25 Lines of Python](https://www.nobodywho.ai/posts/jev-in-25-lines/)
-**Score:** 339 | **By:** bashbjorn | [Comments](https://news.ycombinator.com/item?id=49812769)
+### 2. [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
+**Score:** 63 | **By:** ReturnoftheHack | [Comments](https://news.ycombinator.com/item?id=49828731)
 
-### 3. [Z80 REPL](https://abagames.github.io/z80-repl/index.html)
-**Score:** 51 | **By:** adunk | [Comments](https://news.ycombinator.com/item?id=49814236)
+### 3. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
+**Score:** 483 | **By:** aaronday | [Comments](https://news.ycombinator.com/item?id=49823582)
 
-### 4. [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/)
-**Score:** 1621 | **By:** OfficialTurkey | [Comments](https://news.ycombinator.com/item?id=49805509)
+### 4. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
+**Score:** 697 | **By:** raahelb | [Comments](https://news.ycombinator.com/item?id=49820134)
 
-### 5. [What AI-Native Looks Like](https://fagnerbrack.com/heres-what-ai-native-with-stable-infra-looks-like-9f17cdb61459)
-**Score:** 6 | **By:** fagnerbrack | [Comments](https://news.ycombinator.com/item?id=49815344)
+### 5. [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
+**Score:** 209 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49825642)
 
-### 6. [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5)
-**Score:** 1632 | **By:** km144 | [Comments](https://news.ycombinator.com/item?id=49803892)
+### 6. [RAM: the forgotten history (2024)](https://blog.coredump.cx/p/memory-the-forgotten-history)
+**Score:** 53 | **By:** Luc | [Comments](https://news.ycombinator.com/item?id=49802661)
 
-### 7. [Transit rewards](https://waymo.com/blog/2026/09/transit-rewards/)
-**Score:** 185 | **By:** raybb | [Comments](https://news.ycombinator.com/item?id=49811065)
+### 7. [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
+**Score:** 321 | **By:** pieterr | [Comments](https://news.ycombinator.com/item?id=49827794)
 
-### 8. [Show HN: Ive Sent It – online courier for files, with signed proof of delivery](https://ivesentit.com)
-**Score:** 5 | **By:** ivesentit | [Comments](https://news.ycombinator.com/item?id=49815168)
+### 8. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
+**Score:** 217 | **By:** JohnHammersley | [Comments](https://news.ycombinator.com/item?id=49823664)
 
-### 9. [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html)
-**Score:** 690 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=49801324)
+### 9. [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
+**Score:** 54 | **By:** adunk | [Comments](https://news.ycombinator.com/item?id=49828969)
+
+### 10. ['That's so AI ' What gen Alpha's biggest insult tells us](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
+**Score:** 17 | **By:** YeGoblynQueenne | [Comments](https://news.ycombinator.com/item?id=49829650)
 
