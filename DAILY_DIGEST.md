@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-24
+**Generated on:** 2026-09-25
 
-### 1. [Nokia Design Archive (2025)](https://nokiadesignarchive.aalto.fi/index.html)
-**Score:** 115 | **By:** pillars | [Comments](https://news.ycombinator.com/item?id=49828385)
+### 1. [Dutch governments builds alternative for Microsoft based on NixOS](https://www.dawo.community/en/)
+**Score:** 486 | **By:** fjfaase | [Comments](https://news.ycombinator.com/item?id=49841563)
 
-### 2. [Two-Tier Encryption in the UK – Identical Apple Devices, Different Protection](https://macanorak.com/two-tier-encryption-in-the-uk/)
-**Score:** 63 | **By:** ReturnoftheHack | [Comments](https://news.ycombinator.com/item?id=49828731)
+### 2. [Platform-Independent SIMD in Go](https://go.dev/blog/simd-experiment)
+**Score:** 52 | **By:** yurivish | [Comments](https://news.ycombinator.com/item?id=49843269)
 
-### 3. [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux)
-**Score:** 483 | **By:** aaronday | [Comments](https://news.ycombinator.com/item?id=49823582)
+### 3. [I'm Tired of Being on the Network](https://matduggan.com/im-tired-of-being-on-the-network/)
+**Score:** 23 | **By:** sagacity | [Comments](https://news.ycombinator.com/item?id=49843547)
 
-### 4. [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system)
-**Score:** 697 | **By:** raahelb | [Comments](https://news.ycombinator.com/item?id=49820134)
+### 4. [Git-bug: Distributed, offline-first bug tracker embedded in Git](https://github.com/git-bug/git-bug)
+**Score:** 48 | **By:** alentred | [Comments](https://news.ycombinator.com/item?id=49843174)
 
-### 5. [Ideas on modernizing the open-source desktop](https://lwn.net/SubscriberLink/1095425/2d9f411252325784/)
-**Score:** 209 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49825642)
+### 5. [Pentium II at 600Mhz with Voodoo 3 Emulated on 86Box with M6 Mac Mini](https://nyaa.sh/reviews/mac-mini-m6-emulation)
+**Score:** 122 | **By:** hugh4life | [Comments](https://news.ycombinator.com/item?id=49841285)
 
-### 6. [RAM: the forgotten history (2024)](https://blog.coredump.cx/p/memory-the-forgotten-history)
-**Score:** 53 | **By:** Luc | [Comments](https://news.ycombinator.com/item?id=49802661)
+### 6. [Ink and Switch Interactive Homepage](https://www.inkandswitch.com/)
+**Score:** 71 | **By:** iFreilicht | [Comments](https://news.ycombinator.com/item?id=49842270)
 
-### 7. [Meta takes down a critical video about meta AI Glasses after filming at Meta](https://www.reddit.com/r/facebook/comments/1wotwrk/meta_takes_down_a_critical_video_about_meta_ai/)
-**Score:** 321 | **By:** pieterr | [Comments](https://news.ycombinator.com/item?id=49827794)
+### 7. [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html)
+**Score:** 1308 | **By:** daveoc64 | [Comments](https://news.ycombinator.com/item?id=49831968)
 
-### 8. [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/)
-**Score:** 217 | **By:** JohnHammersley | [Comments](https://news.ycombinator.com/item?id=49823664)
+### 8. [Topcoat is pushing the boundary of server applications with Rust](https://tokio.rs/blog/2026-09-24-topcoat-server-applications)
+**Score:** 29 | **By:** sagacity | [Comments](https://news.ycombinator.com/item?id=49842332)
 
-### 9. [The newest ESP32 can run Linux and it's getting close to a Raspberry Pi](https://www.xda-developers.com/newest-esp32-run-linux-close-to-raspberry-pi/)
-**Score:** 54 | **By:** adunk | [Comments](https://news.ycombinator.com/item?id=49828969)
+### 9. [CVE-2025-13032: Entering and Breaking the Avast Antivirus Sandbox Part 2](https://www.safateam.com/intelligence-hub/research/technical-articles/cve-2025-13032-entering-and-breaking-the-avast-antivirus-sandbox-part-2)
+**Score:** 70 | **By:** safateam | [Comments](https://news.ycombinator.com/item?id=49841115)
 
-### 10. ['That's so AI ' What gen Alpha's biggest insult tells us](https://www.theguardian.com/society/2026/sep/24/thats-so-ai-what-gen-alphas-biggest-insult-tells-us)
-**Score:** 17 | **By:** YeGoblynQueenne | [Comments](https://news.ycombinator.com/item?id=49829650)
+### 10. [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com)
+**Score:** 752 | **By:** MitPitt | [Comments](https://news.ycombinator.com/item?id=49823738)
 
