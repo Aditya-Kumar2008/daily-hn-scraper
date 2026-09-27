@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-26
+**Generated on:** 2026-09-27
 
-### 1. [Breaking Up with Google Play: Why Conversations Is Now Free](https://gultsch.de/posts/breaking-up-with-google-play/)
-**Score:** 129 | **By:** ezst | [Comments](https://news.ycombinator.com/item?id=49855315)
+### 1. [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
+**Score:** 171 | **By:** blutack | [Comments](https://news.ycombinator.com/item?id=49854219)
 
-### 2. [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story)
-**Score:** 95 | **By:** ksec | [Comments](https://news.ycombinator.com/item?id=49854693)
+### 2. ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
+**Score:** 65 | **By:** yu3zhou4 | [Comments](https://news.ycombinator.com/item?id=49865343)
 
-### 3. [Revealing the details of how OpenAI agents hacked Hugging Face](https://swarmtraces.org/)
-**Score:** 532 | **By:** specked-citrus | [Comments](https://news.ycombinator.com/item?id=49849985)
+### 3. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
+**Score:** 399 | **By:** silveraxe93 | [Comments](https://news.ycombinator.com/item?id=49844657)
 
-### 4. [One Month Without AI](https://blog.bustikiller.com/2026/09/25/one-month-without-ai.html)
-**Score:** 79 | **By:** saibotk | [Comments](https://news.ycombinator.com/item?id=49855018)
+### 4. [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
+**Score:** 375 | **By:** papergirl | [Comments](https://news.ycombinator.com/item?id=49863864)
 
-### 5. [Floci: Locally emulating any cloud service](https://floci.io)
-**Score:** 40 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=49854416)
+### 5. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
+**Score:** 274 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49856988)
 
-### 6. [We're gonna need a lot more mathematicians](https://terrytao.wordpress.com/2026/09/24/were-gonna-need-a-lot-more-mathematicians/)
-**Score:** 180 | **By:** srcreigh | [Comments](https://news.ycombinator.com/item?id=49852717)
+### 6. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
+**Score:** 449 | **By:** Qision | [Comments](https://news.ycombinator.com/item?id=49842764)
 
-### 7. [Plan mode is dead](https://www.aymannadeem.com/artificial/intelligence,/developer/tools/2026/09/24/plan-mode-is-dead.html)
-**Score:** 375 | **By:** jmvldz | [Comments](https://news.ycombinator.com/item?id=49840054)
+### 7. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
+**Score:** 279 | **By:** shenli3514 | [Comments](https://news.ycombinator.com/item?id=49859112)
 
-### 8. [A single function Jev-like wrapper for LLMs, including vision models](http://allanrbo.blogspot.com/2026/09/a-jev-like-wrapper-for-llms-including.html)
-**Score:** 99 | **By:** allanrbo | [Comments](https://news.ycombinator.com/item?id=49853175)
+### 8. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
+**Score:** 337 | **By:** jpwalsh234 | [Comments](https://news.ycombinator.com/item?id=49858513)
 
-### 9. [Ollaya – Ollama for open-source, Jev-style decision models](https://ollaya.dev/)
-**Score:** 488 | **By:** Ardakilic | [Comments](https://news.ycombinator.com/item?id=49848269)
+### 9. [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment)
+**Score:** 38 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=49849723)
 
-### 10. [Show HN: Jev Plays Pokémon Red](https://jev-pokemon.vercel.app/)
-**Score:** 215 | **By:** pancomplex | [Comments](https://news.ycombinator.com/item?id=49845172)
+### 10. [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/)
+**Score:** 5 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=49856885)
 
