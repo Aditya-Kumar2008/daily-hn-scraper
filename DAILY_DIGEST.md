@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-27
+**Generated on:** 2026-09-28
 
-### 1. [Flip Fluid on Flip Dots](https://mitxela.com/projects/flipflip)
-**Score:** 171 | **By:** blutack | [Comments](https://news.ycombinator.com/item?id=49854219)
+### 1. [The problem is not the AI code, but nobody knows anything anymore](https://www.ssp.sh/brain/the-problem-is-not-the-ai-code-but-nobody-knows-anything-anymore/)
+**Score:** 20 | **By:** zazuke | [Comments](https://news.ycombinator.com/item?id=49880312)
 
-### 2. ["As a Language Model": Chat Template Switches LLM Self-Referential Voice](https://arxiv.org/abs/2609.25021)
-**Score:** 65 | **By:** yu3zhou4 | [Comments](https://news.ycombinator.com/item?id=49865343)
+### 2. [Nvidia wants to put a watchdog chip next to every AI agent](https://madrobot.blog/2026/09/28/nvidia-open-agent-safety-platform-openshell-sentry-rogue-ai-agents/)
+**Score:** 29 | **By:** jonbaer | [Comments](https://news.ycombinator.com/item?id=49879883)
 
-### 3. [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later)
-**Score:** 399 | **By:** silveraxe93 | [Comments](https://news.ycombinator.com/item?id=49844657)
+### 3. [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates)
+**Score:** 19 | **By:** piotrgrabowski | [Comments](https://news.ycombinator.com/item?id=49880036)
 
-### 4. [OpenAI Feared "Optics" of what might appear on Hacker News](https://authorsguild.org/news/ag-v-openai-top-execs-knew-mass-book-piracy-was-illegal/)
-**Score:** 375 | **By:** papergirl | [Comments](https://news.ycombinator.com/item?id=49863864)
+### 4. [Parley: Federated, decentralised chat that speaks plain IRC](https://git.mills.io/prologic/parley)
+**Score:** 217 | **By:** davidcollantes | [Comments](https://news.ycombinator.com/item?id=49875913)
 
-### 5. [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/)
-**Score:** 274 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=49856988)
+### 5. [What Heraldry and Mon Can Teach Us About Building Visual-Identity Generators](https://benovermyer.com/blog/2026/09/japanese-vs-western-heraldry/)
+**Score:** 21 | **By:** bovermyer | [Comments](https://news.ycombinator.com/item?id=49878900)
 
-### 6. [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe)
-**Score:** 449 | **By:** Qision | [Comments](https://news.ycombinator.com/item?id=49842764)
+### 6. [I Switched to Brave Browser](https://kevquirk.com/i-switched-to-brave-browser)
+**Score:** 38 | **By:** mindracer | [Comments](https://news.ycombinator.com/item?id=49878759)
 
-### 7. [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978)
-**Score:** 279 | **By:** shenli3514 | [Comments](https://news.ycombinator.com/item?id=49859112)
+### 7. [Hijacking the PS5's RTMP Stream](https://yashgarg.dev/posts/hijacking-ps5-rtmp-stream/)
+**Score:** 8 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49879702)
 
-### 8. [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw)
-**Score:** 337 | **By:** jpwalsh234 | [Comments](https://news.ycombinator.com/item?id=49858513)
+### 8. [Kids turned low-traffic NPR Spotify comments into a secret group chat](https://www.thisamericanlife.org/897/transcript)
+**Score:** 48 | **By:** simonpure | [Comments](https://news.ycombinator.com/item?id=49879697)
 
-### 9. [Finally, A True Blue Rose Exists](https://www.sciencenews.org/article/true-blue-rose-pigment-copigment)
-**Score:** 38 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=49849723)
+### 9. [Coding Is Not Solved](https://blog.alexewerlof.com/p/coding-is-not-solved)
+**Score:** 245 | **By:** firstSpeaker | [Comments](https://news.ycombinator.com/item?id=49877988)
 
-### 10. [Fakecloud: Local AWS cloud emulator for integration tests](https://fakecloud.dev/)
-**Score:** 5 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=49856885)
+### 10. [37,500 border drawings: a map of the world as people remember it](https://www.habibicode.org/thedrawnworld)
+**Score:** 121 | **By:** nicocarsui | [Comments](https://news.ycombinator.com/item?id=49875142)
 
