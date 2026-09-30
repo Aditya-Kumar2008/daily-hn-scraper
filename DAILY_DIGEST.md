@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-09-29
+**Generated on:** 2026-09-30
 
-### 1. [How Delhi Cut Electricity Loss from 50 to 5 Percent](https://spectrum.ieee.org/delhi-electricity-loss)
-**Score:** 155 | **By:** rbanffy | [Comments](https://news.ycombinator.com/item?id=49892245)
+### 1. [Pi.dev: You Said No MCP](https://earendil.com/posts/you-said-no-mcp/)
+**Score:** 313 | **By:** yarapavan | [Comments](https://news.ycombinator.com/item?id=49906637)
 
-### 2. [Claude partial outage](https://status.claude.com/incidents/4xvtc2gnq73l)
-**Score:** 25 | **By:** sidcool | [Comments](https://news.ycombinator.com/item?id=49893876)
+### 2. [SDF vs. MSDF vs. Slug: GPU Text Rendering](https://alphapixeldev.com/sdf-vs-msdf-vs-slug-vs-rive-gpu-text-rendering/)
+**Score:** 9 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49908962)
 
-### 3. [AI companies leak data to advertisers [pdf]](https://jorgegarciaherrero.com/wp-content/interactivos/20260916-Prompt-like-a-butterfly-sting-like-a-tracker-(clean).pdf)
-**Score:** 287 | **By:** damaru2 | [Comments](https://news.ycombinator.com/item?id=49890226)
+### 3. [Show HN: JBR-001 – An open-source 3D printable desktop robot](https://projecthub.arduino.cc/syntheticaidata/jbr-001-a-desktop-companion-robot-powered-by-arduino-uno-q-b11c96)
+**Score:** 68 | **By:** gvuksic | [Comments](https://news.ycombinator.com/item?id=49890707)
 
-### 4. [Jeeves. Reasoning improves Jev-like decision models](https://github.com/PostHog/jeeves)
-**Score:** 119 | **By:** nicowaltz | [Comments](https://news.ycombinator.com/item?id=49891290)
+### 4. [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf)
+**Score:** 755 | **By:** bryan0 | [Comments](https://news.ycombinator.com/item?id=49901736)
 
-### 5. [Without the Hot Air](https://www.withouthotair.com/)
-**Score:** 42 | **By:** 0sake_rs | [Comments](https://news.ycombinator.com/item?id=49892175)
+### 5. [Upgrade your desktop: Ubuntu 26.04.1 LTS is now available](https://ubuntu.com/blog/upgrade-your-desktop-ubuntu-26-04-lts)
+**Score:** 39 | **By:** d99kris | [Comments](https://news.ycombinator.com/item?id=49908757)
 
-### 6. [You Are No Longer Invited to Dinner](https://www.derekthompson.org/p/the-death-of-the-american-host)
-**Score:** 368 | **By:** barry-cotter | [Comments](https://news.ycombinator.com/item?id=49891295)
+### 6. [Mathematical Origami](https://mathigon.org/origami)
+**Score:** 39 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=49889140)
 
-### 7. [500k facial scans at UK stations yield no arrests, 1 false positive](https://www.theguardian.com/technology/2026/sep/29/trial-live-facial-recognition-cameras-london-stations-false-positive)
-**Score:** 228 | **By:** ilamont | [Comments](https://news.ycombinator.com/item?id=49891480)
+### 7. [Solving Factorio Quality](https://exyr.org/2026/solving-factorio-quality/)
+**Score:** 171 | **By:** laurenth | [Comments](https://news.ycombinator.com/item?id=49887343)
 
-### 8. [Using any C++ library in Godot](https://blog.conan.io/cpp/conan/gamedev/godot/cmake/2026/09/29/Using-Any-Cpp-Library-In-Godot.html)
-**Score:** 106 | **By:** czoido | [Comments](https://news.ycombinator.com/item?id=49890051)
+### 8. [Dots: Always-on agents](https://openai.com/index/introducing-dots/)
+**Score:** 692 | **By:** alvis | [Comments](https://news.ycombinator.com/item?id=49896604)
 
-### 9. [What makes software development engineering](https://parksb.github.io/en/article/44.html)
-**Score:** 10 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=49892958)
+### 9. [Vermont replacing power plants with home batteries](https://www.bbc.com/future/article/20260928-a-virtual-power-plant-hidden-in-vermont-homes-is-keeping-the-lights-on-during-storms)
+**Score:** 285 | **By:** devonnull | [Comments](https://news.ycombinator.com/item?id=49897993)
 
-### 10. [US sanctions force The Netherlands off Microsoft and toward alternative NixOS](https://www.tomshardware.com/software/the-netherlands-is-rolling-alternative-nixos-based-software-ecosystem-after-u-s-sanctions-on-icc-took-microsoft-off-the-table-trial-programs-running-now-first-release-expected-at-end-of-2027)
-**Score:** 232 | **By:** mywacaday | [Comments](https://news.ycombinator.com/item?id=49891550)
+### 10. [America.gov](https://america.gov/)
+**Score:** 679 | **By:** plesiv | [Comments](https://news.ycombinator.com/item?id=49893509)
 
