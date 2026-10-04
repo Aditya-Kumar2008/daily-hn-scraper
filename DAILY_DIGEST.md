@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-03
+**Generated on:** 2026-10-04
 
-### 1. [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/)
-**Score:** 296 | **By:** azhenley | [Comments](https://news.ycombinator.com/item?id=49940394)
+### 1. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
+**Score:** 52 | **By:** snehesht | [Comments](https://news.ycombinator.com/item?id=49953495)
 
-### 2. [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility)
-**Score:** 682 | **By:** hn_acker | [Comments](https://news.ycombinator.com/item?id=49927754)
+### 2. [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
+**Score:** 52 | **By:** rdmuser | [Comments](https://news.ycombinator.com/item?id=49952029)
 
-### 3. [Apple Pass Designer](https://developer.apple.com/pass-designer/)
-**Score:** 458 | **By:** soheilpro | [Comments](https://news.ycombinator.com/item?id=49937276)
+### 3. [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
+**Score:** 15 | **By:** r0r0 | [Comments](https://news.ycombinator.com/item?id=49930439)
 
-### 4. [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/)
-**Score:** 519 | **By:** CoryOndrejka | [Comments](https://news.ycombinator.com/item?id=49925184)
+### 4. [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
+**Score:** 573 | **By:** paveworld | [Comments](https://news.ycombinator.com/item?id=49949438)
 
-### 5. [An Update on Orion for Linux and Windows](https://blog.kagi.com/update-orion-linux-windows)
-**Score:** 92 | **By:** pentagrama | [Comments](https://news.ycombinator.com/item?id=49941447)
+### 5. [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
+**Score:** 185 | **By:** vinhnx | [Comments](https://news.ycombinator.com/item?id=49950554)
 
-### 6. [Show HN: Germany's new sovereign AI model Kolibri](https://tej.as/blog/aleph-alpha-kolibri)
-**Score:** 17 | **By:** tejaskumar__ | [Comments](https://news.ycombinator.com/item?id=49943034)
+### 6. [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
+**Score:** 21 | **By:** allenleee | [Comments](https://news.ycombinator.com/item?id=49952111)
 
-### 7. [Cloudflare OHTTP gateway](https://blog.cloudflare.com/announcing-cloudflare-ohttp-gateway/)
-**Score:** 106 | **By:** est | [Comments](https://news.ycombinator.com/item?id=49941091)
+### 7. [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
+**Score:** 36 | **By:** actfrench | [Comments](https://news.ycombinator.com/item?id=49953116)
 
-### 8. [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f)
-**Score:** 314 | **By:** mariuz | [Comments](https://news.ycombinator.com/item?id=49932147)
+### 8. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
+**Score:** 345 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=49946895)
 
-### 9. [C++ Insights – See your source code with the eyes of a Compiler](https://github.com/andreasfertig/cppinsights)
-**Score:** 4 | **By:** rramadass | [Comments](https://news.ycombinator.com/item?id=49928361)
+### 9. [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis)
+**Score:** 36 | **By:** luu | [Comments](https://news.ycombinator.com/item?id=49935097)
+
+### 10. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
+**Score:** 243 | **By:** CosmoWenman | [Comments](https://news.ycombinator.com/item?id=49946355)
 
