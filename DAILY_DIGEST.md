@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-04
+**Generated on:** 2026-10-05
 
-### 1. [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata)
-**Score:** 52 | **By:** snehesht | [Comments](https://news.ycombinator.com/item?id=49953495)
+### 1. [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
+**Score:** 55 | **By:** sssilver | [Comments](https://news.ycombinator.com/item?id=49965894)
 
-### 2. [VGHF Digital Archive passes 5000 magazines. Here's what's next](https://gamehistory.org/5k-magazines/)
-**Score:** 52 | **By:** rdmuser | [Comments](https://news.ycombinator.com/item?id=49952029)
+### 2. [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
+**Score:** 248 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49963171)
 
-### 3. [Glashütte Trash Clock – A 30-minute pendulum clock made from trash](https://niklasroy.com/gtc/)
-**Score:** 15 | **By:** r0r0 | [Comments](https://news.ycombinator.com/item?id=49930439)
+### 3. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
+**Score:** 39 | **By:** Vosporos | [Comments](https://news.ycombinator.com/item?id=49965308)
 
-### 4. [Tell HN: Bob Cringely has died](https://news.ycombinator.com/item?id=49949438)
-**Score:** 573 | **By:** paveworld | [Comments](https://news.ycombinator.com/item?id=49949438)
+### 4. [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
+**Score:** 353 | **By:** clan | [Comments](https://news.ycombinator.com/item?id=49962012)
 
-### 5. [Why don't more developers “use the platform”?](https://nolanlawson.com/2026/10/03/why-dont-more-developers-use-the-platform/)
-**Score:** 185 | **By:** vinhnx | [Comments](https://news.ycombinator.com/item?id=49950554)
+### 5. [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
+**Score:** 10 | **By:** eustoria | [Comments](https://news.ycombinator.com/item?id=49966163)
 
-### 6. [Show HN: AI search for every photo and every frame of video on macOS](https://github.com/allenv0/SCM)
-**Score:** 21 | **By:** allenleee | [Comments](https://news.ycombinator.com/item?id=49952111)
+### 6. [The technology to eradicate mosquito-borne disease exists](https://worksinprogress.co/issue/mosquitoes-are-a-choice/)
+**Score:** 119 | **By:** benbreen | [Comments](https://news.ycombinator.com/item?id=49956290)
 
-### 7. [Rejection Sensitivity in Gifted and Twice-Exceptional Children](https://teachyourkids.substack.com/p/rejection-sensitivity-in-gifted-and)
-**Score:** 36 | **By:** actfrench | [Comments](https://news.ycombinator.com/item?id=49953116)
+### 7. [Mold Linker Version 3.0.0 Release – Rewritten in Rust](https://github.com/rui314/mold/releases/tag/v3.0.0)
+**Score:** 89 | **By:** roflcopter69 | [Comments](https://news.ycombinator.com/item?id=49963385)
 
-### 8. [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU)
-**Score:** 345 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=49946895)
+### 8. [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
+**Score:** 269 | **By:** finnlab | [Comments](https://news.ycombinator.com/item?id=49964303)
 
-### 9. [gpuvis: GPU Trace Visualizer](https://github.com/mikesart/gpuvis)
-**Score:** 36 | **By:** luu | [Comments](https://news.ycombinator.com/item?id=49935097)
+### 9. [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
+**Score:** 128 | **By:** 0xedb | [Comments](https://news.ycombinator.com/item?id=49961861)
 
-### 10. [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict)
-**Score:** 243 | **By:** CosmoWenman | [Comments](https://news.ycombinator.com/item?id=49946355)
+### 10. [Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
+**Score:** 100 | **By:** AlexeyBrin | [Comments](https://news.ycombinator.com/item?id=49943479)
 
