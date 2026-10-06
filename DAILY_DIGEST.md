@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-05
+**Generated on:** 2026-10-06
 
-### 1. [Borland Turbo Basic](https://dosdays.co.uk/topics/Software/borland_turbo_basic.php)
-**Score:** 55 | **By:** sssilver | [Comments](https://news.ycombinator.com/item?id=49965894)
+### 1. [Mistral Large 4](https://docs.mistral.ai/models/mistral-large-4-0)
+**Score:** 478 | **By:** Philpax | [Comments](https://news.ycombinator.com/item?id=49977979)
 
-### 2. [Web Search API](https://developers.cloudflare.com/changelog/post/2026-10-02-introducing-web-search-api/)
-**Score:** 248 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=49963171)
+### 2. [Mistral Large 4: "Le Chonk"](https://mistral.ai/news/mistral-large-4/)
+**Score:** 211 | **By:** j-bu | [Comments](https://news.ycombinator.com/item?id=49978116)
 
-### 3. [Making a GTK application in Haskell, part 1](https://floreal.tech/blog/2026/making-a-gtk-app-in-haskell-part-1/)
-**Score:** 39 | **By:** Vosporos | [Comments](https://news.ycombinator.com/item?id=49965308)
+### 3. [Release of Polars 2.0](https://pola.rs/posts/release-polars-2/)
+**Score:** 148 | **By:** simicd | [Comments](https://news.ycombinator.com/item?id=49977177)
 
-### 4. [Denmark Data Breach Exposes 8.8M People's Personal Data](https://www.cpr.dk/cpr-nyt/nyhedsarkiv/2026/okt/omfattende-uautoriseret-adgang-til-borgeres-cpr-oplysninger)
-**Score:** 353 | **By:** clan | [Comments](https://news.ycombinator.com/item?id=49962012)
+### 4. [Nobel Prize in Physics goes to Francis Halzen](https://www.nobelprize.org/prizes/physics/2026/)
+**Score:** 277 | **By:** solarist | [Comments](https://news.ycombinator.com/item?id=49976265)
 
-### 5. [The future of independence is interdependence](https://onlys.ky/independence-is-interdependence/)
-**Score:** 10 | **By:** eustoria | [Comments](https://news.ycombinator.com/item?id=49966163)
+### 5. [Tapo (Rust/Python library) now speaks TP-Link's TPAP protocol](https://mihai.dinculescu.dev/posts/tapo-speaks-tpap/)
+**Score:** 25 | **By:** faithraven | [Comments](https://news.ycombinator.com/item?id=49978563)
 
-### 6. [The technology to eradicate mosquito-borne disease exists](https://worksinprogress.co/issue/mosquitoes-are-a-choice/)
-**Score:** 119 | **By:** benbreen | [Comments](https://news.ycombinator.com/item?id=49956290)
+### 6. [JetBrains reported a net financial loss first time in its tracked history](https://www.helgilibrary.com/companies/jetbrains)
+**Score:** 283 | **By:** thw_9a83c | [Comments](https://news.ycombinator.com/item?id=49977072)
 
-### 7. [Mold Linker Version 3.0.0 Release – Rewritten in Rust](https://github.com/rui314/mold/releases/tag/v3.0.0)
-**Score:** 89 | **By:** roflcopter69 | [Comments](https://news.ycombinator.com/item?id=49963385)
+### 7. [Show HN: Parseable, an open observability datalake, handles 100M time-series/min](https://www.parseable.com)
+**Score:** 12 | **By:** yashdotrv | [Comments](https://news.ycombinator.com/item?id=49978171)
 
-### 8. [Pixel 11 doesn't yet meet the GrapheneOS security standards and may be skipped](https://discuss.grapheneos.org/d/41564-pixel-11-doesnt-yet-meet-the-grapheneos-security-standards-and-may-be-skipped)
-**Score:** 269 | **By:** finnlab | [Comments](https://news.ycombinator.com/item?id=49964303)
+### 8. [Meta's Muse Is an Adorable Privacy and Security Dumpster Fire](https://www.techdirt.com/2026/10/06/metas-muse-is-an-adorable-privacy-and-security-dumpster-fire/)
+**Score:** 124 | **By:** beardyw | [Comments](https://news.ycombinator.com/item?id=49977588)
 
-### 9. [Huawei and Qualcomm Announce Broad Patent License Agreement](https://www.huawei.com/en/news/2026/10/qualcomm-broad-patent-agreement)
-**Score:** 128 | **By:** 0xedb | [Comments](https://news.ycombinator.com/item?id=49961861)
+### 9. [Benchmark in Milliseconds](https://matklad.github.io/2026/10/05/benchmark-milliseconds.html)
+**Score:** 11 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=49967427)
 
-### 10. [Type Safe Generic Data Structures in C](https://danielchasehooper.com/posts/typechecked-generic-c-data-structures/)
-**Score:** 100 | **By:** AlexeyBrin | [Comments](https://news.ycombinator.com/item?id=49943479)
+### 10. [Mathematics of Geothermal Energy](https://www.ebsco.com/research-starters/power-and-energy/mathematics-geothermal-energy/)
+**Score:** 16 | **By:** srameshc | [Comments](https://news.ycombinator.com/item?id=49977819)
 
