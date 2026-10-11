@@ -1,34 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-10
+**Generated on:** 2026-10-11
 
-### 1. [`123456' password used in Danish CPR data breach](https://cphpost.dk/2026-10-10/news/round-up/123456-password-used-in-massive-danish-cpr-data-breach/)
-**Score:** 235 | **By:** baal80spam | [Comments](https://news.ycombinator.com/item?id=50031269)
+### 1. [I paid people to try and follow my README](https://shkspr.mobi/blog/2026/10/i-paid-people-to-try-and-follow-my-readme/)
+**Score:** 140 | **By:** edent | [Comments](https://news.ycombinator.com/item?id=50042219)
 
-### 2. [Talorys – A self-hosted personal AI agent on Cloudflare's free tier](https://github.com/rociiu/talorys)
-**Score:** 80 | **By:** rociiu | [Comments](https://news.ycombinator.com/item?id=50031614)
+### 2. [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf)
+**Score:** 43 | **By:** Anon84 | [Comments](https://news.ycombinator.com/item?id=50043026)
 
-### 3. [Lobbying Is Corruption](https://carette.xyz/posts/lobbying_and_corruption/)
-**Score:** 138 | **By:** LucidLynx | [Comments](https://news.ycombinator.com/item?id=50032556)
+### 3. [Sudden drop in Cloudflare bot traffic after strike on Yandex datacenter](https://radar.cloudflare.com/bots/as13238?dateRange=7d)
+**Score:** 444 | **By:** walrus01 | [Comments](https://news.ycombinator.com/item?id=50041619)
 
-### 4. [REA Reverse – Engineer Anything](https://rea.tools/)
-**Score:** 520 | **By:** modinfo | [Comments](https://news.ycombinator.com/item?id=50028275)
+### 4. [Don't Put Tilde In Your Path](https://disconnect3d.pl//2026/10/02/dont-put-tilde-in-your-path/)
+**Score:** 59 | **By:** arusekk | [Comments](https://news.ycombinator.com/item?id=50042425)
 
-### 5. [C for Rust Programmers](https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/)
-**Score:** 48 | **By:** xyproto | [Comments](https://news.ycombinator.com/item?id=50005743)
+### 5. [LineageOS 24.0](https://lineageos.org/Changelog-32/)
+**Score:** 236 | **By:** timschumi | [Comments](https://news.ycombinator.com/item?id=50040276)
 
-### 6. [Cloudflare acquires Deno](https://deno.com/blog/cloudflare)
-**Score:** 1275 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=50019911)
+### 6. [Nitter: Update Oct 10th seeking funding and legal help](https://nitter.net)
+**Score:** 232 | **By:** ForHackernews | [Comments](https://news.ycombinator.com/item?id=50041682)
 
-### 7. [Telegram Desktop vulnerability allowed any user's file to be stolen](https://beaksec.github.io/posts/telegram-desktop-one-click-account-takeover/)
-**Score:** 248 | **By:** g-b-r | [Comments](https://news.ycombinator.com/item?id=50029123)
+### 7. [Valen's Memory Safety: A New Kind of Borrow Checking](https://verdagon.dev/blog/valen-group-borrowing)
+**Score:** 32 | **By:** verdagon | [Comments](https://news.ycombinator.com/item?id=50042362)
 
-### 8. [Triple-A Minesweeper](https://minesweeper.mikelacher.com/)
-**Score:** 1125 | **By:** robin_reala | [Comments](https://news.ycombinator.com/item?id=50022292)
+### 8. [How HN: Go-dev-auth zero-dependency authentication library for Go](https://github.com/go-dev-auth/go-dev-auth)
+**Score:** 12 | **By:** BisratMelak | [Comments](https://news.ycombinator.com/item?id=50042942)
 
-### 9. [Eye of Sauron: Long-Range Hidden Spy Camera Detection (2024)](https://www.usenix.org/conference/usenixsecurity24/presentation/zhang-qibo)
-**Score:** 212 | **By:** ortusdux | [Comments](https://news.ycombinator.com/item?id=49997481)
-
-### 10. [Noto means "no tofu": fixing dotted circles in Myanmar text](https://www.datocms.com/blog/handling-less-common-scripts)
-**Score:** 25 | **By:** steffoz | [Comments](https://news.ycombinator.com/item?id=49981508)
+### 9. [2D Vehicles](https://patkerr.co.uk/2d-vehicles/)
+**Score:** 542 | **By:** Michelangelo11 | [Comments](https://news.ycombinator.com/item?id=49991852)
 
