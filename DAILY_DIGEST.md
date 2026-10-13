@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-12
+**Generated on:** 2026-10-13
 
-### 1. [GLM-Legal: Advancing Agentic Legal Intelligence](https://z.ai/blog/glm-legal)
-**Score:** 116 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=50058507)
+### 1. [Apple HomeView](https://www.apple.com/apple-homeview/)
+**Score:** 276 | **By:** etothet | [Comments](https://news.ycombinator.com/item?id=50071017)
 
-### 2. [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c)
-**Score:** 52 | **By:** prophittcorey | [Comments](https://news.ycombinator.com/item?id=50058528)
+### 2. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
+**Score:** 451 | **By:** formerly_proven | [Comments](https://news.ycombinator.com/item?id=50069499)
 
-### 3. [Launch HN: Agent37 (YC F26) – Low-cost agent sandboxes for running agents](https://news.ycombinator.com/item?id=50059096)
-**Score:** 5 | **By:** vishnukool | [Comments](https://news.ycombinator.com/item?id=50059096)
+### 3. [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
+**Score:** 134 | **By:** acossta | [Comments](https://news.ycombinator.com/item?id=50070593)
 
-### 4. [The Making Of Super Mario 64 – full Giles Goddard interview (2001)](https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/)
-**Score:** 153 | **By:** gregsadetsky | [Comments](https://news.ycombinator.com/item?id=50036287)
+### 4. [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
+**Score:** 246 | **By:** amrrs | [Comments](https://news.ycombinator.com/item?id=50069971)
 
-### 5. [Show HN: PS2 games statically recompiled to WebAssembly](https://github.com/snuri00/ps2-web-recomp)
-**Score:** 195 | **By:** deadxwarrior | [Comments](https://news.ycombinator.com/item?id=50052251)
+### 5. [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
+**Score:** 64 | **By:** corvad | [Comments](https://news.ycombinator.com/item?id=50071310)
 
-### 6. [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies)
-**Score:** 615 | **By:** royfish | [Comments](https://news.ycombinator.com/item?id=50048642)
+### 6. [A Visual Intro to Complex Numbers](https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers)
+**Score:** 53 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50070287)
 
-### 7. [Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver](https://github.com/h0m3us3r/w1700k-sdr)
-**Score:** 42 | **By:** djfergus | [Comments](https://news.ycombinator.com/item?id=50055593)
+### 7. [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
+**Score:** 29 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50070741)
 
-### 8. [French supermarkets suffer fridge shutdown after 'unprecedented' cyberattack](https://uk.finance.yahoo.com/news/french-supermarket-chains-cyberattack-forced-115141288.html)
-**Score:** 122 | **By:** thinkcontext | [Comments](https://news.ycombinator.com/item?id=50057956)
+### 8. [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
+**Score:** 240 | **By:** benbreen | [Comments](https://news.ycombinator.com/item?id=50067414)
 
-### 9. [Fridges in French supermarkets hit by cyber attack](https://www.bbc.com/news/articles/crq5nzxv9q4yo)
-**Score:** 46 | **By:** cataflam | [Comments](https://news.ycombinator.com/item?id=50057551)
+### 9. [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
+**Score:** 115 | **By:** janpmz | [Comments](https://news.ycombinator.com/item?id=50069337)
 
-### 10. [Type-safe HTML templating in Zig](https://lalinsky.com/2026/10/11/type-safe-html-templating-in-zig.html)
-**Score:** 201 | **By:** lukaslalinsky | [Comments](https://news.ycombinator.com/item?id=50051573)
+### 10. [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
+**Score:** 536 | **By:** layer8 | [Comments](https://news.ycombinator.com/item?id=50063427)
 
