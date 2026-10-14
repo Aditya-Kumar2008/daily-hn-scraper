@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-13
+**Generated on:** 2026-10-14
 
-### 1. [Apple HomeView](https://www.apple.com/apple-homeview/)
-**Score:** 276 | **By:** etothet | [Comments](https://news.ycombinator.com/item?id=50071017)
+### 1. [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
+**Score:** 278 | **By:** otobrglez | [Comments](https://news.ycombinator.com/item?id=50084240)
 
-### 2. [11 year old unsoundness bugs found in Rust borrow checker](https://github.com/rust-lang/rust/issues/164250)
-**Score:** 451 | **By:** formerly_proven | [Comments](https://news.ycombinator.com/item?id=50069499)
+### 2. [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
+**Score:** 42 | **By:** jascha_eng | [Comments](https://news.ycombinator.com/item?id=50086165)
 
-### 3. [A Dynamic and Distributed Virtual GPU Cloud Built on Idle Apple Silicon Devices](https://machinelearning.apple.com/research/distributed-gpu-cloud)
-**Score:** 134 | **By:** acossta | [Comments](https://news.ycombinator.com/item?id=50070593)
+### 3. [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
+**Score:** 33 | **By:** tobr | [Comments](https://news.ycombinator.com/item?id=50085323)
 
-### 4. [We turned EmbeddingGemma 2 into a speech-to-text model](https://eg2.haku.sh/)
-**Score:** 246 | **By:** amrrs | [Comments](https://news.ycombinator.com/item?id=50069971)
+### 4. [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
+**Score:** 37 | **By:** mpweiher | [Comments](https://news.ycombinator.com/item?id=50085306)
 
-### 5. [New Apple TV 4K](https://www.apple.com/newsroom/2026/10/apple-unveils-the-new-apple-tv-4k/)
-**Score:** 64 | **By:** corvad | [Comments](https://news.ycombinator.com/item?id=50071310)
+### 5. [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
+**Score:** 171 | **By:** sighborg | [Comments](https://news.ycombinator.com/item?id=50084757)
 
-### 6. [A Visual Intro to Complex Numbers](https://photonlines.substack.com/p/a-visual-intro-to-complex-numbers)
-**Score:** 53 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50070287)
+### 6. [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
+**Score:** 3 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=50087044)
 
-### 7. [BB(10) > Graham's Number](https://github.com/jeff87654/busy-beaver/blob/main/BB10/1RB0RA_1LC1LF_1RD0LB_1RA1LE_1LI0LC_0RG1LD_1RH1LG_1LC0RG_0LJ0LI_1RZ0LC.md)
-**Score:** 29 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50070741)
+### 7. [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
+**Score:** 170 | **By:** dverlaeckt80 | [Comments](https://news.ycombinator.com/item?id=50045147)
 
-### 8. [Hittite royal archive found in Turkey](https://www.thehistoryblog.com/archives/77107)
-**Score:** 240 | **By:** benbreen | [Comments](https://news.ycombinator.com/item?id=50067414)
+### 8. [The Aaronson Oracle](https://aaronsonoracle.com/)
+**Score:** 14 | **By:** routeroff | [Comments](https://news.ycombinator.com/item?id=50086484)
 
-### 9. [Show HN: Use your OpenAI subscription to create audiobooks](https://pdftomp3.com/connect-ai/)
-**Score:** 115 | **By:** janpmz | [Comments](https://news.ycombinator.com/item?id=50069337)
+### 9. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
+**Score:** 484 | **By:** talccc | [Comments](https://news.ycombinator.com/item?id=50077020)
 
-### 10. [AI is a tool and using it well takes skill](https://yyhh.org/blog/2026/10/ai-is-a-tool/)
-**Score:** 536 | **By:** layer8 | [Comments](https://news.ycombinator.com/item?id=50063427)
+### 10. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
+**Score:** 197 | **By:** mdp2021 | [Comments](https://news.ycombinator.com/item?id=50053487)
 
