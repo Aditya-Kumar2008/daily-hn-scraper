@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-14
+**Generated on:** 2026-10-15
 
-### 1. [Iosevka is an open-source, sans-serif and slab-serif, monospace font](https://typeof.net/Iosevka/)
-**Score:** 278 | **By:** otobrglez | [Comments](https://news.ycombinator.com/item?id=50084240)
+### 1. [Libreboot 26.10 "Ominous Olive" released with UEFI, Chromebook support](https://libreboot.org/news/libreboot2610.html)
+**Score:** 8 | **By:** iamnothere | [Comments](https://news.ycombinator.com/item?id=50102923)
 
-### 2. [Pg_vectorsearch: An index that is faster than pgvector's IVFFlat and HNSW](https://github.com/timescale/pg_vectorsearch)
-**Score:** 42 | **By:** jascha_eng | [Comments](https://news.ycombinator.com/item?id=50086165)
+### 2. [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/)
+**Score:** 1586 | **By:** jjmaxwell4 | [Comments](https://news.ycombinator.com/item?id=50093568)
 
-### 3. [TV4 postpones show after AI agent erases edited material](https://swedenherald.com/article/tv4-postpones-the-challenge-until-2027-after-technical-failure-erases-edited-footage)
-**Score:** 33 | **By:** tobr | [Comments](https://news.ycombinator.com/item?id=50085323)
+### 3. [Wanted to download an ISO, ended up writing a kernel exploit](https://blog.dfb.sh/blog/eap770-root-for-two-zeros/)
+**Score:** 195 | **By:** 0xdeafbeef | [Comments](https://news.ycombinator.com/item?id=50070625)
 
-### 4. [Pulsar at ESUG 2026 (new Smalltalk IDE)](https://blog.lorenzano.eu/pulsar-at-esug-2026/)
-**Score:** 37 | **By:** mpweiher | [Comments](https://news.ycombinator.com/item?id=50085306)
+### 4. [Show HN: Unfenced – Land for sale that borders public land](https://unfenced.land/)
+**Score:** 38 | **By:** otherwatersflow | [Comments](https://news.ycombinator.com/item?id=50102247)
 
-### 5. [Amazon pushes up prices across the Internet](https://www.not-ship.com/how-amazon-pushes-up-prices-all-across-the-internet/)
-**Score:** 171 | **By:** sighborg | [Comments](https://news.ycombinator.com/item?id=50084757)
+### 5. [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/)
+**Score:** 707 | **By:** gmays | [Comments](https://news.ycombinator.com/item?id=50094994)
 
-### 6. [RIP Eric Binnion](https://ma.tt/2026/10/rip-eric/)
-**Score:** 3 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=50087044)
+### 6. [The First Social Network: In rural Argentina residents send messages w AM radio](https://www.newyorker.com/magazine/2026/10/19/the-first-social-network)
+**Score:** 62 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=50079701)
 
-### 7. [Sound – Bartosz Ciechanowski (2022)](https://ciechanow.ski/sound/)
-**Score:** 170 | **By:** dverlaeckt80 | [Comments](https://news.ycombinator.com/item?id=50045147)
+### 7. [Tiny Little Office](https://tinylittleoffice.com/)
+**Score:** 511 | **By:** donohoe | [Comments](https://news.ycombinator.com/item?id=50096142)
 
-### 8. [The Aaronson Oracle](https://aaronsonoracle.com/)
-**Score:** 14 | **By:** routeroff | [Comments](https://news.ycombinator.com/item?id=50086484)
+### 8. [Show HN: Indigene – Native plants for where you stand](https://indigene.app/)
+**Score:** 60 | **By:** olivierlacan | [Comments](https://news.ycombinator.com/item?id=50064470)
 
-### 9. [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/)
-**Score:** 484 | **By:** talccc | [Comments](https://news.ycombinator.com/item?id=50077020)
+### 9. [X purges 13,000 accounts linked to suspected meddling ahead of US midterms](https://www.theregister.com/security/2026/10/15/x-purges-13000-accounts-linked-to-suspected-meddling-ahead-of-us-midterms/5303234)
+**Score:** 19 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=50102854)
 
-### 10. [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html)
-**Score:** 197 | **By:** mdp2021 | [Comments](https://news.ycombinator.com/item?id=50053487)
+### 10. [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists)
+**Score:** 794 | **By:** doitLP | [Comments](https://news.ycombinator.com/item?id=50050553)
 
