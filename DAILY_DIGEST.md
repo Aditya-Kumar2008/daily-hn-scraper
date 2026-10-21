@@ -1,31 +1,31 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-20
+**Generated on:** 2026-10-21
 
-### 1. [DeepSeek just open-sourced its inference engine](https://github.com/deepseek-ai/DeepInfer)
-**Score:** 905 | **By:** ggcr | [Comments](https://news.ycombinator.com/item?id=50163277)
+### 1. [Dutch National Cyber Security Center is Offline because it uses PHP](https://www.ncsc.nl/actueel)
+**Score:** 108 | **By:** jacquesm | [Comments](https://news.ycombinator.com/item?id=50179828)
 
-### 2. [Demographic "Doomsday" Misses the Mark](https://www.science.org/doi/10.1126/science.ael8752)
-**Score:** 23 | **By:** YeGoblynQueenne | [Comments](https://news.ycombinator.com/item?id=50165276)
+### 2. [Eight Bits of Trust; eMudhra's CA keys cracked in milliseconds](https://scotthelme.co.uk/eight-bits-of-trust-emudhras-ca-keys-cracked-in-milliseconds/)
+**Score:** 378 | **By:** hkc | [Comments](https://news.ycombinator.com/item?id=50177916)
 
-### 3. [Nordwand Mono – A monospace font for coders and adventurers](https://github.com/tywr/Nordwand-Mono)
-**Score:** 380 | **By:** noriax86 | [Comments](https://news.ycombinator.com/item?id=50141581)
+### 3. [Qwen3-Coder writes less secure code when told it's for a US persona](https://www.hirundo.io/blog/qwen3-coder-vulnerabilities)
+**Score:** 55 | **By:** mattifrank | [Comments](https://news.ycombinator.com/item?id=50179706)
 
-### 4. [MicroG: Free-libre re-implementation of Google's proprietary Android user space](https://github.com/microg/GmsCore/wiki)
-**Score:** 184 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=50162177)
+### 4. [Whatever Happened to Fire Escapes](https://practical.engineering/blog/2026/10/20/whatever-happened-to-fire-escapes)
+**Score:** 75 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=50178455)
 
-### 5. [OpenBSD 8.0](https://www.openbsd.org/80.html)
-**Score:** 370 | **By:** privong | [Comments](https://news.ycombinator.com/item?id=50160494)
+### 5. [Despite Iran's Attacks, Gulf Oil Exports Exceed Prewar Levels](https://maritime-executive.com/article/report-despite-iran-s-attacks-gulf-oil-exports-exceed-prewar-levels)
+**Score:** 14 | **By:** gumby | [Comments](https://news.ycombinator.com/item?id=50179719)
 
-### 6. [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions)
-**Score:** 573 | **By:** ds | [Comments](https://news.ycombinator.com/item?id=50159341)
+### 6. [The Future of CSS](https://www.joshwcomeau.com/css/interop-2027/)
+**Score:** 462 | **By:** soheilpro | [Comments](https://news.ycombinator.com/item?id=50175070)
 
-### 7. [Making a 88x31 button book using ImageMagick](https://k.sosnierz.me/08-11-24/)
-**Score:** 84 | **By:** birdculture | [Comments](https://news.ycombinator.com/item?id=50132198)
+### 7. [Upcoming critical PHP security release (CVE-2026-109618 / -109619)](https://news-web.php.net/php.announce/509)
+**Score:** 1273 | **By:** xd | [Comments](https://news.ycombinator.com/item?id=50172041)
 
-### 8. [DeepSeek banned from U.S. federal civilian agencies under new DHS order](https://www.reuters.com/technology/us-banning-chinese-ai-deepseek-government-agency-it-systems-2026-10-19/)
-**Score:** 368 | **By:** cmrdporcupine | [Comments](https://news.ycombinator.com/item?id=50154244)
+### 8. [LayerFS: The filesystem for AI coding agents](https://layerfs.ai/)
+**Score:** 9 | **By:** l2dy | [Comments](https://news.ycombinator.com/item?id=50179857)
 
-### 9. [Google cloud outage takes down banks](https://www.neowin.net/news/google-cloud-outage-takes-down-hsbc-revolut-bank-of-scotland-llyods-equifax-more/)
-**Score:** 123 | **By:** paweladamczuk | [Comments](https://news.ycombinator.com/item?id=50163961)
+### 9. [Way to Play Super Mario 64: On Apple Vision Pro](https://www.pagetable.com/303)
+**Score:** 67 | **By:** frizlab | [Comments](https://news.ycombinator.com/item?id=50150214)
 
