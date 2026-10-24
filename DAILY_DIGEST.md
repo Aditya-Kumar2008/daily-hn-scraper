@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-23
+**Generated on:** 2026-10-24
 
-### 1. [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/)
-**Score:** 610 | **By:** sohkamyung | [Comments](https://news.ycombinator.com/item?id=50202285)
+### 1. [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
+**Score:** 98 | **By:** rramadass | [Comments](https://news.ycombinator.com/item?id=50219666)
 
-### 2. [Is this the new cyber normal?](https://drew.silcock.dev/blog/is-this-the-new-cyber-normal/)
-**Score:** 95 | **By:** drewsberry | [Comments](https://news.ycombinator.com/item?id=50207115)
+### 2. [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
+**Score:** 206 | **By:** pentagrama | [Comments](https://news.ycombinator.com/item?id=50218430)
 
-### 3. [Swedish government offices to ban ChatGPT and Claude](https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet)
-**Score:** 96 | **By:** armcat | [Comments](https://news.ycombinator.com/item?id=50207405)
+### 3. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
+**Score:** 947 | **By:** Jowsey | [Comments](https://news.ycombinator.com/item?id=50212065)
 
-### 4. [Job Loss and Cortisone Mania](https://tilschuenemann.de/job-loss-cortisone-mania)
-**Score:** 43 | **By:** speckx | [Comments](https://news.ycombinator.com/item?id=50206840)
+### 4. [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
+**Score:** 93 | **By:** mooreds | [Comments](https://news.ycombinator.com/item?id=50186450)
 
-### 5. [OpenSSL 4.1.0](https://github.com/openssl/openssl/releases/tag/openssl-4.1.0)
-**Score:** 5 | **By:** petecooper | [Comments](https://news.ycombinator.com/item?id=50208099)
+### 5. [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
+**Score:** 203 | **By:** privacyishuman | [Comments](https://news.ycombinator.com/item?id=50217495)
 
-### 6. [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird)
-**Score:** 593 | **By:** psxuaw | [Comments](https://news.ycombinator.com/item?id=50202681)
+### 6. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
+**Score:** 928 | **By:** pavel_lishin | [Comments](https://news.ycombinator.com/item?id=50211474)
 
-### 7. [Remove pgrust: the entry is cheating](https://github.com/ClickHouse/ClickBench/pull/2165)
-**Score:** 64 | **By:** f311a | [Comments](https://news.ycombinator.com/item?id=50205816)
+### 7. [Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)
+**Score:** 8 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50181106)
 
-### 8. [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html)
-**Score:** 238 | **By:** xiaoyu2006 | [Comments](https://news.ycombinator.com/item?id=50203161)
+### 8. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
+**Score:** 236 | **By:** otoolep | [Comments](https://news.ycombinator.com/item?id=50217500)
 
-### 9. [The alien space of science: Coherent but cognitively unavailable directions](https://arxiv.org/abs/2603.01092)
-**Score:** 112 | **By:** martincsweiss | [Comments](https://news.ycombinator.com/item?id=50195002)
+### 9. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
+**Score:** 35 | **By:** rex64 | [Comments](https://news.ycombinator.com/item?id=50194536)
 
-### 10. [Dutch government had hacked into Jared Kushner's phone](https://twitter.com/jaredkushner/status/2113376217415958767)
-**Score:** 135 | **By:** teekert | [Comments](https://news.ycombinator.com/item?id=50206914)
+### 10. [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
+**Score:** 39 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=50219177)
 
