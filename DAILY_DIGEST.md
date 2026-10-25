@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-24
+**Generated on:** 2026-10-25
 
-### 1. [I Don't Understand Quantum Physics (2018)](https://www.southampton.ac.uk/~doug/quantum_physics/index.html)
-**Score:** 98 | **By:** rramadass | [Comments](https://news.ycombinator.com/item?id=50219666)
+### 1. [Meta Ignores Brazilian Court Order to End Bolsonaro Favoritism](https://www.panamericandispatch.org/p/meta-ignores-brazilian-court-order)
+**Score:** 320 | **By:** vrganj | [Comments](https://news.ycombinator.com/item?id=50229587)
 
-### 2. [OBS Studio 33](https://github.com/obsproject/obs-studio/releases/tag/33.0.0)
-**Score:** 206 | **By:** pentagrama | [Comments](https://news.ycombinator.com/item?id=50218430)
+### 2. [fheroes2: A recreation of Heroes of Might and Magic II game engine](https://github.com/ihhub/fheroes2)
+**Score:** 44 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=50230384)
 
-### 3. [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro)
-**Score:** 947 | **By:** Jowsey | [Comments](https://news.ycombinator.com/item?id=50212065)
+### 3. [We should be more ambitious with the software we build](https://danluu.com/ambitious/)
+**Score:** 502 | **By:** ltratt | [Comments](https://news.ycombinator.com/item?id=50225695)
 
-### 4. [Physicists trap a single antimatter particle for a month](https://www.scientificamerican.com/article/physicists-trap-a-single-antimatter-particle-for-a-month/)
-**Score:** 93 | **By:** mooreds | [Comments](https://news.ycombinator.com/item?id=50186450)
+### 4. [Cerebras Deploys Trillion-Parameter AI Models](https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras)
+**Score:** 217 | **By:** gmays | [Comments](https://news.ycombinator.com/item?id=50227356)
 
-### 5. [Around a dozen banking apps began specifically permitting GrapheneOS](https://grapheneos.social/@GrapheneOS/117492375462459244)
-**Score:** 203 | **By:** privacyishuman | [Comments](https://news.ycombinator.com/item?id=50217495)
+### 5. [How Japanese Dried Bonito Is Made](https://kottke.org/26/10/how-japanese-dried-bonito-is-made)
+**Score:** 78 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=50193936)
 
-### 6. [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone)
-**Score:** 928 | **By:** pavel_lishin | [Comments](https://news.ycombinator.com/item?id=50211474)
+### 6. [Samsung running a TensorFlow lite model on 960x540 image to track you](https://twitter.com/mike64_t/status/2114150399406202896)
+**Score:** 88 | **By:** mashally | [Comments](https://news.ycombinator.com/item?id=50230181)
 
-### 7. [Appreciating the beauty of all your body's scars and scratches](https://1000awesomethings.com/2026/10/08/576-appreciating-the-beauty-of-all-your-bodys-scars-and-scratches-4/)
-**Score:** 8 | **By:** surprisetalk | [Comments](https://news.ycombinator.com/item?id=50181106)
+### 7. [The Goose Programming Language](https://aardappel.github.io/goose/)
+**Score:** 452 | **By:** bobbydigitales | [Comments](https://news.ycombinator.com/item?id=50224100)
 
-### 8. [Twelve years of distributed SQLite](https://philipotoole.com/twelve-years-of-distributed-sqlite/)
-**Score:** 236 | **By:** otoolep | [Comments](https://news.ycombinator.com/item?id=50217500)
+### 8. [Rewriting a Commercial Engine in Jai](https://polygonjs.com/blog/why-i-rewrote-polygon-from-scratch)
+**Score:** 45 | **By:** frading | [Comments](https://news.ycombinator.com/item?id=50194645)
 
-### 9. [How to run a city builder on 16 MHz](https://larstofus.com/2025/11/16/how-to-run-a-city-builder-on-12-5-mhz/)
-**Score:** 35 | **By:** rex64 | [Comments](https://news.ycombinator.com/item?id=50194536)
+### 9. [Nikon photography contest winner loses title after scientists spot signs of AI](https://www.techspot.com/news/114171-nikon-photography-contest-winner-loses-title-after-scientists.html)
+**Score:** 31 | **By:** thunderbong | [Comments](https://news.ycombinator.com/item?id=50229827)
 
-### 10. [Node2Shell evolves to HTTP2Shell, blast radius affects many HTTP libs and apps](https://www.aikido.dev/blog/python-packages-vulnerable-node2shell-brotli-cve-2026-111497)
-**Score:** 39 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=50219177)
+### 10. [SpeedCrunch 1.1](https://www.speedcrunch.org/)
+**Score:** 170 | **By:** LordNibbler | [Comments](https://news.ycombinator.com/item?id=50224210)
 
