@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-27
+**Generated on:** 2026-10-28
 
-### 1. [Roblox downloaded 145GB models from us (including adult content) without asking](https://open3dlab.com/news/roblox-downloaded-145-gb-of-models-from-our-sites/)
-**Score:** 291 | **By:** choult | [Comments](https://news.ycombinator.com/item?id=50256985)
+### 1. [Ten days later, Git on macOS still trusts the compromised eMudhra certificates](https://emudhra.we-have-a-problem.com/apple.html)
+**Score:** 463 | **By:** galadran | [Comments](https://news.ycombinator.com/item?id=50271640)
 
-### 2. [Python's experimental JIT to be removed](https://lwn.net/SubscriberLink/1102102/0c00e4d550f25f8c/)
-**Score:** 124 | **By:** f311a | [Comments](https://news.ycombinator.com/item?id=50257419)
+### 2. [Start Doing Graph Theory](https://vertex.degree/)
+**Score:** 282 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=50208960)
 
-### 3. [Wikipedia's Cleanup of AI-Generated Content](https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup)
-**Score:** 118 | **By:** rbanffy | [Comments](https://news.ycombinator.com/item?id=50257326)
+### 3. [The Agent SDK](https://cursor.com/blog/agent-sdk)
+**Score:** 22 | **By:** torutofu | [Comments](https://news.ycombinator.com/item?id=50273731)
 
-### 4. [AI promised less work. I've never worked more](https://oioannou.com/blog/ai-promised-less-work/)
-**Score:** 211 | **By:** oorestisime | [Comments](https://news.ycombinator.com/item?id=50257325)
+### 4. [ICE Is Running One of the Largest Anti-Left Surveillance Ops in US History](https://www.wired.com/story/ice-is-running-one-of-the-largest-anti-left-surveillance-operations-in-us-history/)
+**Score:** 489 | **By:** zzzeek | [Comments](https://news.ycombinator.com/item?id=50272749)
 
-### 5. [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/)
-**Score:** 1006 | **By:** jonluca | [Comments](https://news.ycombinator.com/item?id=50251344)
+### 5. [Unveiling The Grid: PCBs made in America, twice as fast as Shenzhen](https://www.circuithub.com/post/unveiling-the-grid)
+**Score:** 129 | **By:** seddona | [Comments](https://news.ycombinator.com/item?id=50243060)
 
-### 6. [Software may be getting worse, but it used to be horrible](https://www.bitlog.com/2026/10/27/software-may-be-getting-worse-but-it-used-to-be-horrible/)
-**Score:** 135 | **By:** jakevoytko | [Comments](https://news.ycombinator.com/item?id=50257548)
+### 6. [Kentucky man becomes the first humanist granted religious exemption from AI](https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/)
+**Score:** 94 | **By:** danso | [Comments](https://news.ycombinator.com/item?id=50273396)
 
-### 7. [The Mythical Man-Month in the Age of AI](https://j11g.com/the-mythical-man-month-in-the-age-of-ai)
-**Score:** 271 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=50255298)
+### 7. [Emacs Turns 50](https://www.technologyreview.com/2026/10/20/1145399/emacs-turns-50/)
+**Score:** 83 | **By:** internet_points | [Comments](https://news.ycombinator.com/item?id=50273171)
 
-### 8. [Gforth 1.0](https://gforth.org/manual/1.0/NEWS.html)
-**Score:** 62 | **By:** joshcsimmons | [Comments](https://news.ycombinator.com/item?id=50256952)
+### 8. [Show HN: Nasscad – local-first 3D CAD for browser and Windows](https://www.nasscad.com/NASSCAD_V4_7_0.htm)
+**Score:** 12 | **By:** Nasser-13 | [Comments](https://news.ycombinator.com/item?id=50273201)
 
-### 9. [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf)
-**Score:** 690 | **By:** vok | [Comments](https://news.ycombinator.com/item?id=50251661)
+### 9. [Git for the US Code](https://lexifina.com/blog/git-for-the-us-code)
+**Score:** 355 | **By:** alansaber | [Comments](https://news.ycombinator.com/item?id=50268380)
 
-### 10. [Apple introduces the new 14-inch MacBook Pro with M6](https://www.apple.com/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/)
-**Score:** 70 | **By:** meetpateltech | [Comments](https://news.ycombinator.com/item?id=50258521)
+### 10. [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0)
+**Score:** 1173 | **By:** deaux | [Comments](https://news.ycombinator.com/item?id=50261998)
 
