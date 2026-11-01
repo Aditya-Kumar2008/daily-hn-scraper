@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-10-31
+**Generated on:** 2026-11-01
 
-### 1. [Serbia just elected the world's brainiest parliament](https://www.science.org/content/article/serbia-just-elected-world-s-brainiest-parliament)
-**Score:** 459 | **By:** input_sh | [Comments](https://news.ycombinator.com/item?id=50314654)
+### 1. [Norway makes shithouses great again](https://www.visitnorway.com/plan-your-trip/travel-tips-a-z/norwegian-scenic-routes/worlds-best-toilets/)
+**Score:** 510 | **By:** giuliomagnifico | [Comments](https://news.ycombinator.com/item?id=50324388)
 
-### 2. [Molly(Signal fork) has not been updated since 3 months and is vulnerable](https://piefed.world/post/1503394)
-**Score:** 103 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=50314666)
+### 2. [HackerTube: YouTube built from videos recommended by HN](https://karpathy.bearblog.dev/hacker-tube/)
+**Score:** 1603 | **By:** karpathy | [Comments](https://news.ycombinator.com/item?id=50319510)
 
-### 3. [We Took over ChatGPT Accounts](https://www.parameter.ai/labs/we-found-a-gap-at-openai)
-**Score:** 103 | **By:** armcat | [Comments](https://news.ycombinator.com/item?id=50314699)
+### 3. [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302)
+**Score:** 25 | **By:** Anon84 | [Comments](https://news.ycombinator.com/item?id=50325454)
 
-### 4. [Prospero: A new coding harness for a more civilized age](https://nullprogram.com/blog/2026/10/31/)
-**Score:** 41 | **By:** fovc | [Comments](https://news.ycombinator.com/item?id=50315226)
+### 4. [Novellas with Groff](https://movq.de/blog/postings/2026-10-31/0/POSTING-en.html)
+**Score:** 11 | **By:** dverlaeckt80 | [Comments](https://news.ycombinator.com/item?id=50325694)
 
-### 5. [Switch Lowering in GCC](https://xoranth.net/gcc-switch/)
-**Score:** 111 | **By:** signa11 | [Comments](https://news.ycombinator.com/item?id=50314085)
+### 5. [An Italian farmer found some unknown seeds in his attic and planted them](https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644/)
+**Score:** 571 | **By:** ecares | [Comments](https://news.ycombinator.com/item?id=50320963)
 
-### 6. [Simple circuits can create complex behaviors](https://aatishb.com/myriad/lets-build-a-brain/)
-**Score:** 25 | **By:** aatish | [Comments](https://news.ycombinator.com/item?id=50261253)
+### 6. [Radiation Map of the World](https://radiaverse.com/)
+**Score:** 32 | **By:** slater | [Comments](https://news.ycombinator.com/item?id=50280131)
 
-### 7. [Show HN: Marelleo, an open-source story box I built for my kids using ESP32](https://zebra.rodeo/en/blog/marelleo/)
-**Score:** 117 | **By:** foOg | [Comments](https://news.ycombinator.com/item?id=50260753)
+### 7. [One-minute frequency disturbances from synchronization in power systems](https://www.nature.com/articles/s41560-026-02144-0)
+**Score:** 19 | **By:** croes | [Comments](https://news.ycombinator.com/item?id=50314617)
 
-### 8. [AI, Lean, and the Future of Formal Verification, with Lean Creator Leo de Moura](https://thedataexchange.media/leo-de-moura-lean-aws/)
-**Score:** 98 | **By:** datascientist | [Comments](https://news.ycombinator.com/item?id=50290652)
+### 8. [Brazilian Court Sanctions Lawyers for Prompt Injection in Court Filing](https://jetstream.security/insights/brazilian-court-sanctions-prompt-injection-filing/)
+**Score:** 198 | **By:** doodlesdev | [Comments](https://news.ycombinator.com/item?id=50322173)
 
-### 9. [Digital Minimalism](https://vitalik.eth.limo/general/2026/10/31/digital_minimalism.html)
-**Score:** 131 | **By:** wilbertliu | [Comments](https://news.ycombinator.com/item?id=50313661)
+### 9. [Memdoor: A team of 5 Qwen3.8-27B models beats Fable 5 on LiveCodeBench Hard](https://github.com/guregodevo/memdoor/tree/main/examples/workflows/team-solve)
+**Score:** 324 | **By:** guregodevo | [Comments](https://news.ycombinator.com/item?id=50320995)
 
-### 10. [Why Anthropic's Filing Crushed Tech Stocks](https://www.thebignewsletter.com/p/why-anthropics-filing-crushed-tech)
-**Score:** 32 | **By:** chmaynard | [Comments](https://news.ycombinator.com/item?id=50315574)
+### 10. [TCP Use-After-Free: CVE-2026-98432 / CVSS 9.8](https://atlasum.net/blog/cve-2026-98432-linux-ipv4-tcp-uaf)
+**Score:** 578 | **By:** oger | [Comments](https://news.ycombinator.com/item?id=50319143)
 
