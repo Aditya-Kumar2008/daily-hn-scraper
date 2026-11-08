@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-07
+**Generated on:** 2026-11-08
 
-### 1. [Need for Speed Underground 2 online in the browser](https://nfsu2.xyz/)
-**Score:** 267 | **By:** fluxusars | [Comments](https://news.ycombinator.com/item?id=50403052)
+### 1. [Person of Interest](https://krthr.co/person-of-interest/)
+**Score:** 174 | **By:** krthr | [Comments](https://news.ycombinator.com/item?id=50412318)
 
-### 2. [The $8 Linux Computer (2022)](http://thelittleengineerthatcould.blogspot.com/2022/12/the-8-linux-computer.html)
-**Score:** 8 | **By:** zenincognito | [Comments](https://news.ycombinator.com/item?id=50404599)
+### 2. [Llama-modchip: 284B DeepSeek on 64GB RAM, no GPU](https://github.com/synchopate/llama-modchip)
+**Score:** 76 | **By:** joshcsimmons | [Comments](https://news.ycombinator.com/item?id=50411961)
 
-### 3. [Libghostty 1.0](https://mitchellh.com/writing/libghostty-1-0)
-**Score:** 810 | **By:** mfiguiere | [Comments](https://news.ycombinator.com/item?id=50399933)
+### 3. [Quadrillion-parameter transformers and how to train them](https://qlabs.sh/research/parameters)
+**Score:** 21 | **By:** frozenseven | [Comments](https://news.ycombinator.com/item?id=50352518)
 
-### 4. [Every Mac comes with an (undocumented) family member classifier](https://8rank.ai/game/apple-intelligence-personal-knowledge-graph)
-**Score:** 277 | **By:** infwhispers | [Comments](https://news.ycombinator.com/item?id=50403097)
+### 4. [Porting Android 16 to my blind mother's keypad phone](https://z1x.us/blog/four-hundred-bucks-of-e-waste)
+**Score:** 32 | **By:** z1xus | [Comments](https://news.ycombinator.com/item?id=50366821)
 
-### 5. [Running a law firm on Free software](https://decoded.legal/blog/2026/11/running-a-law-firm-on-free-software-2026-edition/)
-**Score:** 54 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=50403066)
+### 5. [JIT bitmap text rendering for microcontrollers](https://linebender.org/blog/jit-bitmap-text/)
+**Score:** 43 | **By:** dmit | [Comments](https://news.ycombinator.com/item?id=50412072)
 
-### 6. [Building the NBC News Big Board](https://ejfox.com/projects/nbc-big-board)
-**Score:** 17 | **By:** whalesalad | [Comments](https://news.ycombinator.com/item?id=50361417)
+### 6. [Goodbye Claude, Hello Pi](https://caleb.software/posts/claude-to-pi.html)
+**Score:** 458 | **By:** karagenit | [Comments](https://news.ycombinator.com/item?id=50410107)
 
-### 7. [Tesla to wind down Cybertruck production](https://www.nbcnews.com/tech/tech-news/tesla-wind-cybertruck-production-years-poor-sales-markets-rcna607817)
-**Score:** 1072 | **By:** PLenz | [Comments](https://news.ycombinator.com/item?id=50391456)
+### 7. [Petered (what happens after the Peter Principle)](https://aworkinglibrary.com/writing/petered)
+**Score:** 89 | **By:** adrianhoward | [Comments](https://news.ycombinator.com/item?id=50412152)
 
-### 8. [A Jev that can ask Opus for help gives Opus accuracy at 4x lower cost](https://hightouch.com/blog/llm-judges-identity-resolution)
-**Score:** 527 | **By:** theanomaly | [Comments](https://news.ycombinator.com/item?id=50397429)
+### 8. [What I run on my $10 USD OpenStick homelab](https://blog.bosscher.ch/posts/openstick/)
+**Score:** 658 | **By:** LaurensBER | [Comments](https://news.ycombinator.com/item?id=50406670)
 
-### 9. [Show HN: Spindle – a full-featured, type-safe web framework for OCaml 5](https://github.com/hyphatech/spindle)
-**Score:** 19 | **By:** zaiev | [Comments](https://news.ycombinator.com/item?id=50377613)
+### 9. [Clj.rs – a Clojure dialect implemented in Rust](https://clj.rs/)
+**Score:** 98 | **By:** simonpure | [Comments](https://news.ycombinator.com/item?id=50366902)
 
-### 10. [The Components of Agent Memory](https://www.anthropic.com/research/components-of-agent-memory)
-**Score:** 84 | **By:** geoffbp | [Comments](https://news.ycombinator.com/item?id=50402212)
+### 10. [Claude Code's "Don't Ask Again" exposes passwords in 1,122 public GitHub files](https://apiiro.com/blog/coding-agents-leaking-secrets-github-dont-ask-again)
+**Score:** 466 | **By:** shmulc | [Comments](https://news.ycombinator.com/item?id=50407882)
 
