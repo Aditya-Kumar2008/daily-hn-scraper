@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-10
+**Generated on:** 2026-11-11
 
-### 1. [AlphaProof Code](https://deepmind.google/blog/introducing-alphaproof-code/)
-**Score:** 348 | **By:** ilreb | [Comments](https://news.ycombinator.com/item?id=50439193)
+### 1. [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
+**Score:** 530 | **By:** eyvindn | [Comments](https://news.ycombinator.com/item?id=50452455)
 
-### 2. [The Hardest Tarball?](https://stoppels.ch/2026/11/07/the-hardest-tarball.html)
-**Score:** 47 | **By:** thatslast | [Comments](https://news.ycombinator.com/item?id=50441338)
+### 2. [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
+**Score:** 45 | **By:** xkriva11 | [Comments](https://news.ycombinator.com/item?id=50453763)
 
-### 3. [Amazon saves millions by replacing Sonnet 4.6 with Strands Decider](https://strandsagents.com/blog/amazon-saves-millions-replacing-sonnet-with-strands-decider/)
-**Score:** 541 | **By:** aloukissas | [Comments](https://news.ycombinator.com/item?id=50436640)
+### 3. [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
+**Score:** 119 | **By:** emschwartz | [Comments](https://news.ycombinator.com/item?id=50452655)
 
-### 4. [NetBSD 11 desktop on a Raspberry Pi 4](https://neongd.com/articles/netbsd11-rpi4.gmi)
-**Score:** 64 | **By:** jaypatelani | [Comments](https://news.ycombinator.com/item?id=50412554)
+### 4. [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
+**Score:** 34 | **By:** linsomniac | [Comments](https://news.ycombinator.com/item?id=50453637)
 
-### 5. [Claude Fable 5.2 and Mythos 5.2](https://www.anthropic.com/claude-fable-and-mythos-5-2)
-**Score:** 784 | **By:** lairv | [Comments](https://news.ycombinator.com/item?id=50429068)
+### 5. [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
+**Score:** 127 | **By:** lae | [Comments](https://news.ycombinator.com/item?id=50451903)
 
-### 6. [Queens Public library under ransomware attack e-borrowing suspended](https://connect.queenslibrary.org/)
-**Score:** 127 | **By:** rustyhancock | [Comments](https://news.ycombinator.com/item?id=50437790)
+### 6. [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
+**Score:** 29 | **By:** everlier | [Comments](https://news.ycombinator.com/item?id=50453288)
 
-### 7. [Taking another shot at the cheap IP camera, part 2](https://ericswpark.com/blog/2026/2026-11-09-ip-camera-pt2/)
-**Score:** 33 | **By:** ericswpark | [Comments](https://news.ycombinator.com/item?id=50426294)
+### 7. [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
+**Score:** 114 | **By:** Brajeshwar | [Comments](https://news.ycombinator.com/item?id=50453474)
 
-### 8. [Here comes the sun[light]:An ambient Daylight Clock with time and space controls](https://hannahilea.com/blog/daylight-clock/)
-**Score:** 28 | **By:** evakhoury | [Comments](https://news.ycombinator.com/item?id=50431075)
+### 8. [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
+**Score:** 26 | **By:** 0xdeadf1sh | [Comments](https://news.ycombinator.com/item?id=50453229)
 
-### 9. [The Death Knell of Digital Search](https://www.newyorker.com/culture/infinite-scroll/the-death-knell-of-digital-search)
-**Score:** 11 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=50441074)
+### 9. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
+**Score:** 325 | **By:** js2 | [Comments](https://news.ycombinator.com/item?id=50449748)
 
-### 10. [Show HN: Ghanaian street games you can play in the browser](https://www.ghanastreetgames.com/)
-**Score:** 65 | **By:** samuelaidoo45 | [Comments](https://news.ycombinator.com/item?id=50414117)
+### 10. [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
+**Score:** 82 | **By:** saikatsg | [Comments](https://news.ycombinator.com/item?id=50453555)
 
