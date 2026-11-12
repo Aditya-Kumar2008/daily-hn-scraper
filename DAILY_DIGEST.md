@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-11
+**Generated on:** 2026-11-12
 
-### 1. [Google SWE points 48 AI agents at NASA Lidar, finds unmapped Maya pyramid in 72h](https://pietromiotti.com/latest/maya-site/?maya)
-**Score:** 530 | **By:** eyvindn | [Comments](https://news.ycombinator.com/item?id=50452455)
+### 1. [NVIDIA Announces CEO Transition](https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition)
+**Score:** 1227 | **By:** lldb | [Comments](https://news.ycombinator.com/item?id=50467087)
 
-### 2. [Pharo in the Browser with WebAssembly](https://massimo-nocentini.github.io/pharo-vm/world.html)
-**Score:** 45 | **By:** xkriva11 | [Comments](https://news.ycombinator.com/item?id=50453763)
+### 2. [Anthropic IPO](https://ipo.anthropic.com/us/)
+**Score:** 431 | **By:** josephljohnston | [Comments](https://news.ycombinator.com/item?id=50465829)
 
-### 3. [Can a Linear Program Do Weight-Space Programming?](https://nathan.rs/posts/weight-space-lp/)
-**Score:** 119 | **By:** emschwartz | [Comments](https://news.ycombinator.com/item?id=50452655)
+### 3. [Abandoned Quake 4 expansion finished by modders and now playable](https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64)
+**Score:** 88 | **By:** klaussilveira | [Comments](https://news.ycombinator.com/item?id=50467618)
 
-### 4. [Atuin Threads: All your agent sessions on every machine](https://blog.atuin.sh/threads-agent-sessions/)
-**Score:** 34 | **By:** linsomniac | [Comments](https://news.ycombinator.com/item?id=50453637)
+### 4. [Talking Zen 6 with Mike Clark at AMD In-Depth](https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at)
+**Score:** 77 | **By:** dverlaeckt80 | [Comments](https://news.ycombinator.com/item?id=50467460)
 
-### 5. [Using voltage glitching to unleash the A100 in my mining card](https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/)
-**Score:** 127 | **By:** lae | [Comments](https://news.ycombinator.com/item?id=50451903)
+### 5. [Why Writing Correct Software Is Hard](https://pron.github.io/posts/correctness-and-complexity)
+**Score:** 251 | **By:** AriFordsham | [Comments](https://news.ycombinator.com/item?id=50465352)
 
-### 6. [Hyper-Realistic Sand with WebGL2](https://av.github.io/safe-sand/)
-**Score:** 29 | **By:** everlier | [Comments](https://news.ycombinator.com/item?id=50453288)
+### 6. [Show HN: Fable52.games – Play and inspect Fable 5.2 single-file HTML games](https://fable52.games)
+**Score:** 20 | **By:** felixne | [Comments](https://news.ycombinator.com/item?id=50469007)
 
-### 7. [I asked every TV manufacturer 17 questions about how they spy on you](https://www.theverge.com/tech/1012372/tv-privacy-acr-questions)
-**Score:** 114 | **By:** Brajeshwar | [Comments](https://news.ycombinator.com/item?id=50453474)
+### 7. [Libreagi – Save OSS Models](https://libreagi.com/)
+**Score:** 48 | **By:** satuke | [Comments](https://news.ycombinator.com/item?id=50467439)
 
-### 8. [Show HN: Godbolt-in-a-floating-window for Neovim (C, C++, Rust)](https://github.com/0xdeadf1sh/AssemblyForNeovim)
-**Score:** 26 | **By:** 0xdeadf1sh | [Comments](https://news.ycombinator.com/item?id=50453229)
+### 8. [ExcalidrawZ: Local Native Excalidraw on macOS/iOS](https://github.com/chocoford/ExcalidrawZ)
+**Score:** 18 | **By:** Qision | [Comments](https://news.ycombinator.com/item?id=50468944)
 
-### 9. [Protecting SSH Keys with macOS Secure Enclave](https://gatezh.com/posts/macos-secure-enclave-ssh-keys/)
-**Score:** 325 | **By:** js2 | [Comments](https://news.ycombinator.com/item?id=50449748)
+### 9. [I'm making LLMs work on small and old devices](https://github.com/hyperionaidev/smolmaxxing/)
+**Score:** 13 | **By:** mrashad74 | [Comments](https://news.ycombinator.com/item?id=50468888)
 
-### 10. [Apple is killing its Support Community forum next week](https://www.theverge.com/tech/1031507/apple-community-support-forum-shutting-down)
-**Score:** 82 | **By:** saikatsg | [Comments](https://news.ycombinator.com/item?id=50453555)
+### 10. [Socratic Tutor](https://github.com/janestreet/agent_skills/blob/master/socratic-tutor/SKILL.md)
+**Score:** 522 | **By:** tosh | [Comments](https://news.ycombinator.com/item?id=50438261)
 
