@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-13
+**Generated on:** 2026-11-14
 
-### 1. [Reverse Engineering My Coway Air Purifier to Ditch the Cloud](https://scottjg.com/posts/2026-11-11-reverse-engineering-my-coway-air-purifier-to-ditch-the-cloud/)
-**Score:** 179 | **By:** scottjg | [Comments](https://news.ycombinator.com/item?id=50474959)
+### 1. [The Claude Delusion](https://www.netmeister.org/blog/claude-delusion.html)
+**Score:** 63 | **By:** janvdberg | [Comments](https://news.ycombinator.com/item?id=50496921)
 
-### 2. [Doomsday: Friday, 13 November, A.D. 2026 (1960)](https://www.science.org/doi/10.1126/science.132.3436.1291)
-**Score:** 296 | **By:** voxleone | [Comments](https://news.ycombinator.com/item?id=50482379)
+### 2. [Why get an expensive Pi when I have an old phone?](https://so.long.thanks.fish/why-pi-when-i-have-an-old-phone/)
+**Score:** 242 | **By:** casi | [Comments](https://news.ycombinator.com/item?id=50440709)
 
-### 3. [Why Zig over C for Systems Programming](https://www.mtsoukalos.eu/2026/11/why-zig-over-c-for-systems-programming/)
-**Score:** 80 | **By:** torutofu | [Comments](https://news.ycombinator.com/item?id=50483611)
+### 3. [Generative AI uses more energy on non-English text](https://news.umich.edu/generative-ai-uses-more-energy-on-non-english-text/)
+**Score:** 36 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=50441444)
 
-### 4. [Jensen Huang resigns](https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f)
-**Score:** 3827 | **By:** lldb | [Comments](https://news.ycombinator.com/item?id=50467087)
+### 4. [Advancing science and engineering with Antigravity's /teamwork](https://research.google/blog/advancing-science-engineering-with-antigravitys-teamwork-feature/)
+**Score:** 13 | **By:** acossta | [Comments](https://news.ycombinator.com/item?id=50496811)
 
-### 5. [A technical vision for the Haskell ecosystem](https://discourse.haskell.org/t/a-technical-vision-for-the-haskell-ecosystem/15078)
-**Score:** 25 | **By:** cosmic_quanta | [Comments](https://news.ycombinator.com/item?id=50484235)
+### 5. [Ggml v1.0.0](https://github.com/ggml-org/ggml/releases/tag/v1.0.0)
+**Score:** 334 | **By:** cobychapple | [Comments](https://news.ycombinator.com/item?id=50493062)
 
-### 6. [Elevated errors on claude.ai, Claude Code, and platform.claude.com](https://status.claude.com/incidents/nn11wk485zfn)
-**Score:** 395 | **By:** __vivek | [Comments](https://news.ycombinator.com/item?id=50481187)
+### 6. [Tech Companies Are Trying to Shift the Concept of Privacy (Again)](https://www.eff.org/deeplinks/2026/11/tech-companies-are-trying-shift-entire-concept-privacy-again)
+**Score:** 93 | **By:** gslin | [Comments](https://news.ycombinator.com/item?id=50496602)
 
-### 7. [U.S. October PPI Rises 6.5% YoY, Highest in Nearly Four Years](https://news.ycombinator.com/item?id=50484421)
-**Score:** 50 | **By:** moonypto | [Comments](https://news.ycombinator.com/item?id=50484421)
+### 7. [Show HN: Lampka – a Windows PDF reader whose dark mode keeps figures in colour](https://lampka.app/)
+**Score:** 5 | **By:** NightPageReader | [Comments](https://news.ycombinator.com/item?id=50497141)
 
-### 8. [Palmfrets, Minnesota guitarist's invention, strikes a new chord](https://www.echopress.com/business/minnesota-guitarists-invention-strikes-a-new-chord)
-**Score:** 8 | **By:** bookofjoe | [Comments](https://news.ycombinator.com/item?id=50484650)
+### 8. [Show HN: A terminal-native idle factory game, written in Rust with ratatui](https://gitlab.com/snipedbywifi/terminactory)
+**Score:** 5 | **By:** snipedbywifi | [Comments](https://news.ycombinator.com/item?id=50497132)
 
-### 9. [Lonewolf 0.3 – A standalone XMPP server written in Rust](https://github.com/lonewolf-im/lonewolf/releases/tag/v0.3.0)
-**Score:** 14 | **By:** ortuman | [Comments](https://news.ycombinator.com/item?id=50484007)
+### 9. [Monkey Island: all 13 versions side by side](https://monkeyisland.pages.dev/)
+**Score:** 284 | **By:** maximilianburke | [Comments](https://news.ycombinator.com/item?id=50493904)
 
-### 10. [IceWM](https://ice-wm.org/)
-**Score:** 298 | **By:** inatreecrown2 | [Comments](https://news.ycombinator.com/item?id=50478515)
+### 10. [Show HN: Agweb – a browser for agents that stays out of your way](https://github.com/paul-nameless/agweb)
+**Score:** 5 | **By:** paul_nameless | [Comments](https://news.ycombinator.com/item?id=50497147)
 
