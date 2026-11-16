@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-15
+**Generated on:** 2026-11-16
 
-### 1. [The MacBook Pro's OLED PWM Problem: When a 'Better' Display Becomes Worse to Use](https://macanorak.com/the-macbook-pros-oled-pwm-problem-when-a-better-display-becomes-worse-to-use/)
-**Score:** 109 | **By:** MacAnorak | [Comments](https://news.ycombinator.com/item?id=50506719)
+### 1. [Grazing sheep in fields with solar arrays](https://news.cornell.edu/stories/2026/10/sheep-grazing-solar-fields-offers-farmers-economic-ecological-gains)
+**Score:** 27 | **By:** PaulHoule | [Comments](https://news.ycombinator.com/item?id=50520182)
 
-### 2. [Things That Turbo Pascal Is Smaller Than (2011)](https://prog21.dadgum.com/116.html)
-**Score:** 42 | **By:** ksec | [Comments](https://news.ycombinator.com/item?id=50506894)
+### 2. [Jiff 1.0: A datetime library for Rust](https://burntsushi.net/jiff/)
+**Score:** 29 | **By:** burntsushi | [Comments](https://news.ycombinator.com/item?id=50519744)
 
-### 3. [The Hypertext Transfer Protocol Status Code 483 (I'm Not a Freezer)](https://datatracker.ietf.org/doc/draft-banffy-httpbis-not-a-freezer/)
-**Score:** 19 | **By:** rbanffy | [Comments](https://news.ycombinator.com/item?id=50507206)
+### 3. [The Secret ThinkPad Powerbutton Code to Bring Dead Laptops Back to Life (2007)](https://masnick.com/posts/the-secret-thinkpad-powerbutton-code-to-bring-dead-laptops-back-to-life/)
+**Score:** 226 | **By:** sammatilda | [Comments](https://news.ycombinator.com/item?id=50516473)
 
-### 4. [SpaceX catches the Starship to end Flight 15](https://www.spacex.com/launches/starship-flight-15)
-**Score:** 1426 | **By:** ls612 | [Comments](https://news.ycombinator.com/item?id=50500963)
+### 4. [Many of Amazon’s Black Friday and Cyber Monday “deals” offered no savings](http://groundworkcollaborative.org/news/amazons-decoy-deals-groundwork-investigation-reveals-nearly-1-in-3-black-friday-and-cyber-monday-deals-advertised-by-amazon-offered-no-savings-to-shoppers-nearly-1-in-10-w/)
+**Score:** 501 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=50517488)
 
-### 5. [Understanding Positional Embeddings in Modern LLMs](https://magazine.sebastianraschka.com/p/understanding-positional-embeddings)
-**Score:** 62 | **By:** vismit2000 | [Comments](https://news.ycombinator.com/item?id=50506376)
+### 5. [How to make almost anything](https://pub.cba.mit.edu/863.26/site/)
+**Score:** 700 | **By:** o4c | [Comments](https://news.ycombinator.com/item?id=50514470)
 
-### 6. [All AI-generated code should be Open Source](https://jakub.jankiewicz.org/blog/ai-code-open-source/)
-**Score:** 9 | **By:** jcubic | [Comments](https://news.ycombinator.com/item?id=50507303)
+### 6. [Universal XSS in uBlock Origin from website-driven element picker](https://iter.ca/post/ubo-uxss/)
+**Score:** 557 | **By:** zaik | [Comments](https://news.ycombinator.com/item?id=50513160)
 
-### 7. [A NES emulator written in Odin](https://lucypero.com/lucynes.html)
-**Score:** 33 | **By:** frostbyte7 | [Comments](https://news.ycombinator.com/item?id=50506588)
+### 7. [Nvidia was in trouble before the Jensen Huang mess](https://www.wired.com/story/nvidia-was-already-in-trouble-before-the-jensen-huang-mess/)
+**Score:** 131 | **By:** Brajeshwar | [Comments](https://news.ycombinator.com/item?id=50518567)
 
-### 8. [Why did some Apollo missions carry a grenade launcher?](https://space.stackexchange.com/questions/37775)
-**Score:** 122 | **By:** Skyfall106 | [Comments](https://news.ycombinator.com/item?id=50505271)
+### 8. [Interpreting claims that a theorem is correct because it was checked in Lean](https://xenaproject.wordpress.com/2026/11/12/and-the-proof-is-checked-in-lean/)
+**Score:** 218 | **By:** matt_d | [Comments](https://news.ycombinator.com/item?id=50515058)
 
-### 9. [Lovable apps expose passport details and more than 200K private messages](https://www.crissyfield.de/research/lovable-en/)
-**Score:** 919 | **By:** armcat | [Comments](https://news.ycombinator.com/item?id=50499017)
+### 9. [Smallest possible nopert polyhedra: the Septopert](https://github.com/tom7/noperts/blob/main/septopert.md)
+**Score:** 14 | **By:** RebelPotato | [Comments](https://news.ycombinator.com/item?id=50497746)
 
-### 10. [Court denies motion to dismiss DRAM price fixing case](https://litnews.ai/articles/garciaguirre-samsung-sk-hynix-micron-dram-conspiracy-suit-survives-dismissal)
-**Score:** 330 | **By:** ybathaee | [Comments](https://news.ycombinator.com/item?id=50502988)
+### 10. [OOS – an open operating system for the Rigol Scopes](https://www.eevblog.com/forum/testgear/oos-an-open-operating-system-for-the-rigol-scopes/)
+**Score:** 85 | **By:** qwezxcrty | [Comments](https://news.ycombinator.com/item?id=50490159)
 
