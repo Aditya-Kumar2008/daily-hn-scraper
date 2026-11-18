@@ -1,31 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-17
+**Generated on:** 2026-11-18
 
-### 1. [What is the best harness for each model?](https://runta.com/blog/introducing-frontierharness-eval-v1-1/)
-**Score:** 136 | **By:** Edward40 | [Comments](https://news.ycombinator.com/item?id=50532191)
+### 1. [Pre-auth RCE in Nginx HTTP/2 handling](https://www.wiz.io/blog/nginx-http2-rce-vulnerabilities)
+**Score:** 224 | **By:** speedping | [Comments](https://news.ycombinator.com/item?id=50547374)
 
-### 2. [Show HN: Alloy CSS, dialogs, menus and tabs that work with JavaScript off](https://alloyhtml.com/example.html)
-**Score:** 75 | **By:** prafandy | [Comments](https://news.ycombinator.com/item?id=50532385)
+### 2. [Deutsche Bank](https://www.inside-db.com/)
+**Score:** 150 | **By:** gyre007 | [Comments](https://news.ycombinator.com/item?id=50547620)
 
-### 3. [New Evidence Shows School Phone Bans Are Gradually Improving Test Scores](https://www.nytimes.com/2026/11/17/upshot/school-phone-bans-study-scores.html)
-**Score:** 777 | **By:** donohoe | [Comments](https://news.ycombinator.com/item?id=50530163)
+### 3. [Quad9 Is Leaving France: Why DNS Resolvers Are the Wrong Place to Fight Piracy](https://techstackups.com/articles/quad9-leaves-france-dns-blocking/)
+**Score:** 314 | **By:** ritzaco | [Comments](https://news.ycombinator.com/item?id=50545958)
 
-### 4. [First Photos of the Poles of a Rod-Shaped Bacterium](https://nautil.us/check-out-the-first-photos-of-the-poles-of-a-rod-shaped-bacterium-1286664)
-**Score:** 71 | **By:** dustfinger | [Comments](https://news.ycombinator.com/item?id=50518328)
+### 4. ['Human' Is Cambridge Dictionary's Word of the Year 2026](https://www.cam.ac.uk/news/cambridge-dictionary-reveals-word-of-the-year-2026)
+**Score:** 104 | **By:** DeepLogin | [Comments](https://news.ycombinator.com/item?id=50546914)
 
-### 5. [Carnegie Mellon is putting computer science courses on YouTube for free](https://www.cs.cmu.edu/learn/)
-**Score:** 2091 | **By:** pcompeau | [Comments](https://news.ycombinator.com/item?id=50522980)
+### 5. [U.S. AirForce is looking for old storage Media (CF or PC cards)](https://sam.gov/workspace/contract/opp/8948e8601e964c6aba9c801eee16b1be/view)
+**Score:** 50 | **By:** birdboat00 | [Comments](https://news.ycombinator.com/item?id=50547583)
 
-### 6. [NSA Internal Network Down](https://www.reuters.com/technology/highly-classified-us-national-security-communications-network-is-down-cnn-2026-11-17/)
-**Score:** 88 | **By:** nodoodles | [Comments](https://news.ycombinator.com/item?id=50533089)
+### 6. [Microsoft AI: Seven new world-class models at scalable price-performance](https://microsoft.ai/news/microsoft-ignite-2026/)
+**Score:** 31 | **By:** gmays | [Comments](https://news.ycombinator.com/item?id=50548021)
 
-### 7. [VisualBasic.World: A gallery of Planet Source Code programs from 1997 to 2012](https://visualbasic.world/)
-**Score:** 167 | **By:** broast | [Comments](https://news.ycombinator.com/item?id=50511874)
+### 7. [CVE-2026-99312: KVM Guest-to-Host Escape](https://www.terra.security/blog/kvm-guest-to-host-escape)
+**Score:** 18 | **By:** Kozmik1 | [Comments](https://news.ycombinator.com/item?id=50548004)
 
-### 8. [Optimizely compromised, served malware on Zoom, GitLab](https://blog.report-uri.com/worlds-largest-brands-infected-with-malware-via-optimizely/)
-**Score:** 568 | **By:** kristjansson | [Comments](https://news.ycombinator.com/item?id=50524767)
+### 8. [Show HN: Take Voyager 1 apart, down to a single memory chip](https://rshekhar.com/voyager/)
+**Score:** 9 | **By:** raj-shekhar | [Comments](https://news.ycombinator.com/item?id=50548161)
 
-### 9. [Rows vs. Columns: How different are they, really?](https://spiraldb.com/blog/rows-vs-columns)
-**Score:** 107 | **By:** eatonphil | [Comments](https://news.ycombinator.com/item?id=50470523)
+### 9. [The x86 CPU: From 4004 to 486](https://pikuma.com/blog/history-of-x86-4004-to-486)
+**Score:** 37 | **By:** ibobev | [Comments](https://news.ycombinator.com/item?id=50546967)
+
+### 10. [Energy-Based Reasoners: 385x more efficient inference](https://energy-based-reasoners.github.io/)
+**Score:** 241 | **By:** frenchmajesty | [Comments](https://news.ycombinator.com/item?id=50543989)
 
