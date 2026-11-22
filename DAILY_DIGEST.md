@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-21
+**Generated on:** 2026-11-22
 
-### 1. [Lean Verification of the Riemann Hypothesis - Joint statement by...](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
-**Score:** 104 | **By:** g-b-r | [Comments](https://news.ycombinator.com/item?id=50589618)
+### 1. [Toyota, Nissan, and Honda to standardize parts to lower costs](https://www.caranddriver.com/news/a74490092/toyota-nissan-honda-standardize-parts-lower-costs/)
+**Score:** 855 | **By:** zdw | [Comments](https://news.ycombinator.com/item?id=50596133)
 
-### 2. [Derek Lowe: Detonating a Pile of Lead Azide](https://www.science.org/content/blog-post/detonating-huge-pile-lead-azide-really)
-**Score:** 167 | **By:** beginning_end | [Comments](https://news.ycombinator.com/item?id=50588982)
+### 2. [Show HN: I built a game where you are an LLM's subagent](https://github.com/gulivan/worker755)
+**Score:** 60 | **By:** ivantgam | [Comments](https://news.ycombinator.com/item?id=50599762)
 
-### 3. [Brazil's tax authority open-sources its tax calculator on GitHub under MIT](https://www.gov.br/receitafederal/pt-br/assuntos/noticias/2026/novembro/receita-federal-publica-primeiro-codigo-fonte-aberto-no-github-e-amplia-transparencia-da-reforma-tributaria)
-**Score:** 343 | **By:** dvaplima | [Comments](https://news.ycombinator.com/item?id=50532613)
+### 3. [A real Linux kernel, compiled to WebAssembly](https://github.com/pithings/unkernel)
+**Score:** 194 | **By:** DonAtimator | [Comments](https://news.ycombinator.com/item?id=50533945)
 
-### 4. [My Monitor Was Cutting My Download Speed by 75%](https://blog.tymscar.com/posts/studiodisplayethernet/)
-**Score:** 183 | **By:** soheilpro | [Comments](https://news.ycombinator.com/item?id=50587875)
+### 4. [Pill to treat pancreatic cancer hailed as 'biggest breakthrough in decades'](https://www.theguardian.com/society/2026/nov/20/pill-pancreatic-cancer-breakthrough-daraxonrasib)
+**Score:** 1201 | **By:** rafaelc | [Comments](https://news.ycombinator.com/item?id=50582069)
 
-### 5. [Hurried Announcement: Alessandro Masullo GRH](https://math216.wordpress.com/2026/11/20/hurried-announcement-alessandro-masullo-grh/)
-**Score:** 2269 | **By:** jasondavies | [Comments](https://news.ycombinator.com/item?id=50579568)
+### 5. [Lean verification of the Riemann Hypothesis](https://leanprover-community.github.io/blog/posts/riemann-hypothesis/)
+**Score:** 1144 | **By:** g-b-r | [Comments](https://news.ycombinator.com/item?id=50589618)
 
-### 6. [Levent Alpöge claims proof of the Generalized Riemann Hypothesis [pdf]](https://alpo.ge/remark.pdf)
-**Score:** 2776 | **By:** iamronaldo | [Comments](https://news.ycombinator.com/item?id=50574968)
+### 6. [A Better Vocabulary for Testing](https://alperenkeles.com/posts/vocab-for-testing/)
+**Score:** 9 | **By:** alpaylan | [Comments](https://news.ycombinator.com/item?id=50594182)
 
-### 7. [RCE in Gnupg](https://lists.gnupg.org/pipermail/gnupg-announce/2026q4/000517.html)
-**Score:** 135 | **By:** gdgghhhhh | [Comments](https://news.ycombinator.com/item?id=50587208)
+### 7. [Self-hosted library branch over public web OPDS](https://joinmayberry.com/)
+**Score:** 65 | **By:** philips | [Comments](https://news.ycombinator.com/item?id=50566495)
 
-### 8. [I'm quite pleased by the tech architecture of my art website](https://klauria.tech/klauria-art/)
-**Score:** 15 | **By:** evakhoury | [Comments](https://news.ycombinator.com/item?id=50577991)
+### 8. [Sandwich Simulator](https://stulle.app/)
+**Score:** 413 | **By:** subdomain | [Comments](https://news.ycombinator.com/item?id=50594911)
 
-### 9. [Inkling 2 Mini](https://thinkingmachines.ai/news/inkling-2-mini/)
-**Score:** 1171 | **By:** jasondavies | [Comments](https://news.ycombinator.com/item?id=50581260)
+### 9. [U.N. Climate Talks Collapse in a Bitter Clash over Fossil Fuels](https://www.nytimes.com/2026/11/22/climate/cop31-climate-summit-ends-climate.html)
+**Score:** 38 | **By:** neom | [Comments](https://news.ycombinator.com/item?id=50599583)
 
-### 10. [LLMs can read and write executables byte by byte from a hex dump](https://sgiannopoulos.github.io/blog/machine-code-programming/)
-**Score:** 62 | **By:** fortran77 | [Comments](https://news.ycombinator.com/item?id=50546587)
+### 10. [Muru – AI-assisted Rust server for Python apps by mod_WSGI's creator](https://simonwillison.net/2026/Nov/21/muru/)
+**Score:** 35 | **By:** joshcsimmons | [Comments](https://news.ycombinator.com/item?id=50597959)
 
