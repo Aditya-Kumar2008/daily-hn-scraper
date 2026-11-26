@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-25
+**Generated on:** 2026-11-26
 
-### 1. [A few questions for the guy who went snorkeling in a Home Depot retention pond](https://www.vox.com/down-to-earth/511999/home-depot-retention-pond-snorkel-joseph-ricketts)
-**Score:** 293 | **By:** gumby | [Comments](https://news.ycombinator.com/item?id=50643129)
+### 1. [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
+**Score:** 59 | **By:** julianlam | [Comments](https://news.ycombinator.com/item?id=50657265)
 
-### 2. [Investigating degraded experiences across GitHub products](https://www.githubstatus.com/incidents/qn8mfv6q5hlx)
-**Score:** 144 | **By:** pinjasaur | [Comments](https://news.ycombinator.com/item?id=50643720)
+### 2. [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
+**Score:** 54 | **By:** spoofyroot | [Comments](https://news.ycombinator.com/item?id=50657307)
 
-### 3. [1Password Security Incident](https://1password.com/blog/update-on-nov-2026-security-incident)
-**Score:** 173 | **By:** lxhrstn | [Comments](https://news.ycombinator.com/item?id=50644817)
+### 3. [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
+**Score:** 75 | **By:** sameverett | [Comments](https://news.ycombinator.com/item?id=50657059)
 
-### 4. [Google releases Cogentic papers on integer factorization, discrete logs and more](https://github.com/google-research/google-research/tree/master/cogentic_research_papers)
-**Score:** 309 | **By:** rgwohlbold | [Comments](https://news.ycombinator.com/item?id=50642086)
+### 4. [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
+**Score:** 19 | **By:** iantongeorge | [Comments](https://news.ycombinator.com/item?id=50657530)
 
-### 5. [Windows Loudness Equalization, reverse-engineered and ported to PipeWire](https://github.com/xoxorwr/pw-loudness-eq)
-**Score:** 247 | **By:** ThrowNotAway | [Comments](https://news.ycombinator.com/item?id=50641171)
+### 5. [Intel One Mono font](https://github.com/intel/intel-one-mono)
+**Score:** 358 | **By:** saikatsg | [Comments](https://news.ycombinator.com/item?id=50653667)
 
-### 6. [Predicting LoRA size for any dataset](https://engram.com/blog/lora-size)
-**Score:** 50 | **By:** jxmorris12 | [Comments](https://news.ycombinator.com/item?id=50635783)
+### 6. [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
+**Score:** 46 | **By:** michidk | [Comments](https://news.ycombinator.com/item?id=50656036)
 
-### 7. [I checked Clojure's core with Lean and found unreported bugs](https://s.conao3.com/blog/2026/e4f733)
-**Score:** 63 | **By:** encyclopedism | [Comments](https://news.ycombinator.com/item?id=50642939)
+### 7. [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
+**Score:** 73 | **By:** Petiver | [Comments](https://news.ycombinator.com/item?id=50636931)
 
-### 8. [How Can Anything Beat n log n?](https://iahmed.me/post/nlogn/)
-**Score:** 5 | **By:** hazrmard | [Comments](https://news.ycombinator.com/item?id=50645195)
+### 8. [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
+**Score:** 395 | **By:** ericmay | [Comments](https://news.ycombinator.com/item?id=50655664)
 
-### 9. [Button Sounds – collection of professionally-recorded button clicks and presses](https://buttons.joshwcomeau.com/)
-**Score:** 737 | **By:** gaurang_tandon | [Comments](https://news.ycombinator.com/item?id=50638032)
+### 9. [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
+**Score:** 347 | **By:** e12e | [Comments](https://news.ycombinator.com/item?id=50654289)
 
-### 10. [The matrix multiplication exponent is nine fourths [pdf]](https://github.com/openai/math/blob/main/preprints/The-matrix-multiplication-exponent-is-nine-fourths-November-24-2026/paper.pdf)
-**Score:** 908 | **By:** E-Reverance | [Comments](https://news.ycombinator.com/item?id=50637220)
+### 10. [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
+**Score:** 3 | **By:** Bender | [Comments](https://news.ycombinator.com/item?id=50657645)
 
