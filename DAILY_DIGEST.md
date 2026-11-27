@@ -1,34 +1,34 @@
 # Hacker News Daily Digest
 
-**Generated on:** 2026-11-26
+**Generated on:** 2026-11-27
 
-### 1. [AMD Specific Patches for Llama.cpp](https://devnull.land/amd-specific-llama-cpp)
-**Score:** 59 | **By:** julianlam | [Comments](https://news.ycombinator.com/item?id=50657265)
+### 1. [Show HN: bouncemarket – a live prediction market game for a bouncing ball](https://bouncemarket.minhanhday.com/)
+**Score:** 216 | **By:** mday404 | [Comments](https://news.ycombinator.com/item?id=50667726)
 
-### 2. [Tracking Diseases Cured by AI](https://diseasescuredbyai.com/)
-**Score:** 54 | **By:** spoofyroot | [Comments](https://news.ycombinator.com/item?id=50657307)
+### 2. [Credit card skimming scripts using WebRTC found on popular shopping sites](https://www.infohawk.com/news/2026-11-27-black-friday-webrtc-skimmer)
+**Score:** 102 | **By:** scanr | [Comments](https://news.ycombinator.com/item?id=50668145)
 
-### 3. [NP_R ≠ PAR_R](https://github.com/samueleverett01/bss-permanent-separations)
-**Score:** 75 | **By:** sameverett | [Comments](https://news.ycombinator.com/item?id=50657059)
+### 3. [First images of the impact of DART asteroid deflection experiment](https://arstechnica.com/space/2026/11/europes-hera-mission-returns-to-the-chaotic-scene-of-a-cosmic-smashup/)
+**Score:** 113 | **By:** Bender | [Comments](https://news.ycombinator.com/item?id=50657392)
 
-### 4. [YouTube Ad Punisher – Bypass anti-adblock](https://github.com/antonpictures/youtube-punisher)
-**Score:** 19 | **By:** iantongeorge | [Comments](https://news.ycombinator.com/item?id=50657530)
+### 4. [False computer-checked proofs](https://cr.yp.to/proofs/falseccp.html)
+**Score:** 68 | **By:** _tk_ | [Comments](https://news.ycombinator.com/item?id=50667989)
 
-### 5. [Intel One Mono font](https://github.com/intel/intel-one-mono)
-**Score:** 358 | **By:** saikatsg | [Comments](https://news.ycombinator.com/item?id=50653667)
+### 5. [Group chat where your AI talks behind your back](https://construct22.com/)
+**Score:** 574 | **By:** utiiiD | [Comments](https://news.ycombinator.com/item?id=50663595)
 
-### 6. [Show HN: Three Linux VMs in a browser tab, each running a different browser](https://michidk.github.io/sidebyside/)
-**Score:** 46 | **By:** michidk | [Comments](https://news.ycombinator.com/item?id=50656036)
+### 6. [AI made self-hosting fun again](https://janlukas.blog/posts/ai-self-hosting)
+**Score:** 984 | **By:** jlelse | [Comments](https://news.ycombinator.com/item?id=50660180)
 
-### 7. [Curiosity Is No Solo Act](https://thereader.mitpress.mit.edu/curiosity-is-no-solo-act/)
-**Score:** 73 | **By:** Petiver | [Comments](https://news.ycombinator.com/item?id=50636931)
+### 7. [A Deterministic Subexponential-Time Algorithm for the Discrete Logarithm Problem [pdf]](https://eprint.iacr.org/2026/3020.pdf)
+**Score:** 179 | **By:** yuvadam | [Comments](https://news.ycombinator.com/item?id=50665968)
 
-### 8. [Tell HN: Happy Thanksgiving](https://news.ycombinator.com/item?id=50655664)
-**Score:** 395 | **By:** ericmay | [Comments](https://news.ycombinator.com/item?id=50655664)
+### 8. [US Air Force's cloud computing platform hacked](https://news.sky.com/story/us-air-forces-cloud-computing-platform-hacked-13617163)
+**Score:** 210 | **By:** freakynit | [Comments](https://news.ycombinator.com/item?id=50666375)
 
-### 9. [Nextcloud Office Desktop app](https://nextcloud.com/blog/euro-office-comes-to-your-desktop-with-the-nextcloud-office-desktop-app/)
-**Score:** 347 | **By:** e12e | [Comments](https://news.ycombinator.com/item?id=50654289)
+### 9. [Kimi for Science: More scientific ideas, made possible](https://www.kimi.ai/news/kimi-for-science-program)
+**Score:** 144 | **By:** theanonymousone | [Comments](https://news.ycombinator.com/item?id=50665920)
 
-### 10. [CTO of 'RansomwareHelp' Indicted for Wire Fraud](https://krebsonsecurity.com/2026/11/cto-of-ransomwarehelp-indicted-for-wire-fraud/)
-**Score:** 3 | **By:** Bender | [Comments](https://news.ycombinator.com/item?id=50657645)
+### 10. [Making a 3D fantasy map like a 16th-Century atlas](https://www.spritefusion.com/blog/making-a-fantasy-map-like-a-16th-century-atlas)
+**Score:** 25 | **By:** HugoDz | [Comments](https://news.ycombinator.com/item?id=50667062)
 
